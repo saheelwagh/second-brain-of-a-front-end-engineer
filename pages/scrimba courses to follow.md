@@ -1,0 +1,22 @@
+- role playing game part 1 -> array map and fill
+- api module
+- flex and fetch
+- grid and fetch
+- react parts
+  collapsed:: true
+	- cra and stylles and images
+	- mental outline of project and figma walkthrough
+	- notes app project
+	- advanced react part
+	-
+- css
+  collapsed:: true
+	- grid and flex mastery
+	- animations
+	- tailwind
+	-
+- typescript
+- tailwind
+	- no components -> easier to create custom looks
+	- looks messy but easy to parse look from the code
+	-

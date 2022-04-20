@@ -1,0 +1,5 @@
+- fear
+- results
+- expectations
+- desires
+- Who are my freds ?

@@ -1,0 +1,16 @@
+- By Paul J. Meyer
+- Your goal should be specific
+	- what
+	- who
+	- why
+	- where
+	- which
+- Measurable
+	- should be trackable to motivate
+- Achievable
+	- [[godlilocks zone]]
+- Results focused
+	- measure outcomes, not activities
+		- this is the [[goals vs systems]] question.
+			- in which areas do you track outcomes and in which activities ? how to make them overlap ?
+			-

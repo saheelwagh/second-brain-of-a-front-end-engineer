@@ -1,0 +1,37 @@
+- ![Focus-Workbook.pdf](../assets/Focus-Workbook_1650353112618_0.pdf)
+- Gratitude and input influence
+  collapsed:: true
+	- 5 people I am grateful to have in my life
+	- 5 mentors I'd like to have in my life & One thing would learn from them
+		- project managing mentor
+		- running a business mentor
+		- Writing mentor
+		- design mentor
+		- living life mentor
+	- How I plan to feed my mind
+		- professional pursuits
+		- hobbies
+		- breaks and activities
+- time awareness
+  collapsed:: true
+	- record a typical day in 15 min  increments
+	  collapsed:: true
+		- my thoughts : 15 mins is too specific if you have very less going on currently. 3 hours is a good aprroximation to start with
+		- second such time sheet for weekends
+		-
+		- sleep, eat, relax.work.play.rel.housework.learn.self reflection, exercise
+		-
+	- what adjustments would you make based on the recording ?
+	- what radical changes in weekends ?
+	- Which 3 categories spending most time in ? Contributing towards your goals ?
+	- what needs to be eliminated , automated or delegated to manufacture extra time ?
+	-
+- goal setting
+	- [[S.M.A.R.T goals]]
+	- one year goal ? -> q1 till q4 stages ?
+		- who accountability buddies ?
+		- q1 goals
+			- what do you need to do for first 30 days ?
+			- second 30 ?
+			- last 30 ?
+			- this week ?

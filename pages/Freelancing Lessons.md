@@ -1,0 +1,12 @@
+- You need proper defn of roles and sep of concerns
+  collapsed:: true
+	- designer
+	- negotiator
+	- coder
+	-
+- Needs to have an emotional stability and [[Emotional Quotient]]
+- Perhaps the peak form of self improvement
+- Probably better to go full on instead of just trying out for its sake
+- [[Checkpoint Process for product development]]
+-
+-

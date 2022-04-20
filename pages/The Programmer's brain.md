@@ -1,0 +1,26 @@
+- ![The Programmers Brain What every programmer needs to know about cognition by Felienne Hermans (z-lib.org).pdf](../assets/The_Programmers_Brain_What_every_programmer_needs_to_know_about_cognition_by_Felienne_Hermans_(z-lib.org)_1649481271237_0.pdf)
+- what every programmer needs to know about cognition
+- why read
+  collapsed:: true
+	- I’ve  spent  a  lot  of  my  life  thinking  about  programming,  and  if  you’re  reading  this book  you  probably  have  too.  I  haven’t  spent  nearly  as  much  time  thinking  about thinking,  though.
+	-
+- 13 chapters 4 parts. 
+  collapsed:: true
+	- read in order
+	- 1 -> 3 cog processes that play a role when prog. Confusion related to each
+	- 2 -> how to quickly read code and get a sense of its working
+	- 3 -> how to learn syntax and  concepts faster
+	- 4 -> read complex code
+	- 5 -> reach deeper understanding of unfamiliar code
+	- 6 -> solving prog problems
+	- 7 -> avoid bugs in thinking and code
+	- 8 -> var names
+	- 9 -> code smells
+	- 10 -> advanced topics to
+	- 11 -> variert of tasks in prog
+	- 12 -> ways to improve large code base
+	- 13 -> onboarding of new devs
+- [[Part 1 Reading code better]]
+- [[Part 2 Thinking about code]]
+-
+-
