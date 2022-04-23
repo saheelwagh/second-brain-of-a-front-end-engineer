@@ -1,0 +1,5 @@
+- [[flashcards]]
+- good times to use  flash card while learning programming
+	- each time you encounter a new concept
+	- when about to google  a concept
+	-

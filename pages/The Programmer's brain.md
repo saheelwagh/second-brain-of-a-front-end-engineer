@@ -22,5 +22,6 @@
 	- 13 -> onboarding of new devs
 - [[Part 1 Reading code better]]
 - [[Part 2 Thinking about code]]
+- [[Part 3 How to learn syntax quickly]]
 -
 -

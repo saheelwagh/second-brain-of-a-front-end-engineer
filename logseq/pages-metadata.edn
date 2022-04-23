@@ -19,6 +19,12 @@
  {:block/name "apr 20th, 2022",
   :block/created-at 1650442039938,
   :block/updated-at 1650442039938}
+ {:block/name "apr 21st, 2022",
+  :block/created-at 1650524748092,
+  :block/updated-at 1650524748092}
+ {:block/name "apr 22nd, 2022",
+  :block/created-at 1650603177632,
+  :block/updated-at 1650603177632}
  {:block/name "apr 8th, 2022",
   :block/created-at 1649392592132,
   :block/updated-at 1649424204739}
@@ -88,6 +94,12 @@
  {:block/name "femke.design",
   :block/created-at 1649393466437,
   :block/updated-at 1649393466437}
+ {:block/name "flashcards",
+  :block/created-at 1650525243891,
+  :block/updated-at 1650525261391}
+ {:block/name "flashcards in programming",
+  :block/created-at 1650525261386,
+  :block/updated-at 1650525433475}
  {:block/name "framer",
   :block/created-at 1650353063446,
   :block/updated-at 1650353063446}
@@ -111,6 +123,9 @@
   "hls__the_programmers_brain_what_every_programmer_needs_to_know_about_cognition_by_felienne_hermans_(z-lib.org)_1649481271237_0",
   :block/created-at 1649481520911,
   :block/updated-at 1649481520911}
+ {:block/name "how to remember syntax longer",
+  :block/created-at 1650526761620,
+  :block/updated-at 1650527337458}
  {:block/name "in-progress",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
@@ -135,6 +150,9 @@
  {:block/name "part 2 thinking about code",
   :block/created-at 1650353066068,
   :block/updated-at 1650353066068}
+ {:block/name "part 3 how to learn syntax quickly",
+  :block/created-at 1650524843519,
+  :block/updated-at 1650528223404}
  {:block/name "pqr2",
   :block/created-at 1650353065055,
   :block/updated-at 1650353065055}
@@ -150,6 +168,9 @@
  {:block/name "scientific advertising",
   :block/created-at 1650353065047,
   :block/updated-at 1650353065047}
+ {:block/name "scrimba courses to follow",
+  :block/created-at 1650524748351,
+  :block/updated-at 1650524748351}
  {:block/name "ship30for30",
   :block/created-at 1650353064543,
   :block/updated-at 1650353064543}
@@ -161,13 +182,16 @@
   :block/updated-at 1650355065606}
  {:block/name "the programmer's brain",
   :block/created-at 1649481245266,
-  :block/updated-at 1649481966884}
+  :block/updated-at 1650524843532}
  {:block/name "thinkist app",
   :block/created-at 1650353065259,
   :block/updated-at 1650353065259}
  {:block/name "todo",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "typescript",
+  :block/created-at 1650528223402,
+  :block/updated-at 1650528223402}
  {:block/name "urgent optimism",
   :block/created-at 1650353065262,
   :block/updated-at 1650353065262}

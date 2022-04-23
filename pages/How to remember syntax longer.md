@@ -1,0 +1,13 @@
+- [[The Programmer's brain]]
+- [[Part 3 How to learn syntax quickly]]
+- retrieval practice and elaboration
+	- storage strength refers to how well something is stored in ltm
+	- retrieval strength refers to how easy it is to remember something
+- what concept does this new concept make you think of ? list all related concepts
+- what syntax is shared  with some concept ?
+- used in a similar context ?
+- this new concept is an alternative to what I already know ?
+- what other ways do you know to write code to achieve the same goal ?
+- Do other prog langs have this concept ?
+- does this concept fir a certain paradigm, domain. library or framework ?
+-
