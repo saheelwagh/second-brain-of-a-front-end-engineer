@@ -1,0 +1,46 @@
+- ![Senior Engineer Mindset (Swizec Teller) (z-lib.org).pdf](../assets/Senior_Engineer_Mindset_(Swizec_Teller)_(z-lib.org)_1651215668877_0.pdf)
+- Why senior devs get nothing done
+  collapsed:: true
+	- start of job -> sheer amnt of thins to learn was overwhelming, cal is free
+	- a good manager will put you on one long project. It is the best way to learn
+	- senior devs -> schedule punctured with ultiple responsibilties
+		- to fix
+			- utilise timeboxing
+			- optimize (re read)
+	-
+	-
+- so how do you become a senior engineer ?
+  collapsed:: true
+	- own the process
+		- be the PM u want to see in the world
+		- ask many questions until you are sure you understand both the spec and its spirit
+	- certainty makes thew difference
+		- u gon be done tom ? -> no, here's why
+		-
+- Your career needs a vision
+  collapsed:: true
+	- The Art of Science and Engineering, Richard Hamming says the key to a great career is vision.
+		- even a small push or pull of 10% can make a huge diff
+	- working in your careeer vs on it
+	- what a hockey legend can teach you about career dev
+		- engineering growth club -> weekly get together. Why not explore places together ?
+		- wayne gretzky
+			- skate to where the puck is going to be. Not to where it has been
+				- so how do you choose from a sea of options
+					- everything develops around its edges
+					- look around and id the tallest peak
+						- go for it till you hit the plateau
+							- from there u have a better view, spot the next peak
+								- article on visualising this asw m y map draft
+		-
+	-
+- how to grow your career
+	- agency -> all projects are similar
+	- 3 ways
+		- mgmt
+		- entrepreneur / consultant
+		- bigger company with bigger problems
+		- new stack
+			- in adjacent fields where you can augment your skills
+			-
+	-

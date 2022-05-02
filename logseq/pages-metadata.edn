@@ -25,6 +25,21 @@
  {:block/name "apr 22nd, 2022",
   :block/created-at 1650603177632,
   :block/updated-at 1650603177632}
+ {:block/name "apr 23rd, 2022",
+  :block/created-at 1651160812320,
+  :block/updated-at 1651160812320}
+ {:block/name "apr 25th, 2022",
+  :block/created-at 1651160812533,
+  :block/updated-at 1651160812533}
+ {:block/name "apr 27th, 2022",
+  :block/created-at 1651160812759,
+  :block/updated-at 1651160812759}
+ {:block/name "apr 28th, 2022",
+  :block/created-at 1651160811839,
+  :block/updated-at 1651160811839}
+ {:block/name "apr 29th, 2022",
+  :block/created-at 1651207115076,
+  :block/updated-at 1651215658386}
  {:block/name "apr 8th, 2022",
   :block/created-at 1649392592132,
   :block/updated-at 1649424204739}
@@ -132,6 +147,12 @@
  {:block/name "later",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "may 1st, 2022",
+  :block/created-at 1651395739432,
+  :block/updated-at 1651395739432}
+ {:block/name "modern css with tailwind",
+  :block/created-at 1651160812756,
+  :block/updated-at 1651160812756}
  {:block/name "my current projects",
   :block/created-at 1649404482860,
   :block/updated-at 1649404482860}
@@ -174,15 +195,24 @@
  {:block/name "ship30for30",
   :block/created-at 1650353064543,
   :block/updated-at 1650353064543}
+ {:block/name "tailwind css",
+  :block/created-at 1651160812104,
+  :block/updated-at 1651160812104}
  {:block/name "the decision book",
   :block/created-at 1649397909732,
   :block/updated-at 1649404498531}
+ {:block/name "the developer's code. what real programmers do",
+  :block/created-at 1651160812754,
+  :block/updated-at 1651164060095}
  {:block/name "the futur focus building worksheet",
   :block/created-at 1650353093090,
   :block/updated-at 1650355065606}
  {:block/name "the programmer's brain",
   :block/created-at 1649481245266,
   :block/updated-at 1650524843532}
+ {:block/name "the senior mindset",
+  :block/created-at 1651215657596,
+  :block/updated-at 1651219035719}
  {:block/name "thinkist app",
   :block/created-at 1650353065259,
   :block/updated-at 1650353065259}
@@ -202,5 +232,8 @@
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
  {:block/name "webflow",
-  :block/created-at 1650353064516, 
-  :block/updated-at 1650353064516}]
+  :block/created-at 1650353064516,
+  :block/updated-at 1650353064516}
+ {:block/name "writing down the bones",
+  :block/created-at 1651160813409, 
+  :block/updated-at 1651160813409}]

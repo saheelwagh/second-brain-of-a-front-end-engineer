@@ -26,6 +26,7 @@
 			- reverses over time
 		-
 - [why u shd use tailwind for next project](https://dev.to/joserfelix/why-use-tailwind-css-for-your-next-project-39hp)
+  collapsed:: true
 	- I started with CSS, moved to SCSS, and then moved to Styled Components. Throughout my journey, I had a lot of great experiences with each technology, however, none brought me the satisfaction and productivity boost that Tailwind has.
 	- Styled Components is my go-to whenever I cannot use Tailwind in a project. It is such an amazing library since it allows me to have all my styles exactly where they need to be used. Also, it makes the app use only the styles it needs, instead of importing all styles on each page
 	  collapsed:: true
@@ -62,3 +63,7 @@
 	- Another weakness is the need to learn an opinionated naming convention. This is a double-edged sword. On one hand, having opinionated styles means once learned, knowledge is transferable between projects and productivity greatly increases. On the other hand, one has to dedicate time to learn all nuances and how it works before being able to create something useful.
 		- n my opinion, if one knows CSS, the Tailwind naming convention will be very easy to learn since its class names are very similar to plain CSS. Also, their proprietary extension provides autocomplete so that developers can ease in when learning or remembering class names.
 		-
+- Tailwind map from api docs
+	- ideally , you should start by veiwing a roadmap when learning new
+		- not exitst _> u r a dev. build
+		- docs always apply
