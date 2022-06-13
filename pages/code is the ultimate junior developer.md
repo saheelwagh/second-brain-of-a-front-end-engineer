@@ -1,0 +1,6 @@
+- copy gAUSS STORY - > 101 * 50
+- code solves diff problems than humans
+	- brute force, algo , rules based
+- code does not get bored
+- code is cheap
+-

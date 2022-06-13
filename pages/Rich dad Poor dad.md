@@ -1,0 +1,15 @@
+- help you develop the mindset and financial knowledge you need to build a life of wealth and freedom
+- many of us are too afraid of being branded as a weirdo, in order to exit the rat race. We let the two main emotions everyone has around money dominate our decisions: fear and greed
+- a wise choice would be to invest the extra money. Put it into something that builds wealth like stocks or bonds, which has risk, but a lot of potential.
+	- fear of losing it all prevents you
+	- greed -> on improved  lifestyle
+- The only way for you to counteract this is to start now. Today is the youngest you’ll ever be, so take a close look at what you can and can’t afford. This way you’ll be able to set realistic financial goals,
+- Next, adopt the mindset of “work to learn” instead of “work to earn”. Take a job in a field you have no clue about, such as sales, customer service or communications, to develop new skills – you never know what they might be good for.
+- Set aside 5% of your income each month to buy books, courses and attend seminars on personal finance to start building your financial IQ.
+- The first step toward building wealth lies in the mindset of managing risks instead of avoiding them. Also, learn about investments to understand that it’s better to not play it safe because you’ll miss big potential rewards. Don’t start big, just set aside a small amount, like $1,000 or even $100, and invest it in stocks, bonds, or even tax lien certificates. Treat the money as if it’s gone forever and you’ll worry less about losing it
+- Another idea is to pay yourself first each month. Take the portion of your salary you want to spend on stocks or your financial education, invest it, and pay your bills afterward. It’ll create pressure to be creative in making money and show you what you can afford.
+- Use your money to acquire assets instead of liabilities. Assets are stocks, bonds, real estate that you rent out, royalties (for example from music) and anything that generates money and increases in value over time. Liabilities can be cars with monthly payments, a house with a mortgage, and of course debt.  Anything that takes money out of your pocket each month is a liability.
+- There’s no rush. Just stay at your full time job and “mind your own business”. In this case, your job is what pays the bills and your business is what makes you wealthy.
+- Build your business on the side and use it to invest in assets until your assets eventually become the main source of your income. You can even file a corporation to be taxed only after you’ve earned and invested, instead of being taxed before investing as an employee and trying to live off what’s left.
+- The most important thing is that you start today. You are your own biggest asset, so the first thing you should put some money into is yourself.
+-

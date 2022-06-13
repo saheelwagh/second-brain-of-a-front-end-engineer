@@ -1,0 +1,16 @@
+- [[Thequizlabs project home]]
+- [[Leo Enterprises project home]]
+- [[Fitness factory project home]]
+- design form for two
+	- hand off development of one #[[Leo Enterprises project home]]
+	- extract higher order concepts and write article on best practices
+- Perform a sprint on design and development of testimonials
+	- learn best practices
+	- assemble required info and resources
+	- work individually on 3 projects
+	- [[testimonials sprint]]
+	-
+- Navbar design finalised for all 3 alongside the site archiutecture. have this ready in knowledge hub available for reference.
+- mobile responsiveness framework
+- animations knowledge
+-

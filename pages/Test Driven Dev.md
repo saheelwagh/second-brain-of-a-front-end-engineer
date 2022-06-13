@@ -1,0 +1,5 @@
+- philosophy
+- write failing test and then implement code to make test succed
+- refactor
+- thsi course does not cover it
+-

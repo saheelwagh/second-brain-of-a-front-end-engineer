@@ -1,0 +1,2 @@
+- eliminate all todo items and only keep the essential. Keep the list super clean
+-

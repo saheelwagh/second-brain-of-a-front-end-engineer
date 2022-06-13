@@ -1,0 +1,23 @@
+- goal -> 3 lakh => better invested as lump sum ? or invest in agency ?
+- skills from scrimba
+	- starting to thik resposively (one session)
+	- next level js -> kata
+	- async js -> asap 3hrs
+	- flexbox and grid full section 4 hrs
+	- react
+	  collapsed:: true
+		- build airbnb clone  project
+		- **meme generator project** 6 hours ?
+	- advanced react
+	  collapsed:: true
+		- class 1 hr
+		- code reuse 2hr
+		- context 1 hr
+		- hooks 2 hr
+		- router 1hr
+		-
+- think in react
+- [[Testing course]]
+- [[Ultralearning Design]]
+-
+-

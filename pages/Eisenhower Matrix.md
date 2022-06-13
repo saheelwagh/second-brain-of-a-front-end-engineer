@@ -1,0 +1,5 @@
+- divide task along scales of urgency and importance
+- set aside most prod 2-4 hours for mVW. Time block it
+- give deadline to important tasks]
+-
+-

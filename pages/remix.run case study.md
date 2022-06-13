@@ -1,0 +1,24 @@
+- url : remix.run
+- mobile homepage
+  collapsed:: true
+	- ![image.png](../assets/image_1654067631316_0.png)
+- homepage desktop
+  collapsed:: true
+	- ![image.png](../assets/image_1654067590705_0.png)
+- components
+	- navbar
+		- white logo on dark bg is very prominent
+	- social proof
+	- nested routes demo
+	- remix vs others waterfall is a good viz
+	- say goodbye to spinnageddon -> good scroll effect
+	- parallax -> check out this section for mobile parallax implementation
+	- windows crash screen -> clever addition
+	-
+- colors
+	- multiple colors used like inside a dark theme code editor
+	- color highlights like syntax highlight
+- typogrpahy
+	- what font ?
+	- text focused -> target are devs who like to read
+	-

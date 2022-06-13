@@ -1,0 +1,8 @@
+- https://www.dubsado.com/industry/web-graphic-designers
+- use case -> tailored to client type
+- stepwise explaination
+	- "Leads fill out an inquiry form on my site which then gets them set up with some basic info in Dubsado. I styled this form using code blocks within Dubsado so that it matches the design of my site. If they sound like they could be a good fit for me, I send them a scheduler link and get a call set up with them. I love that I don't have to spend time manually inputting a lead's info into Dubsado and that getting set up for a consultation call is so quick and easy."
+	- "After our consultation call (assuming we're a good fit to work together), I send a branded proposal. This is one of my most favorite parts of the process because I have put a LOT of work into my proposals as it's one of the first (and most important) touchpoints a lead will have with my client experience. I love that I am able to set up a workflow that allows the client to accept the proposal, make the first payment according to the payment plan I set on the proposal, AND sign the contract- all without me having to do anything."
+	- "I love the client portal feature within Dubsado. It houses the client's proposal, contract and any questionnaires applied to their project, so they can refer back to this information at any point without me having to resend anything."
+	- "I apply a payment plan to the proposal that is based on percentages, so regardless of what a client chooses as part of their package and how that affects cost, the payments will be split up automatically in the way I want them to. My clients can pay through PayPal or Stripe, but all through a branded invoice. I love that Dubsado allows me to carry my branding throughout my entire process."
+	-

@@ -1,0 +1,3 @@
+- flux academy -> 15k 20th May
+- TBD -> 3k cash into bank account
+-

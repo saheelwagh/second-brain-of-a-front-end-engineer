@@ -1,0 +1,25 @@
+- testing -> verify as working
+- Manual -> tedious and cumbersome
+	- error prone
+- automated -> code that tests code
+	- initial setup effort
+	- predictable and inconsistent
+- unit testing : what and why
+	- unit -> building blocks of ur app. Atomic , component, fn
+	- tests for all units => all pass -> app shd run
+	- backed by integration text
+	- allows endless amn of manual tests
+	- allows close to full coverage
+	- forces to write cleaner and better code
+- integration and end to end
+  collapsed:: true
+	- test the combination of blocks
+	- e23 -> tests real user tasks
+	-
+	-
+- testing pyramid -> google img
+- [[Test Driven Dev]]
+- About this course
+	- setup ->testing-> good tests -> advanced testing concepts -> mocks and spies -> front end js tests
+	-
+	-

@@ -1,0 +1,6 @@
+- tendency to give stronger weight to payoffs that are closer to the present
+- how to tackle
+	- design and prime the env
+	- temptation bundling
+	- have to -> get to
+	-

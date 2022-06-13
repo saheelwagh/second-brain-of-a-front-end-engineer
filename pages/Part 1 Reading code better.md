@@ -1,11 +1,11 @@
 - Decoding confusion while reading code
-  collapsed:: true
 	- possible scenarios for confusion in  coding
 	  collapsed:: true
 		- new ideas or paradigms
 		- purpose behind existing code
 		- new terms and jargon in business
 	- Lack of knowledge
+	  collapsed:: true
 		- not knowing syntax #card
 		-
 	- **not enough relevant facts are present in your Long term memory**
@@ -51,7 +51,6 @@
 		-
 	-
 - Speed reading for code
-  collapsed:: true
 	- approx 60% of programmer's working life is spent in understanding code, not writing
 	- when we start learning coding the focus is on producing code
 	  collapsed:: true
@@ -89,6 +88,7 @@
 	- LATER do exercise from ch 2 of prog brain
 	-
 - how to read complex code
+  collapsed:: true
 	- stm -> remember
 	- working mem -> process
 	- sort loc by intrinsic and extraneus load

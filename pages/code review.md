@@ -1,0 +1,3 @@
+- validates that u are folloowing standard norms and practices for your team
+- great way to share knowledge and learn from others
+-

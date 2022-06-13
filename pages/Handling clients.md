@@ -1,0 +1,16 @@
+- The tough client is ubiquitous
+	- no one we work for cares about our code
+		- thus have no idea what code change involves
+- Demystify the black magic of software
+	- take clients inside the box. As early as possible
+	- step them through actual code if possible
+- define the goals of your application
+	- great clients put the application above themselves
+	- when app -> most imp part of the project, everything else falls into place
+		- base q -> does this make the app better ?
+	- establish the goals and decide together
+- be enthusiastic and opinionated
+	- don't create image of being a mechanic brought on to build the app
+	- be an artisan
+-
+-

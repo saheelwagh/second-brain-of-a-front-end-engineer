@@ -1,0 +1,2 @@
+- [[interfaces in typescript]]
+-

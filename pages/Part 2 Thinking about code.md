@@ -34,7 +34,6 @@
 		-
 - gaining a deeper knowledge of prgrams
 	- 2 diff levels at which programmer can understand code -> text structure knowledge and plan knowledge
-	  collapsed:: true
 		- surface level (what is ) vs deeper why this
 	- diff stages of prog und
 		- 1. focal point of ref or entry or loc of error

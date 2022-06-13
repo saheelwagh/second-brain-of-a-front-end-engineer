@@ -1,0 +1,5 @@
+- runs in editor
+- typos
+- incorrect fn calls,
+- autocompletion
+-

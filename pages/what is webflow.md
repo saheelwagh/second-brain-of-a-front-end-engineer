@@ -1,0 +1,6 @@
+- writes semantic code for you
+- also has cms
+- tesla of web design
+- mental model of sites in terms of div blocks
+- [[ My Web Development Stack]]
+-

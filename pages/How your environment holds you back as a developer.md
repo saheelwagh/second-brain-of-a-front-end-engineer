@@ -1,0 +1,9 @@
+- surround urself online with ppl who have positive attitude towards money. hang out with ambitious folks
+- upgrade your attitude
+	- u deserve more. realise just how valuable dev skills are
+- think about value. Offer value based pricing
+	- only work with people who can pay you the value that you  offer.
+- work remotely
+- evidence. Client testimonials -> blog -> twiiter
+	- decreasing value, icreasing freq
+	-

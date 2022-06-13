@@ -1,0 +1,3 @@
+- ## Freelance project tasks
+	- [[Static Site development tasks]]
+	-

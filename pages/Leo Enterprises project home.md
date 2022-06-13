@@ -1,0 +1,6 @@
+- Make a list of services
+- who are the target audience that can benefit ?
+- theme : green or blue pipes on red bg . red green and blue colors
+- list of content achievable without images
+- deeper dive into business goals and value gen
+-

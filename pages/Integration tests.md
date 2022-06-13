@@ -1,0 +1,2 @@
+- validates hat ur system works
+- may catch fun edge cases

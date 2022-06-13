@@ -1,0 +1,6 @@
+- start broad
+- can we get any referrals ?
+- linked in search as per niche
+- search industry directory
+- narrow down list to 20
+-

@@ -1,0 +1,7 @@
+- our tendency to prioritse urgent tasks over non urgent even when non urgent provide greater rewards
+- We will always have more tasks to complete than time to complete them. How do we decide what to prioritize? It turns out, not rationally at all.
+- This cognitive bias explains why, despite our best intentions, we get sucked into email and team chats at the expense of more impactful work. Responding to messages invariably feels urgent – there’s always someone waiting for a reply. In contrast, our most important goals are often far off. There are no immediate consequences to putting them off until tomorrow.
+- Interestingly, research shows that people who perceive themselves as being generally busy are even more likely to fall victim to the Mere Urgency Effect. That means those who feel like they have the least amount of time are the least likely to use it well.
+- how to tackle
+	- [[Eisenhower Matrix]]
+	-

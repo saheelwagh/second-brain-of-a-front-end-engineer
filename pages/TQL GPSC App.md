@@ -1,0 +1,33 @@
+- Flows
+	- Landing page to login
+		- By default I arrive at landing page
+		- I see button to login with google
+		- I click on the login button -> firbase handles the log in for me
+		- After logging in i arrive at my profile page
+	- Profile to test loading flow
+		- I see tests available to me at my profile page
+		- I click on a button to atttempt my desired test
+		- On clicking the button I am shown an instructions page. Meanwhile the test data is being fetched
+		- I see a button to proceed with the test or to return to profile page
+			- on pressing return I am taken back to profile page
+		- On clicking proceed I see the test screen
+	- Test taking flow
+		- Test screen has first question with timer started at 90
+		- There is an instruction button at top
+			- if clicked shows a modal with instruction
+		- There is a button to end the test at button
+			- if clicked takes me to test score page
+		- I see a question with question number prominently displayed
+		- I can select any of 4 options via radio button
+		- If radio button is selected I have the foll options
+			- Clear response -> button
+			- Save and next
+		- If not selected -> button reads just next
+		- Previous button -> allows me to load the previous screen
+		- If timer ends
+			- score saved and taken to score page
+		- If last question is reached
+			- review
+			- or submit
+			- view questions marked for review
+		-

@@ -1,0 +1,10 @@
+- Screen 1 -> log in and auth
+	- Navbar Component
+		- Centered logo
+		- color as per
+	- log in button
+		- google logo
+		- log in logic firebase
+		- routing ?
+- screen 2
+	- available test

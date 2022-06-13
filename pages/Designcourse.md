@@ -1,0 +1,6 @@
+- Navigation
+	- pattern -> logo left, nav right
+		- give bigger font size or illusion to logo
+		- mark active page
+		- no of els -> how much physical space available ?
+		-

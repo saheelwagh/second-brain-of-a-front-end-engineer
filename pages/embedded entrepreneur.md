@@ -1,0 +1,15 @@
+- ![The Embedded Entrepreneur by Arvid Kahl (z-lib.org).pdf](../assets/The_Embedded_Entrepreneur_by_Arvid_Kahl_(z-lib.org)_1653431329758_0.pdf)
+- How does it tie up with [[The Six figure freelancer book]] and  [[6 figure freelancer course]] ?
+- This is  not an idea book. This is  a  book for people who need actionable advice.
+- let me share the stories of those who have done it well and then equip you with the tools and strategies to build an audience-driven business.
+	- Paul Jarvis -> idea for simple and privacy focused analytics software
+		- tweeted a mockup image on twitter
+		- rt 500 times -> built fathom analytics
+- what you will learn in this book
+	- discover your future audience
+	- how to embed yourself in your audience communitites
+	- how to extract business oppos through obervation
+	- how to build a following that will grow your personal brand and professional brand
+- The audience driven approach
+	- core idea -> delay defining the idea and your product until after you have chosen and explored an audience for your business
+- [[Journey of building my agency or startup]]

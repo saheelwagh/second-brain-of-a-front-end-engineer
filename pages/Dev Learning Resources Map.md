@@ -1,0 +1,16 @@
+- **learn high level + config -> apply -> compare +  practice -> fix**
+- grid and fetch from scrimba
+	- grid and flex in depth
+	- fetch and async in depth
+- tailwind for styling
+	- scrimba course
+	- tailwind course
+- 2nd half of practical math for frontnend
+- css animations alongside webflow
+- clean code course daily practice
+	- same with unit tests
+- deep dive into functions
+- maps and objects
+- async js
+- state mgmt
+- webflow

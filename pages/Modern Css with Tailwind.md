@@ -4,7 +4,6 @@
 	- check out csszengarden.com
 	- but it is hard to debug, complicated to write and difficult to control
 - Why tailiwnd ?
-  collapsed:: true
 	- nearly all basic utility classes are thin wrapppers around a single css style settinh
 		- m-4 -> margin 1rem
 		- code is explicit. Possible to understand the display simply by looking at the HTML markup
@@ -25,8 +24,7 @@
 			- tradtitional methods leave in same loop
 			- felt like needed a steppping stone and a forcing function in the form of a new paradignm
 - Getting started with tailwind
-	- tailwind is a 
-	  collapsed:: true
+	- tailwind is a
 		- set of utility classess
 		- tool that generates css files
 	- thus we need to first install the framework itself and then patch it into our css processing tool chain
@@ -35,9 +33,9 @@
 		- it uses a HIT to detect and limit shipped css to used css
 		- cli is an interface to that engine
 		- u provide tailwind with a list of the files in your project that declare css classes.
+		  collapsed:: true
 			- tailwind scans those files for text patterns that match tailwind classes and then returns a css file having only those classes
 		- installation
-		  collapsed:: true
 			- via npm and a tainwindcofig filw
 			- u then specufy all files that might used a css class. this is the input for the css generator
 			- A standard React app might look like this, where Tailwind is directed to lookat all files in any subdirectory under src that end in html, js, or jsx.

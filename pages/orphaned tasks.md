@@ -1,0 +1,3 @@
+- These are tasks that continue to take up mental and physical space because they haven’t been tied up in the easiest possible form to be resumed later.
+- what is a list of my current orphan tasks ?
+-

@@ -1,0 +1,32 @@
+- Introduction
+  collapsed:: true
+	- time to let go of project ot project basis and instead aim for retainers and oppos to scale
+	- use side hustle as launch pad instead of jumping head first
+	- what to expect
+	  collapsed:: true
+		- mindset
+		- solo vs agency
+		- conect with right cli
+		- optimize business model
+		- scale
+	-
+- Your freelance launhpoint ch1
+  collapsed:: true
+	- 6 fig -> $8.5k pm
+		- how much money gen last year ?
+		- avg monthly revenue ?
+		- whats ur next revenue goal ?
+		- how many clients currently ?
+		- how many hours per week u log ?
+		- what is avg revenue per client >
+		- what is effective hourly rate ?
+	- need systems to match scale of revnue and workload
+	- you need to upgrade clients
+	- Determine your fully booked point
+- ch2 master your mindset
+	- too stuck in daily grind to step back and think about your business goals ?
+	- Regularly looking for and identifying those baked-in subconscious thoughts that might be blocking you from growing your company will unlock new levels of happiness, awareness, and prosperity
+	- what's your why ?
+	- how to recognize your limited beliefs
+		- frequent journALING
+		-

@@ -1,6 +1,35 @@
-[{:block/name "a",
+[{:block/name " my web development stack",
+  :block/created-at 1653891713171,
+  :block/updated-at 1653891713171}
+ {:block/name " systemic change ",
+  :block/created-at 1652985986683,
+  :block/updated-at 1652985986683}
+ {:block/name
+  "../assets/the_decision_book_fifty_models_for_strategic_thinking_by_mikael_krogerus",
+  :block/created-at 1651831474042,
+  :block/updated-at 1651831474042}
+ {:block/name "4 hour workweek",
+  :block/created-at 1654351557525,
+  :block/updated-at 1654351626526}
+ {:block/name "6 figure freelancer course",
+  :block/created-at 1653072614007,
+  :block/updated-at 1654151190900}
+ {:block/name
+  "_hls__the_decision_book_fifty_models_for_strategic_thinking_by_mikael_krogerus,_roman_tschã¤ppeler_(z-lib.org)_1649397929968_0_",
+  :block/created-at 1651831474040,
+  :block/updated-at 1651831474040}
+ {:block/name "_roman_tschã¤ppeler_(z-lib.org)_1649397929968_0.pdf",
+  :block/created-at 1651831474044,
+  :block/updated-at 1651831474044}
+ {:block/name "a",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "address your why",
+  :block/created-at 1652995478827,
+  :block/updated-at 1652995478827}
+ {:block/name "analog vs digital",
+  :block/created-at 1652084941884,
+  :block/updated-at 1652084941884}
  {:block/name "apr 10th, 2022",
   :block/created-at 1650353063453,
   :block/updated-at 1650353063453}
@@ -19,9 +48,6 @@
  {:block/name "apr 20th, 2022",
   :block/created-at 1650442039938,
   :block/updated-at 1650442039938}
- {:block/name "apr 21st, 2022",
-  :block/created-at 1650524748092,
-  :block/updated-at 1650524748092}
  {:block/name "apr 22nd, 2022",
   :block/created-at 1650603177632,
   :block/updated-at 1650603177632}
@@ -34,9 +60,6 @@
  {:block/name "apr 27th, 2022",
   :block/created-at 1651160812759,
   :block/updated-at 1651160812759}
- {:block/name "apr 28th, 2022",
-  :block/created-at 1651160811839,
-  :block/updated-at 1651160811839}
  {:block/name "apr 29th, 2022",
   :block/created-at 1651207115076,
   :block/updated-at 1651215658386}
@@ -52,6 +75,15 @@
  {:block/name "b",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "blog newsletter content ideas",
+  :block/created-at 1651991872833,
+  :block/updated-at 1651994139777}
+ {:block/name "bottoms up planning",
+  :block/created-at 1653891512234,
+  :block/updated-at 1653891512234}
+ {:block/name "building a story brand",
+  :block/created-at 1653891511835,
+  :block/updated-at 1653891511835}
  {:block/name "c",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
@@ -61,9 +93,22 @@
  {:block/name "checkpoint process for product development",
   :block/created-at 1649393440743,
   :block/updated-at 1649393470470}
+ {:block/name "client hit list",
+  :block/created-at 1654148223444,
+  :block/updated-at 1654148348394}
+ {:block/name "code is the ultimate junior developer",
+  :block/created-at 1652256483177,
+  :block/updated-at 1652256742774}
+ {:block/name "code review",
+  :block/created-at 1652082176647,
+  :block/updated-at 1652082226463}
  {:block/name "code tracing",
   :block/created-at 1650353065750,
   :block/updated-at 1650353065750}
+ {:block/name
+  "complete web design _ from figma to webflow to freelancing",
+  :block/created-at 1653072614005,
+  :block/updated-at 1653897741259}
  {:block/name "contents",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
@@ -76,18 +121,42 @@
  {:block/name "deep work",
   :block/created-at 1650353063451,
   :block/updated-at 1650353063451}
+ {:block/name "design fundamentals",
+  :block/created-at 1653892173836,
+  :block/updated-at 1653892173836}
+ {:block/name "designcourse",
+  :block/created-at 1654545076234,
+  :block/updated-at 1654545076234}
+ {:block/name "designproject",
+  :block/created-at 1652943854454,
+  :block/updated-at 1652943854454}
+ {:block/name "dev learning resources map",
+  :block/created-at 1652105706187,
+  :block/updated-at 1652110531393}
  {:block/name "doing",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
  {:block/name "done",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "dubsado ux case study",
+  :block/created-at 1654501991263,
+  :block/updated-at 1654502132789}
+ {:block/name "eisenhower matrix",
+  :block/created-at 1652185644584,
+  :block/updated-at 1652188876098}
  {:block/name "embedded entrepreneur",
   :block/created-at 1650353065057,
   :block/updated-at 1650353065057}
  {:block/name "emotional quotient",
   :block/created-at 1649393294633,
   :block/updated-at 1649393294633}
+ {:block/name "engineering daybook",
+  :block/created-at 1652082618986,
+  :block/updated-at 1652196869105}
+ {:block/name "extreme ownership",
+  :block/created-at 1651839933252,
+  :block/updated-at 1651839933252}
  {:block/name "f",
   :block/created-at 1650353065418,
   :block/updated-at 1650353065418}
@@ -109,6 +178,18 @@
  {:block/name "femke.design",
   :block/created-at 1649393466437,
   :block/updated-at 1649393466437}
+ {:block/name "figma components",
+  :block/created-at 1654545077080,
+  :block/updated-at 1654545077080}
+ {:block/name "fireship react next firebase course",
+  :block/created-at 1652254064587,
+  :block/updated-at 1652254080449}
+ {:block/name "fireship react next firebase course ",
+  :block/created-at 1652254063395,
+  :block/updated-at 1652254063395}
+ {:block/name "fitness factory project home",
+  :block/created-at 1652085100212,
+  :block/updated-at 1652086382637}
  {:block/name "flashcards",
   :block/created-at 1650525243891,
   :block/updated-at 1650525261391}
@@ -121,38 +202,192 @@
  {:block/name "freelancing lessons",
   :block/created-at 1649393224351,
   :block/updated-at 1649393444855}
+ {:block/name "functional programming",
+  :block/created-at 1652082879210,
+  :block/updated-at 1652082879210}
+ {:block/name "getting better at solving complex problems",
+  :block/created-at 1651840108536,
+  :block/updated-at 1651840108536}
  {:block/name "goals vs systems",
   :block/created-at 1650354484378,
   :block/updated-at 1650354484378}
  {:block/name "godlilocks zone",
   :block/created-at 1650354440630,
   :block/updated-at 1650354440630}
+ {:block/name "gpsc app component list",
+  :block/created-at 1653891511985,
+  :block/updated-at 1653891511985}
+ {:block/name "graphs for life",
+  :block/created-at 1652993912363,
+  :block/updated-at 1652993912363}
  {:block/name "guided mastery",
   :block/created-at 1650353065260,
   :block/updated-at 1650353065260}
- {:block/name
-  "hls__the_decision_book_fifty_models_for_strategic_thinking_by_mikael_krogerus,_roman_tschã¤ppeler_(z-lib.org)_1649397929968_0",
-  :block/created-at 1649398078304,
-  :block/updated-at 1649398078304}
+ {:block/name "handling clients",
+  :block/created-at 1652296154044,
+  :block/updated-at 1652297244945}
  {:block/name
   "hls__the_programmers_brain_what_every_programmer_needs_to_know_about_cognition_by_felienne_hermans_(z-lib.org)_1649481271237_0",
   :block/created-at 1649481520911,
   :block/updated-at 1649481520911}
+ {:block/name
+  "hls__time_smart_(ashley_whillans)_(z-lib.org)_1652984931537_0",
+  :block/created-at 1652986476299,
+  :block/updated-at 1652986476299}
+ {:block/name "how to learn react",
+  :block/created-at 1653891512043,
+  :block/updated-at 1653891512043}
  {:block/name "how to remember syntax longer",
   :block/created-at 1650526761620,
   :block/updated-at 1650527337458}
+ {:block/name "how your environment holds you back as a developer",
+  :block/created-at 1652081283234,
+  :block/updated-at 1652081730976}
+ {:block/name "i will teach you to be rich",
+  :block/created-at 1654458401947,
+  :block/updated-at 1654631932096}
  {:block/name "in-progress",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "integration tests",
+  :block/created-at 1652082142343,
+  :block/updated-at 1652082166331}
+ {:block/name "interfaces",
+  :block/created-at 1652082985615,
+  :block/updated-at 1652083010446}
+ {:block/name "interfaces in typescript",
+  :block/created-at 1652083010444,
+  :block/updated-at 1652083010444}
+ {:block/name "interstitial journaling",
+  :block/created-at 1652995579299,
+  :block/updated-at 1652995579299}
+ {:block/name "journey of building my agency or startup",
+  :block/created-at 1653891512240,
+  :block/updated-at 1653891512240}
+ {:block/name "jun 1st, 2022",
+  :block/created-at 1654145735918,
+  :block/updated-at 1654145735918}
+ {:block/name "jun 2nd, 2022",
+  :block/created-at 1654145736361,
+  :block/updated-at 1654170462388}
+ {:block/name "jun 3rd, 2022",
+  :block/created-at 1654243521125,
+  :block/updated-at 1654268700672}
+ {:block/name "jun 4th, 2022",
+  :block/created-at 1654326736646,
+  :block/updated-at 1654358076225}
+ {:block/name "jun 5th, 2022",
+  :block/created-at 1654409179667,
+  :block/updated-at 1654458401949}
+ {:block/name "jun 6th, 2022",
+  :block/created-at 1654453804061,
+  :block/updated-at 1654502199655}
+ {:block/name "jun 7th, 2022",
+  :block/created-at 1654545075750,
+  :block/updated-at 1654582135706}
+ {:block/name "jun 8th, 2022",
+  :block/created-at 1654626602632,
+  :block/updated-at 1654626602632}
+ {:block/name "june articles inbox",
+  :block/created-at 1654350835323,
+  :block/updated-at 1654491922996}
+ {:block/name
+  "june monthly developer + design action steps  action steps",
+  :block/created-at 1654545076327,
+  :block/updated-at 1654545076327}
+ {:block/name "june projects",
+  :block/created-at 1654582135703,
+  :block/updated-at 1654613490017}
  {:block/name "later",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
- {:block/name "may 1st, 2022",
-  :block/created-at 1651395739432,
-  :block/updated-at 1651395739432}
+ {:block/name "leo enterprises project home",
+  :block/created-at 1652085089130,
+  :block/updated-at 1652086269317}
+ {:block/name "marketing yourself as a freelancer",
+  :block/created-at 1652081164624,
+  :block/updated-at 1652081164624}
+ {:block/name "may 10th, 2022",
+  :block/created-at 1652160972827,
+  :block/updated-at 1652189759079}
+ {:block/name "may 11th, 2022",
+  :block/created-at 1652253937855,
+  :block/updated-at 1652254560658}
+ {:block/name "may 12th, 2022",
+  :block/created-at 1652295505279,
+  :block/updated-at 1652295525610}
+ {:block/name "may 13th, 2022",
+  :block/created-at 1652943854070,
+  :block/updated-at 1652943854070}
+ {:block/name "may 14th, 2022",
+  :block/created-at 1652943854469,
+  :block/updated-at 1652943854469}
+ {:block/name "may 15th, 2022",
+  :block/created-at 1652943854656,
+  :block/updated-at 1652943854656}
+ {:block/name "may 16th, 2022",
+  :block/created-at 1652943854653,
+  :block/updated-at 1652943854653}
+ {:block/name "may 17th, 2022",
+  :block/created-at 1652943854978,
+  :block/updated-at 1652943854978}
+ {:block/name "may 18th, 2022",
+  :block/created-at 1652943855048,
+  :block/updated-at 1652943855048}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652943855254,
+  :block/updated-at 1652984843930}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1652985004849,
+  :block/updated-at 1653133461864}
+ {:block/name "may 21st, 2022",
+  :block/created-at 1653072613668,
+  :block/updated-at 1653893238437}
+ {:block/name "may 22nd, 2022",
+  :block/created-at 1653891510389,
+  :block/updated-at 1653891510389}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653891511062,
+  :block/updated-at 1653891511062}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653891511111,
+  :block/updated-at 1653891511111}
+ {:block/name "may 25th, 2022",
+  :block/created-at 1653891511343,
+  :block/updated-at 1653891511343}
+ {:block/name "may 26th, 2022",
+  :block/created-at 1653891511409,
+  :block/updated-at 1653891511409}
+ {:block/name "may 30th, 2022",
+  :block/created-at 1653891509849,
+  :block/updated-at 1653898848551}
+ {:block/name "may 31st, 2022",
+  :block/created-at 1654145735576,
+  :block/updated-at 1654145735576}
+ {:block/name "may 6th, 2022",
+  :block/created-at 1651831471276,
+  :block/updated-at 1651831471276}
+ {:block/name "may 8th, 2022",
+  :block/created-at 1651991853932,
+  :block/updated-at 1651991872838}
+ {:block/name "may 9th, 2022",
+  :block/created-at 1652077056433,
+  :block/updated-at 1652161028116}
+ {:block/name "may week 3 review",
+  :block/created-at 1653891512389,
+  :block/updated-at 1653891512389}
+ {:block/name "mixin",
+  :block/created-at 1652082960019,
+  :block/updated-at 1652082960019}
  {:block/name "modern css with tailwind",
   :block/created-at 1651160812756,
   :block/updated-at 1651160812756}
+ {:block/name "moodboard",
+  :block/created-at 1653072615161,
+  :block/updated-at 1653072615161}
+ {:block/name "motion design with figma",
+  :block/created-at 1653072613990,
+  :block/updated-at 1653072613990}
  {:block/name "my current projects",
   :block/created-at 1649404482860,
   :block/updated-at 1649404482860}
@@ -162,9 +397,81 @@
  {:block/name "my overriding vision",
   :block/created-at 1649403958233,
   :block/updated-at 1649403958233}
+ {:block/name "my web development stack",
+  :block/created-at 1653891716833,
+  :block/updated-at 1653895370859}
+ {:block/name "my webflow specialization plan",
+  :block/created-at 1652080290361,
+  :block/updated-at 1652081191788}
+ {:block/name "my webflow specialization plan ",
+  :block/created-at 1652080287997,
+  :block/updated-at 1652080287997}
+ {:block/name "new page_ i will",
+  :block/created-at 1654458393560,
+  :block/updated-at 1654458393560}
+ {:block/name "new page_ i will t",
+  :block/created-at 1654458395854,
+  :block/updated-at 1654458395854}
+ {:block/name "new page_ i will te",
+  :block/created-at 1654458396166,
+  :block/updated-at 1654458396166}
+ {:block/name "new page_ i will tea",
+  :block/created-at 1654458396412,
+  :block/updated-at 1654458396412}
+ {:block/name "new page_ i will teac",
+  :block/created-at 1654458396635,
+  :block/updated-at 1654458396635}
+ {:block/name "new page_ i will teach",
+  :block/created-at 1654458396792,
+  :block/updated-at 1654458396792}
+ {:block/name "new page_ i will teach y",
+  :block/created-at 1654458397693,
+  :block/updated-at 1654458397693}
+ {:block/name "new page_ i will teach yo",
+  :block/created-at 1654458397836,
+  :block/updated-at 1654458397836}
+ {:block/name "new page_ i will teach you",
+  :block/created-at 1654458398052,
+  :block/updated-at 1654458398052}
+ {:block/name "new page_ i will teach you t",
+  :block/created-at 1654458398581,
+  :block/updated-at 1654458398581}
+ {:block/name "new page_ i will teach you to",
+  :block/created-at 1654458398667,
+  :block/updated-at 1654458398667}
+ {:block/name "new page_ i will teach you to b",
+  :block/created-at 1654458398991,
+  :block/updated-at 1654458398991}
+ {:block/name "new page_ i will teach you to be",
+  :block/created-at 1654458399047,
+  :block/updated-at 1654458399047}
+ {:block/name "new page_ i will teach you to be r",
+  :block/created-at 1654458399413,
+  :block/updated-at 1654458399413}
+ {:block/name "new page_ i will teach you to be ri",
+  :block/created-at 1654458399485,
+  :block/updated-at 1654458399485}
+ {:block/name "new page_ i will teach you to be ric",
+  :block/created-at 1654458399711,
+  :block/updated-at 1654458399711}
+ {:block/name "new page_ i will teach you to be rich",
+  :block/created-at 1654458399876,
+  :block/updated-at 1654458399876}
+ {:block/name "new page_ product",
+  :block/created-at 1652197663131,
+  :block/updated-at 1652197663131}
+ {:block/name "new page_ time",
+  :block/created-at 1652986651225,
+  :block/updated-at 1652986651225}
+ {:block/name "new page_ ultralearning design",
+  :block/created-at 1654545077136,
+  :block/updated-at 1654545077136}
  {:block/name "now",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "orphaned tasks",
+  :block/created-at 1652943854456,
+  :block/updated-at 1652943854456}
  {:block/name "part 1 reading code better",
   :block/created-at 1650353065763,
   :block/updated-at 1650353065763}
@@ -177,54 +484,186 @@
  {:block/name "pqr2",
   :block/created-at 1650353065055,
   :block/updated-at 1650353065055}
+ {:block/name "present bias",
+  :block/created-at 1652188903707,
+  :block/updated-at 1652189122587}
  {:block/name "product cycles method of gaining experience",
   :block/created-at 1650353065263,
   :block/updated-at 1650353065263}
+ {:block/name "productivity",
+  :block/created-at 1652197670370,
+  :block/updated-at 1652197670370}
+ {:block/name "project brief",
+  :block/created-at 1653072615159,
+  :block/updated-at 1653072615159}
  {:block/name "project portfolio matrix",
   :block/created-at 1649398247686,
   :block/updated-at 1649404066654}
+ {:block/name "pure functions",
+  :block/created-at 1654145736767,
+  :block/updated-at 1654145736767}
+ {:block/name "react key concepts",
+  :block/created-at 1653891510382,
+  :block/updated-at 1653891510382}
+ {:block/name "remix",
+  :block/created-at 1654145736853,
+  :block/updated-at 1654145736853}
+ {:block/name "remix.run case study",
+  :block/created-at 1654145735927,
+  :block/updated-at 1654145735927}
+ {:block/name "remix/run case study",
+  :block/created-at 1654145736851,
+  :block/updated-at 1654145736851}
+ {:block/name "rich dad poor dad",
+  :block/created-at 1652943854652,
+  :block/updated-at 1652943854652}
+ {:block/name "s",
+  :block/created-at 1651831473582,
+  :block/updated-at 1651831473582}
  {:block/name "s.m.a.r.t goals",
   :block/created-at 1650354220852,
   :block/updated-at 1650354516805}
+ {:block/name "s/m",
+  :block/created-at 1651831473583,
+  :block/updated-at 1651831473583}
+ {:block/name "s/m/a",
+  :block/created-at 1651831473583,
+  :block/updated-at 1651831473583}
+ {:block/name "s/m/a/r",
+  :block/created-at 1651831473584,
+  :block/updated-at 1651831473584}
+ {:block/name "s/m/a/r/t goals",
+  :block/created-at 1651831473581,
+  :block/updated-at 1651831473581}
  {:block/name "scientific advertising",
   :block/created-at 1650353065047,
   :block/updated-at 1650353065047}
  {:block/name "scrimba courses to follow",
   :block/created-at 1650524748351,
   :block/updated-at 1650524748351}
+ {:block/name "selftaught.design",
+  :block/created-at 1652081119935,
+  :block/updated-at 1652081119935}
+ {:block/name "sell or be sold",
+  :block/created-at 1654145736354,
+  :block/updated-at 1654145736354}
  {:block/name "ship30for30",
   :block/created-at 1650353064543,
   :block/updated-at 1650353064543}
+ {:block/name "single page apps",
+  :block/created-at 1653891512679,
+  :block/updated-at 1653891512679}
+ {:block/name "spending frameworks",
+  :block/created-at 1654455405037,
+  :block/updated-at 1654455405037}
+ {:block/name "state management in react",
+  :block/created-at 1652083038838,
+  :block/updated-at 1652083038838}
+ {:block/name "static analysis",
+  :block/created-at 1652082033333,
+  :block/updated-at 1652082054682}
+ {:block/name "static site development tasks",
+  :block/created-at 1652085041769,
+  :block/updated-at 1652086248252}
+ {:block/name "steps to finding time and funding time",
+  :block/created-at 1652985773062,
+  :block/updated-at 1652993475522}
  {:block/name "tailwind css",
   :block/created-at 1651160812104,
   :block/updated-at 1651160812104}
+ {:block/name "tasks for week 2 may 2022",
+  :block/created-at 1652084996898,
+  :block/updated-at 1652085041771}
+ {:block/name "test driven dev",
+  :block/created-at 1654545076538,
+  :block/updated-at 1654545076538}
+ {:block/name "testimonials sprint",
+  :block/created-at 1652085865064,
+  :block/updated-at 1652085865064}
+ {:block/name "testing course",
+  :block/created-at 1654545076320,
+  :block/updated-at 1654545076320}
  {:block/name "the decision book",
   :block/created-at 1649397909732,
   :block/updated-at 1649404498531}
  {:block/name "the developer's code. what real programmers do",
   :block/created-at 1651160812754,
-  :block/updated-at 1651164060095}
+  :block/updated-at 1654147160789}
+ {:block/name "the epic hashnode writeathon",
+  :block/created-at 1652189759078,
+  :block/updated-at 1652195420501}
  {:block/name "the futur focus building worksheet",
   :block/created-at 1650353093090,
   :block/updated-at 1650355065606}
+ {:block/name "the long view",
+  :block/created-at 1652998713688,
+  :block/updated-at 1653000656337}
+ {:block/name "the long view ",
+  :block/created-at 1652985901606,
+  :block/updated-at 1652985901606}
+ {:block/name "the mere urgency effect",
+  :block/created-at 1652185431501,
+  :block/updated-at 1652185644586}
+ {:block/name "the planning fallacy",
+  :block/created-at 1652184985962,
+  :block/updated-at 1652185377736}
  {:block/name "the programmer's brain",
   :block/created-at 1649481245266,
-  :block/updated-at 1650524843532}
+  :block/updated-at 1653901521930}
+ {:block/name "the rule of two",
+  :block/created-at 1652196869103,
+  :block/updated-at 1652197990676}
  {:block/name "the senior mindset",
   :block/created-at 1651215657596,
-  :block/updated-at 1651219035719}
+  :block/updated-at 1652082618988}
+ {:block/name "the six figure freelancer book",
+  :block/created-at 1653072657187,
+  :block/updated-at 1653074653890}
+ {:block/name "thequizlabs project home",
+  :block/created-at 1652085074377,
+  :block/updated-at 1652085976641}
  {:block/name "thinkist app",
   :block/created-at 1650353065259,
   :block/updated-at 1650353065259}
+ {:block/name "time  traps",
+  :block/created-at 1652987041446,
+  :block/updated-at 1652987041446}
+ {:block/name "time affluence habit",
+  :block/created-at 1652985856624,
+  :block/updated-at 1652998496011}
+ {:block/name "time smart",
+  :block/created-at 1652984843928,
+  :block/updated-at 1653000920553}
+ {:block/name "time traps",
+  :block/created-at 1652987056504,
+  :block/updated-at 1652988954787}
+ {:block/name "time traps and time proverty epidemic",
+  :block/created-at 1652985720444,
+  :block/updated-at 1652998653735}
  {:block/name "todo",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
+ {:block/name "tql gpsc app",
+  :block/created-at 1654613490016,
+  :block/updated-at 1654615098847}
+ {:block/name "traits",
+  :block/created-at 1652082968018,
+  :block/updated-at 1652082968018}
  {:block/name "typescript",
   :block/created-at 1650528223402,
   :block/updated-at 1650528223402}
+ {:block/name "ultralearning design",
+  :block/created-at 1654545076322,
+  :block/updated-at 1654545076322}
+ {:block/name "unit tests",
+  :block/created-at 1652082070039,
+  :block/updated-at 1652082123396}
  {:block/name "urgent optimism",
   :block/created-at 1650353065262,
   :block/updated-at 1650353065262}
+ {:block/name "user story",
+  :block/created-at 1654502199654,
+  :block/updated-at 1654502401220}
  {:block/name "wait",
   :block/created-at 1649404453783,
   :block/updated-at 1649404453783}
@@ -234,6 +673,15 @@
  {:block/name "webflow",
   :block/created-at 1650353064516,
   :block/updated-at 1650353064516}
+ {:block/name "webflow pricing",
+  :block/created-at 1654145739235,
+  :block/updated-at 1654145739235}
+ {:block/name "what is webflow",
+  :block/created-at 1653072615149,
+  :block/updated-at 1653891713173}
+ {:block/name "write code as a last resort",
+  :block/created-at 1652254666769,
+  :block/updated-at 1652254974385}
  {:block/name "writing down the bones",
   :block/created-at 1651160813409, 
   :block/updated-at 1651160813409}]

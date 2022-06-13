@@ -19,6 +19,7 @@ title:: The developer's code. What real programmers do
 		-
 	- keep coding, it is where you are the most valuable
 	- diversification over specialization
+	  collapsed:: true
 		-
 - programmer motivation
   collapsed:: true
@@ -57,7 +58,7 @@ title:: The developer's code. What real programmers do
 			- wjen testing retrace the flow again
 		- work outside the bedroom
 			-
-- programmer motivation
+- programmer productivity
   collapsed:: true
 	- just say no to pet projects
 	  collapsed:: true
@@ -65,11 +66,9 @@ title:: The developer's code. What real programmers do
 			- limit how much time will spend on working each day on the project and how many days per week
 			-
 	- constrain all your parameters
-	  collapsed:: true
 		- when we have no walls around us we lose sight of reality
 		- every step shd take towards building a more succesful software, There are not enough resources to do asnything else
 	- cut the detail out of the timeline
-	  collapsed:: true
 		- build deliverables in sizable chucks not in small breadcrumbs
 		- for an eight week project prefer eight weekly deliverables over eight daily ones
 			- work in product cycles instead of each screen
@@ -84,6 +83,7 @@ title:: The developer's code. What real programmers do
 	  collapsed:: true
 		- invest in screen real estate
 	- keep a personal todo list
+	  collapsed:: true
 		- what it NOT
 		  collapsed:: true
 			- project timeline
@@ -100,4 +100,55 @@ title:: The developer's code. What real programmers do
 		-
 		-
 - pride
-	-
+	- construt work -> law trouble at some stage
+	- when really into coding
+	  collapsed:: true
+		- live inside our heads far more than most
+		- stare at screen in typing trance
+		- simply want to be left alone
+		-
+	- the detail is where the appeal is
+		- accesible -> prog version of 30 min dishes and $5 dishes ?
+		- vlog on dev process ?
+		-
+- code
+  collapsed:: true
+	- [[Write Code as a last resort]]
+	- [[code is the ultimate junior developer]]
+	- plug in happy future of code
+		- frameworks
+		- nocode
+		- invest money where needed
+		- when do you roll out your own tool (plugin extension or framework?)
+			- an intimate und of problem space
+			-
+- [[Handling clients]]
+- teaching code
+  collapsed:: true
+	- teaching is unlike coding
+	- beware the curse of coding
+		- While it’s  unfortunately promoted in  our  society to  be  reasonable andsensible, these characteristics will not serve you in sales or in life
+		- use feynmans
+	- teach with obvious examples
+		- devoid of abstractions
+		-
+- clients
+	- software minus clients => hobby
+	- demystify the black magic of software
+		- prog -> organize=s of logic and data
+			- pushing, pulling, manipulating and displaying data
+		- Showthemwhatyou’vebeenworkingon.Stepthemthroughtheactualcodeifyoumust.Get them involved in thinkingthrough the questionsthatnaturallycome up to you when you’re in the midst ofprogramming.
+	- define the goals of the app
+	- be enthusiastic and opinionated
+		- Programming is as much art as it is science
+		- offerthemthosesameoptionswithastrongconvictiontowardone.Thenexplainwhy.
+			- installation of hvac
+		-
+		-
+-
+-
+-
+-
+-
+-
+-

@@ -1,0 +1,99 @@
+- My Roles
+	- Software Engineer
+	  collapsed:: true
+		- Learn to code
+		  collapsed:: true
+			- what can one accomplish with it
+				- in a week
+				- month
+				- year
+			- efficiency
+			- how to have fun
+			- money
+			- when to use documentation vs courses
+				- which paid courses to buy
+			- when to use books and which books to read
+				- DEPTH
+		- planning s/w projects
+		  collapsed:: true
+			- basis
+			- breaking down
+		- component based thinking and building
+		  collapsed:: true
+			- comparision with current approach
+		- getting unstuck form bugs
+		- tools to master
+		- my opinion on fullstack dev
+		- define job ready
+			- mindset and mental models
+		- home office & setting your boundaries
+			- why I cannot work like your pc mechanic
+		- js eco
+		- web3 eco
+		- python eco
+		- portfolio, prrof of work, how to take time out to generate it
+		- alone vs pair prog
+		- focused vs distracted day in coding
+		- how to choose your stack
+		- imp of breaks
+		- res to spend money on
+	- freelancer
+	  collapsed:: true
+		- time allocation
+		- underlying roles and resp
+		- why freedom is ur enemy
+		- which clients to choose and avoid
+		- setting goals -> underlying reality
+		- making t to develop your craft
+		- why u need a team
+			- money vs freedom
+		- legal aspects
+		- be ready to hear this from ppl -> rel
+		- coursers
+		- social life
+		- structuring day and week
+			- happiness driven scheduling
+	- writer
+	  collapsed:: true
+		- atomic essay
+		- role of ur gut
+		- notes
+			- taking
+			- reviewing
+		- habits based writing vs when u feel like it
+		- which platform to start with
+		- role of twitter
+			- lean startup analogy
+		- how to select topics
+		- pain points that await
+		- what to develop it into
+			- ccourse
+			- yt
+			- product
+		- role of journaling
+		- digital vs analog
+			- tools
+			- times
+		- what can you learn from other professions ?
+		- can this be a profession ? if not why bother
+	- other
+	  collapsed:: true
+		- life as series of expts
+		- forced urgency + breaks
+		- pomodoro -> adv of visualizing time
+		- time tracking , timebox
+		- deep vs shallow friendly tasks
+		- my ex with bad prod advice
+		- some most helpful mindset shifts
+		- atomic habits. Why sometimes small is best
+		  collapsed:: true
+			- u can always win small only but defn of your small changes
+		- anti pretentious
+		- some ex of 80:20
+			- ex of i have wasted on 80
+		- paretto as religion
+		- what changes does big thinker need to make
+			- what to doublw down on
+		- how to choose role model or mentor
+		-
+	-

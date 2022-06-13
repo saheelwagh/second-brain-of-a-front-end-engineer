@@ -53,3 +53,7 @@ title:: hls__The_Programmers_Brain_What_every_programmer_needs_to_know_about_cog
   ls-type:: annotation
   hl-page:: 50
   id:: 625537f6-0688-4263-95bc-3c2cc54a4ad9
+- explaining  general  principlesseparate from code is not a useful way of teaching. For example, a sensorimotor pro-grammer who is stepping through database code is not helped if you start explaininghow the database is configured elsewhere in the code. First, they need an understand-ing of the execution model.
+  ls-type:: annotation
+  hl-page:: 235
+  id:: 629481e7-1e72-4643-8e4f-22886865fef0
