@@ -1,0 +1,21 @@
+- dandiya
+	- kinda hurt that sobi told me she was super busy but seems to be free on social media
+	- insecure about presence of pauras while borderline unbothered by niraj
+	- next year have to participaye in dandiya if still single
+	- main lack is money, or rather flow of money that I can manage. This holds back confidence
+	- best soln over such worries is to always have something bigger to work on 
+	- she is hot though and I really do want to get in her pants
+	- yet I need some framework to keep her thoughts at bay, as also with other distractions. Probably best to schedule a look ahead to curb uncertain cravings
+- speeding up work
+	- so far, jumping in to work has got into habit of starting but now need to upgrade it to become a more efficient worker. 
+	- Have learnt what keeps people stuck so now all about crafting a path clear of it  
+	- will have to separate out phases -> work, learn ,write. and prioritise the time blocks
+		- color coded blocks for each. 
+- deep work morning
+	- what is the equivalent of sprint week for a fay ?
+	- morning -> obejctive, hmw
+	- next hour -> design, choose
+	- proto -> deep work
+	- review
+- [[drafts]]
+- 

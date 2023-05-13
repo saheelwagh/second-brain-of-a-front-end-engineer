@@ -1,0 +1,20 @@
+- The last week of jan was hard for me
+	- a major project I was betting on got shelved
+	- and the filter coffee powder from my shelf got over
+- having nescafe's instant powder felt like having bitter medicine from childhood. Minus the benefits
+	- another product from chjidhood that seems to have degraded with time
+		- others
+			- milky bites
+- advantages of coffee
+	- boosts focus
+- science of coffee
+- my experience with coffee over the weekend
+	- time blocks post coffee -> what output I produced
+- drawbaCKS
+- WHAT coffee doews not fix
+	- not having a dir
+- when not to use
+	- diffused
+- when it helps with creativity
+-
+-

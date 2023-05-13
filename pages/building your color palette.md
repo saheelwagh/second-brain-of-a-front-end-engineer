@@ -1,0 +1,27 @@
+- [[refactoring ui]]
+- Then as they scroll through the carousel, I bring in deeper and deeper topics, eventually leading to a call to action to download something of mine and bring them deeper into my funnel.
+- This calculated and scientific approach to picking the perfect color scheme is extremely seductive, but not very useful.
+- ![](https://www.refactoringui.com/img/previews/whats-in-a-color-palette-02.png)
+- You can't build anything with five hex codes. To build something real, you need a much more comprehensive set of colors to choose from.
+- breaking down color palettes into 3 categories
+	- greys
+		- Text, backgrounds, panels, form controls — almost everything in an interface is grey.
+		- ![](https://www.refactoringui.com/img/previews/whats-in-a-color-palette-04.png)
+		- You'll need more greys than you think, too — three or four shades might sound like plenty but it won't be long before you wish you had something a little darker than shade #2 but a little lighter than shade #3.
+	- primary colors
+		- Most sites need one, *maybe* two colors that are used for primary actions, emphasizing navigation elements, etc. These are the colors that determine the overall look of a site — the ones that make you think of Facebook as "blue", even though it's really mostly grey.
+		- Just like with greys, you need a variety *(5-10)* of lighter and darker shades to choose from.
+		- Ultra-light shades can be useful as a tinted background for things like alerts, while darker shades work great for text.
+	- accent colors
+		- On top of primary colors, every site needs a few *accent* colors for communicating different things to the user.
+		- For example, you might want to use an eye-grabbing color like yellow, pink, or teal to highlight a new feature:
+		- You'll want multiple shades for these colors too, even though they should be used pretty sparingly throughout the UI.
+- define ur shades up front
+	- ![](https://www.refactoringui.com/img/previews/define-your-shades-up-front-01.png)
+- **HOW**
+	- 1. choose the base color first. Start by picking a *base* color for the scale you want to create — the color in the middle that your lighter and darker shades are based on.There's no real scientific way to do this, but for primary and accent colors, a good rule of thumb is to pick a shade that would work well as a button background.
+	  2. find the edges Next, pick your darkest shade and your lightest shade. There's no real science to this either, but it helps to think about where they will be used and choose them using that context.The darkest shade of a color is usually reserved for text, while the lightest shade might be used to tint the background of an element.
+	  3.Once you've got your base, darkest, and lightest shades, you just need to fill in the gaps in between them.
+- Once you actually start using your colors in your designs, it's almost inevitable that you'll want to tweak the saturation on a shade, or make a couple of shades lighter or darker. Trust your eyes, not the numbers.
+- Just try to avoid adding *new* shades too often if you can avoid it. If you're not dilligent about limiting your palette, you might as well have no color system at all.
+-

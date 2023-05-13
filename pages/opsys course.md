@@ -1,0 +1,14 @@
+- hopefull available by July end
+- obstacles faced
+	- I have a problem managing my time and organizing projects that overlap (hourly work, project work, general deadlines, etc) and just an overall 'flow' and management of projects in general would be very helpful. Need to fine tune what I offer, how it gets scheduled , the design flow, and the delivery. Also what I can delegate, and have a system in place for it
+	- I've struggled with bringing data into a clear dashboard type of page, where I can keep track of quarterly goals, leads, wins, average rates, profit margin and things like that. Metrics.
+	- The pain is that there are plenty of templates but poor documentation and lacking solutions for particular use cases. My hope is OpSys. Thanks Ben Burns, I am looking forward to see a first release and open to be a tester if needed.
+	- I don't have a system set up yet and honestly every new client onboarding feels like I'm winging it and it's a stressful rush. This is partly because I'm just starting out and just don't know all the steps I should be taking with each client yet.
+	- I'm currently in the middle of expanding my team, hiring a designer and a sales rep. Instead of relying on my whiteboard at home and Google Calendar alone, I want to be able to create a CRM where I can manage customer relationships, and project timelines, and also have a place where customers can view and accept proposals, view project files, and have a "Q/A" for them if they have any questions. It seems your templates will solve most of my issues while being budget-friendly.
+	- ! For me, it would be tracking sales and more importantly, tracking content. I haven't wanted to add content to projects, I wanted a separate place for content related work but to be able to see them in my overall pipeline of work going
+	- I don't have a system set up yet and honestly every new client onboarding feels like I'm winging it and it's a stressful rush. This is partly because I'm just starting out and just don't know all the steps I should be taking with each client yet.
+	- Also would be very cool if there was a client portal in each project, client would see progress, contract, timeline, deliverables, maybe a questionnaire.
+	- have a mix of both and manage multiple contractor creative staff. Also client communication outside of email. Someone recently introduced me to Kitchen.co. At any rate, can't wait!
+	- Would love to see in this course how design/change requests are handled for retainer clients vs. Phased project-based clients.
+	-
+-

@@ -1,0 +1,51 @@
+- Finding your feet in web development, kaleidoscope
+  collapsed:: true
+	- curiosity -> python ebook
+	- focus -> t shaped
+	- train like an athlete -> hackathons, competitive coding
+	- why knowledge of web is needed in all careers
+		- the world is your marketplace
+	- guerilla marketing toolkit -> essential of my agency
+	- how can one get online -> faster is better (demo where posssible)
+		- notion
+		- webflow
+		- carrd
+		- wix (contact sobita)
+			- if she can then why can't you ?
+			- indie maker culture -> pieter levels
+		- books to read, recommended
+	- how to learn
+		- books (try to avoid common ones like clean code)
+			- ultralearning
+			- deep work
+	- role of writing
+	- developing culture (badly needed in Goa)
+		- communities -> what I saw was not as smart students but still better skilled in a focused domain
+			- gs
+	- what to learn ? choose as per goal
+		- money
+		- tech -> js (ignore noise)
+	- inputs from others -> because lack of accomplishments on my own part
+	- secret fear wrt friends -> asking to build free websites
+	- aim to fail fast. from, rocket scientist
+		- edinson had to lose billions. u will only lose some sleep and some lines of code. very cheap
+- the second pass through web dev
+  collapsed:: true
+	- web dev is not the destination
+	- not the journey either
+	  collapsed:: true
+		- at its core its borin
+			- create , deploy , loses novelty
+	- web dev is your vehicle
+		- bringing value to brands
+		- delivering services
+		- showing your own value
+	- dont focus on stack. focus on patterns
+	-
+- 3rd draft
+  collapsed:: true
+	- define ur success
+		- mention about Imposter syndrome on seeing Dr
+		- it will help you get over your imposter syndromw
+	- follow ur curiosity
+	-

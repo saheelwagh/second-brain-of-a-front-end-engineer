@@ -1,0 +1,14 @@
+- 2 big web3 conferences happening in Goa
+	- web3 by the sea $30 [ticket](https://web3bts.com/?utm_source=newsletter&utm_campaign=dispatch2)
+	- web3conf India -> buy real shit [tickets](https://web3confindia.xyz/?utm_source=newsletter&utm_campaign=dispatch2#tickets)
+- 25 and 50 days left for each
+- apply for hack web3conf
+- pitch agency and design subscription by utlising [[6 figure freelancer course]] concepts
+- comp anal
+	- https://www.uxsequence.io/
+	- https://thirdweb.studio/project-worldcoin.html
+	- https://www.orizon.co/services/web3
+- pitch copywriting
+- create repo of illustrations
+-
+-

@@ -1,0 +1,9 @@
+- note : Not mentioned as dump at night because you can do anytime
+- morning -> swirl of thoughts positive as well as negative
+- instead of being stuck u need to have solutions
+- problems dump at night
+- during sleep ur subconc will work on it
+- morning -> make capturing most easy -> for me -> whiteboard
+- [[my morning routine]]
+- this helps avoid forgetting what you need to work on when you finally have the energy to do it
+-

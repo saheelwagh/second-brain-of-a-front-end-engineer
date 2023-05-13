@@ -1,0 +1,15 @@
+- From afar, your plans and goals look idealistic.
+	- This scales across timeframes i.e daily, weekly, monthly, quarterly, etc
+	- Hence design ur next 3 smallest units (ideally day) to plan, track and review
+		- learn from these and predict trends upwards
+	- goal settting us fun in this
+	- drug of choice for many ppl
+- In the near mode, you are pragmatic but might be ignoring the big picture
+	- a symptom is project hopping
+	- ideal goals appear absurd here
+- integrate near mode in your project planning. dont just day dream
+- best way to learn is a pilot project
+	- try on a simple habit like reading
+- related to
+	- [[peaks and valleys]]
+	-

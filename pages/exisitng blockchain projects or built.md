@@ -1,0 +1,17 @@
+- #blockchain
+- [blockpe](https://devfolio.co/projects/blockpe-ffa4) crypto payments for merchants
+	- They integrated the Router protocol for making sure irrespective of what chain & token the end consumer pays in, the merchants always get in their default chain & token.
+- [flowx](https://devfolio.co/projects/theflowx-ff20) nocode for web3
+- [polyedu](https://devfolio.co/projects/polyedu-641c) gamified web3 udemy
+	- The users get an SBT once they finish the course and using Router Protocol the platform will provide an SBT in multiple chains so that the users can show the proof in any chain they want.
+- [router protocol](https://www.routerprotocol.com/) uc caser study future of cross chain
+	- fund trasnfer
+	- asset swaps
+	- cross chain daPPS
+	- job postings
+		- https://angel.co/company/router-protocol/jobs/2418095-blockchain-researcher-interoperability-protocols
+- [hexads](https://t.co/Pc6YDZMA3L)
+- [defi simplified](https://t.co/DbgGoOCoDh) risk analysis
+- crown collectibles https://t.co/LT1YmhE4GK nocode interface for loyalty program on web3
+- bytekode https://devfolio.co/projects/bytekode-7ada complex blockchain msgs to simple texts
+-

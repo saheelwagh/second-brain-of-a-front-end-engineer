@@ -1,0 +1,122 @@
+- course outline
+  collapsed:: true
+	- meeting the client
+	- design and figma
+		- sketch
+		- user stories
+		- inspiration
+		- sitemaps
+	- explore and iterate
+		- wrieframe
+		- prootoype
+		- feedback
+	- visual design
+	- design exploration
+		- patterns
+		- motions
+		- animations
+	- putting it all together
+	-
+- client meeting
+- the 2 paths
+  collapsed:: true
+	- follow along
+	- got a product so jump in to section
+- https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/
+- tools
+  collapsed:: true
+	- [contrast extension](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en)
+	- figma files
+		- [sketching](https://www.figma.com/file/0zneYxKDLciUhQfT2vzdsM/Sketching-Resource?node-id=0%3A1)
+		-
+- designer vs dev
+  collapsed:: true
+	- first phase -> planning
+	- design phase using info from planning
+	- dev takr the assets and info and implement it
+	- post launch
+	- designer -> feddback, plamm amd design
+	- dev -> buidl, launch and feedback
+	-
+- skills of a top designer
+  collapsed:: true
+	- graphic desing
+		- color
+		- typo
+		- imagery etc
+	- ux
+	- goal conversion -> making users take desired actions
+	- platform specific development
+	-
+	-
+	-
+- refs
+  collapsed:: true
+	- goodui.org
+	- awwards
+	- behance
+	- falticon
+	- noun project
+- sketching
+  collapsed:: true
+	- goals
+	- who is this for ?
+		- u -> go crazy
+	- timebox
+	- the process
+		- draw frame for your device
+		- basic elements and mains
+		- then move on to details
+		- **annotate** similar to code comments
+		- click and document in your repo
+	- share for feedback
+	- refinement
+		- ADD titles for each sketcj
+		- annotate again
+		- use numbers
+		- and defo use arrows
+		- add gestures if you want
+	-
+- how to stay inspired
+  collapsed:: true
+	- creativity is like a muscle. use it or lose it
+	- talk to your peers
+	- study others
+		- collect solns by others
+	- surround yourself with great design (physcial)
+	- stay educated on a variety of topics
+	- design for yourself
+	- travel and explore
+	- just take a walk
+	-
+- sitemaps
+  collapsed:: true
+	- use colors for clarity
+	- use only components
+	- figma auto components
+		-
+	-
+- design pattenrs
+	- reoccuring solns that solve problems
+	- helps you follow DRY
+	- 6 categories of patterns
+	  collapsed:: true
+		- data input
+		- content structuring
+		- navigation
+		- incentivisation
+		- hierarchy
+		- social media
+	- why are pattens valuable
+	  collapsed:: true
+		- ppl look for familiar patterns
+		- simplifies accomplishing goals
+	- how to apply design patterns
+	  collapsed:: true
+		- frigure out the prob
+		- abal oher products
+		- examine how they implement
+		- analyse each pattern and decide which one is right for you
+		-
+	- analysing others patterns
+		-

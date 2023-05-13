@@ -24,5 +24,14 @@
 - maintain and write case studies on design inspirations at [[selftaught.design]]
 - [[marketing yourself as a freelancer]] applied to webflow
 - [[Webflow pricing]]
--
+- comeptitor templates
+	- https://typewriter-blog-ui-kit-webflow-template.webflow.io/
+	- https://webflow.com/templates/designers/conversionflow
+	- https://www.jp.works/ inspiration for personal site
+	- https://bryant-template.webflow.io/ background color
+	- https://clark-template.webflow.io/home/01
+	-
+- https://www.conversionflow.co/ clone one site weekly
+- https://webflow.com/templates/designers/jp
+- [[webflow weekend]]
 -

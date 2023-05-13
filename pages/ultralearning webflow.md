@@ -1,0 +1,38 @@
+- [[Complete Web Design : from figma to webflow to freelancing]]
+- Display Settings
+- box model
+- element hierarchy
+- div block
+- section
+- Grid
+- Flex
+- Position
+- Using Images and Background
+- How to structure websites
+- Style efficiently
+- adding custom font
+- responsive development
+- Interactions
+- Webflow native components
+- symbols
+- debugging
+- CMS
+	- filtering
+	- forms and integrations
+- Animations
+	- triggers
+	- popups
+	- slide in effect
+	- 3d rotation on hover
+	- parallax
+	- horizontal scrolling
+	- lottie
+	- pre loader
+- deployment
+	- process overview
+	- export and import imgs
+	- seo
+	- hosting queries
+- how to deliver
+-
+-

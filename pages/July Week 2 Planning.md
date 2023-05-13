@@ -1,0 +1,22 @@
+- Tasks (outcome based)
+  collapsed:: true
+	- Deliver Leo Enterprises Site
+	- Create Moodboard for fitness factory site
+	- Create estimate of tql portal
+	- create moodboard of tql site
+	- buy web3conf ticket if needed
+	- map out each day or at least each morning and eveing wrt process tasks
+	- write articles on
+		- freelance web dev exp till now
+		- comm, review and feedback in programming
+	- possible experminents based on rocket book
+		- break friendly life
+		- deep work limitation
+		- atomic measurements
+	-
+- Process based tasks
+	- react
+		- auth
+		- routing
+		-
+-

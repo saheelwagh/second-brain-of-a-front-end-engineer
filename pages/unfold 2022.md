@@ -1,0 +1,9 @@
+- aim : finish the sophomore track
+- get good at react and next js -> build app frontned and keep
+- solana dev
+	- Developer Tooling: Create tools, programs and hacks making it easier and faster for engineers to built the next generation of dApps on Solana.
+	- https://discord.superteam.fun/
+	- https://soldev.app/course
+	- https://superteam.fun/
+	- https://www.startonsolana.com/
+	-

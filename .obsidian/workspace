@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "0afae5e291fc8f80",
+    "type": "split",
+    "children": [
+      {
+        "id": "7282a44b0db308f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My meditation experience.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d2f92ff7bb734fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4beadd56b461b1ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f555d92f6705c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c4023fa7d6e7521",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "morning brain dump 4 oct",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1ed858e76de98f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "a84c47fb44dedf4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c320f1cdf83b1cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My meditation experience.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7282a44b0db308f4",
+  "lastOpenFiles": [
+    "pages/drafts.md",
+    "pages/morning brain dump 4 oct.md",
+    "logseq/bak/journals/2022_10_04/2022-10-04T02_10_05.766Z.md",
+    "journals/2022_10_04.md",
+    "Hashnode week 3 writeathon.md",
+    "Projects/webflow template ideas.md",
+    "Projects/Becoming a webflow developr.md",
+    "pages/Why I am a software developer.md",
+    "Sarzora and locus of control.md",
+    "Self regulation and its effect on sleep pattern.md"
+  ]
+}

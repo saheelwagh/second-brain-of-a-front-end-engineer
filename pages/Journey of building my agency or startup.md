@@ -16,7 +16,7 @@
 	- parody landing pages -> daft punkaj
 	- exponential coder growth -> what do I need to master to draw a salary of 1 lakh per month ?
 	-
-- finding good clients and niches -> shooting arrows and time consuming. better to put severe time constraints on it and focus on the 20% (measure current and shrink by 5x)
+- finding good clients and niches -> shooting arrows are time consuming. better to put severe time constraints on it and focus on the 20% (measure current and shrink by 5x)
 - Much easier when you have a leverage -> build a brand as a coder and ux designer plus webflow expert
 - Need to create a super relevant portfolio but tough to create one when you are lacking in skills or network
 - How to reach those who have the money ? -> how much money to charge ?

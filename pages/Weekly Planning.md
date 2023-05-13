@@ -1,0 +1,35 @@
+- Sept Week 3 (18-24)
+	- gotchas review
+	  collapsed:: true
+		- not eating frog
+		- context switching
+		- not starting early
+		- not single tasking
+		- atten span overfilled with many details and imp remains invisible
+			- make it constantly visible
+			- morning routine and evening routine needed with rest of the day focused on getting shit done
+		- insta and rohit
+		- khayali pulao which can be easily replaced by writing
+			- schedule writing breaks in between
+		- money related
+			- prepare budget and forecast today itself
+		- sketching related
+			- create minum sketches
+		-
+	- schedule web3 sprints by measuring learnweb3dao tasks and youtube tutorials
+	- why I prefer opsys over logseq ? write and share article
+		- goals and progress section
+		- integrated with my work so famliar ux and allows me to feel work mode when learning
+			- since my work is closely tied to my learning
+	- reschedule todoist tasks between matches
+	- rough graph :
+		- mon -> set up systems
+		- tue -> advance from prashant, demo to ff
+		- wed -> thursday build,
+		- friday review
+	- mornings -> learn something new in webflow, react or web3
+	- 10-4 : work
+	- 4-6: review
+	- also schedule : docs and banking
+		- batch with budgeting. May be tonight itself
+			- check last sms saraswat

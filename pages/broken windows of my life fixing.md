@@ -1,0 +1,4 @@
+- shallow work that keeps interfering with deep
+- fixes that should be planned proactively
+- vaccination for puppies
+- cleaning and organizing wardrobe + whiteboard -> project ideas ?

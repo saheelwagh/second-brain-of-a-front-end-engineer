@@ -1,0 +1,32 @@
+- december 2-4
+- apply by oct
+- Brain dump 1
+	- the deadline of applying for ethindia was taking a mental toll. I had scheduled my other projects wrt this deadline
+	- I realised the biggest cause of resistance was the ambiguity in next steps.
+	- this amiguity exists in any software project
+	- but is most seen in web3
+		- the term. is it something totally new ?
+		- how much time will I need ?
+		- so may new terms to learn
+			- quadratic funding ?
+			- dao ?
+			- goerli ?
+			- l2 ? rust ? solidity ? will all I have learnt in college be of any use ?
+		- preface 2 years ago. intro to web3. wish had documented how exactly i felt
+		- if had mastered it I would have lived my dream life now
+		- gave up becuase the resources were not useful for beginner
+		- went to Web3conf india. dug back in web3 realised the eco had now matured.
+		- true to its promise, it has made knowledge more accessible
+			- fcc mega course
+			- learnweb3
+			- alchemy web3 university
+		- its about the connections
+			- frontend in js. need to be well versed with async events and react hooks
+			- smart contracts in solidity
+			- compiling and deploying your sc
+			- connecting it to metamask and your front end
+		- future blog ideas
+			- why needs lang like sol
+			- deep dive on wallets
+			- what projects are best fit for web3 ?
+			-

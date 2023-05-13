@@ -1,0 +1,24 @@
+- While reviewing my weekend I discovered I had wasted 15 hours in a weekend on wa + ig
+  collapsed:: true
+	- more than 1 4th of total
+	- sleep -> 4am ? till 11am friday -> high on emo
+	- 7.5 hours sunday
+		- so 30 hours gone to sleep + socials
+		- 15 hours recoverable -> 3 deep work sprints
+	- schedule wa and ig ->  paired with another activity ->
+		- avoid strictly -> before 11am, post 8pm
+		- ig -> post something -> check at night
+	-
+- Week review
+	- missed oppos (thinking will attempt better)
+		- atlantis sdg hacks
+		- webflow weekend
+		- Dan koe specialization
+	- Ongoing
+		- [[Emulating Dan Koe]]
+		- [[spacekayak and coinsprout content writer job project]]
+	- wed quiz fork
+		- schedule freewriting every morning + bike tracking
+		- also list of articles to go through as ritual
+			- all shd go in second brain
+		-

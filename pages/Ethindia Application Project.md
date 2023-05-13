@@ -1,0 +1,9 @@
+- [[Web3 Project ideas]]
+- at least 3000 words -> turn into article
+	- if i go in depth in web3. why ? -> tie to rocket science
+- Why Applying to ethIndia ?
+	- how i got started
+	- what i see in salil shrey
+	- how I plan to make Goa a web3 hub
+	- tackling my own problems
+-

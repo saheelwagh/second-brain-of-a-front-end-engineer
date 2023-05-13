@@ -1,0 +1,6 @@
+- deceb=ntrALISED FILE STORAGE
+- grouop book review with huddl
+	- intergration with an excisting tool
+- life coaching with ai ml to determine compatibility
+- 4 weeks -> 4 web3 projects
+-

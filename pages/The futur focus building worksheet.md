@@ -1,7 +1,11 @@
 - ![Focus-Workbook.pdf](../assets/Focus-Workbook_1650353112618_0.pdf)
 - Gratitude and input influence
-  collapsed:: true
 	- 5 people I am grateful to have in my life
+		- rc
+		- sobi
+		- kbs
+		- tql
+		- dad
 	- 5 mentors I'd like to have in my life & One thing would learn from them
 		- project managing mentor
 		- running a business mentor
@@ -12,10 +16,12 @@
 		- professional pursuits
 		- hobbies
 		- breaks and activities
+		- youtube morning
+		- lw3 content
+		- taro
+		-
 - time awareness
-  collapsed:: true
 	- record a typical day in 15 min  increments
-	  collapsed:: true
 		- my thoughts : 15 mins is too specific if you have very less going on currently. 3 hours is a good aprroximation to start with
 		- second such time sheet for weekends
 		-

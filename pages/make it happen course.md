@@ -1,0 +1,6 @@
+- untested convictions
+	- dont l;et limited finite exp hold u back
+	- sometimes may be good to delegate
+		- prompt : what i have learnt in life that is not good in my skill . what would have been served with lower effort, delgated or minimised
+	- my bias towards effort and what i wish i had taken short cuts in
+-

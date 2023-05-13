@@ -1,0 +1,23 @@
+- What is state ?
+	- If you were to boil down an app to its two most fundamental components, what you'd get is UI and State. An app is composed primarily of UI and State.
+	- LATER  make sketchnote
+	- Now if you were to boil down the root cause for any bug you've ever written, odds are that bug was caused because of state mismanagement. The state the app expected and the state it got were out of sync.
+	- Have you ever thought about why the first rule of tech support is turning it off and back on again? It's because it resets the state and therefor, fixes the problem.
+		- By increasing the predictability of your state, you decrease the amount of bugs in your application.
+	- this isn't a course on Redux, it's not a course on React, it's a course on how to make your state more predictable. The patterns and mental models you'll learn in this course span beyond any particular front-end library.
+- why state ?
+	- If you think of any average application you've written before, odds are you had state sprinkled across your entire application. Is this bad? Of course not. However, it doesn't make our state any more predictable. In fact, it probably makes it less predictable.
+	- Instead of sprinkling state all across your application, the first principle we'll learn is about putting all of our state in a single location. We'll call this location the "state tree". By having our state in a single location, we can define clear rules for how to access and update that state.
+	-
+	- Think of our state tree like a bank vault, if you will. To increase the predictability (and safety) of their money, banks implement vaults and define clear rules on who can access them.
+- benefits of state tree
+	- First, shared cache. Have you ever had two components inside of a React application that needed to access the same piece of state? Typically what you're taught to do is to "move state up" to the nearest parent component. This works, until it doesn't. By having our state in a single state tree, any components that need access to it can get access - regardless of their location in the application.
+	- Another benefit is predictable state changes. As mentioned earlier, by establishing strict rules for who can update and access the state, we naturally increase the predictability of the state in our application.
+	- The next benefit is improved developer tooling. Since all of our state exists in one location, other parts of our application can be reloaded without throwing away our state. Along with this, it's also easier to build tooling around the question of "how did are state get here?".
+	-
+	- Another benefit is related to the use of pure functions. The idea here is that by having all of our state in a single location, by definition, the rest of our app is just receiving state and displaying UI based on that state.
+	- Finally, server rendering. If you've ever server rendered before, you know that the whole idea is to spit back the state of your application along with the markup when the initial request comes in. Turns out, sending state and markup back as a response is easier if all of your state is in a single location.
+- what is store ?
+	- Now that we've established that putting our state in a single location is probably a good idea, we also need a way to interact with it. Specifically, we need a way to get our state, update our state, and listen to changes on our state. So we have a name, let's call this the "Store".
+	- The Store consists of our state tree and the three ways in which we'll interact with it - getting it, updating it, and listening to its changes.
+-

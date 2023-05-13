@@ -1,51 +1,48 @@
 - Decoding confusion while reading code
 	- possible scenarios for confusion in  coding
-	  collapsed:: true
 		- new ideas or paradigms
 		- purpose behind existing code
 		- new terms and jargon in business
-	- Lack of knowledge
-	  collapsed:: true
-		- not knowing syntax #card
-		-
-	- **not enough relevant facts are present in your Long term memory**
-	- lack of info
-	  collapsed:: true
-		- method working (u can understand purpose from name)
-			- might require going through docs
-			- and this info is not readily available in the code but needs to be found somewhere else
-		- **Challenge for short term memory**
-	- lack of processing power
-	  collapsed:: true
-		- hard to hold intermediate values
-		- **overloading working memory**
-		-
-		-
-	- LTM and programming
-	  collapsed:: true
-		- Your  LTM  stores  several  types  of  relevant  programming  information.  It  can,  for example,  store  memories  of  when  you  successfully  applied  a  certain  technique,  the meaning of keywords in Java, the meaning of words in English, or the fact that maxint in Java is 2147483647.
-			- js or ts equivalent ?
+		- Lack of knowledge
+			- not knowing syntax #card
 			-
-		- comparable to hard drive
-		-
-		- very hard to read code if youy cannot retrieve from memory
-	- STM in programming
-	  collapsed:: true
-		- briefly holds info
-		- limited size
-		- used to store variables and data structures
+			- **not enough relevant facts are present in your Long term memory**
+		- lack of info
 		  collapsed:: true
-			- apply to js array methods
-			-
-		- emptied after use
-		- like RAM
-		-
-	- Working memory in programming
-	  collapsed:: true
-		- [[code tracing]]
-			- when tracing u feel like noting values outside
-				- indicates that working memory is fulll
+			- about inner working (u can understand purpose from name)
+				- might require going through docs
+				- and this info is not readily available in the code but needs to be found somewhere else
+				- can be improved by faster nav
+			- **Challenge for short term memory**
+		- lack of processing power
+		  collapsed:: true
+			- hard to hold intermediate values
+			- **overloading working memory**
+			- tools like paper pen can help here or whiteboard
+	- Processes in prog
+		- LTM and programming
+			- Your  LTM  stores  several  types  of  relevant  programming  information.  It  can,  for example,  store  memories  of  when  you  successfully  applied  a  certain  technique,  the meaning of keywords in Java, the meaning of words in English, or the fact that maxint in Java is 2147483647.
+				- js or ts equivalent ?
 				-
+			- comparable to hard drive
+			- very hard to read code if you cannot retrieve from memory while knowing it makes it trivial
+			- therefore you need some sort of daily practice to enrich your ltm
+				- syntax kjnowledge
+		- STM in programming
+			- briefly holds info
+			- limited size
+			- used to store variables and data structures
+			  collapsed:: true
+				- apply to js array methods
+				-
+			- emptied after use
+			- like RAM
+			- quick logging is good
+		- Working memory in programming
+			- [[code tracing]]
+				- when tracing u feel like noting values outside
+					- indicates that working memory is fulll
+					-
 	- All process work together
 		- info => filter -> STM -> working or LTM -> working
 		-
@@ -88,7 +85,6 @@
 	- LATER do exercise from ch 2 of prog brain
 	-
 - how to read complex code
-  collapsed:: true
 	- stm -> remember
 	- working mem -> process
 	- sort loc by intrinsic and extraneus load
@@ -114,7 +110,6 @@
 			  5. cirlcle classes 
 			  6. link with their instances
 		- **using a state table**
-		  collapsed:: true
 			- when cause of confusion is not the code structure but the calculations that it performs
 			- 1. List all vars
 			  2. table -< each car its own col

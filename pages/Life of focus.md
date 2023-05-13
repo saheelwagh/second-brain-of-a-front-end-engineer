@@ -1,0 +1,30 @@
+- Series of monthly challenges
+	- prioritizning focused work
+	- cultivating a focused life
+	- developing a focused mind
+- Another useful heuristic is to ask yourself “would it be better if I did *more* of this?” If the answer is no, it’s probably shallow. So if you wouldn’t be *more* productive if you had three all-hands meetings every day, that’s a sign it’s not deep work. In contrast, if you had more meetings to move forward a difficult collaborative problem solving effort, that might genuinely be helpful so that’s a sign it’s DW.
+- deep work vs shallow work
+	- wtihtout deep work u cannot progress
+	- deep work egts you promoted
+	- shalloow work helps you not get fired
+	- deep work plan compoennts
+	  collapsed:: true
+		- ideal ratio between shallow and deep work
+		- scheduling strategy
+		- a set of rituals to enter deep work
+		-
+	- which activity requires deep work ?
+	  collapsed:: true
+		- cognitively demanding
+			- buzz test -> can u still do it while chugging down some drinks ?
+			- how long it would take to train a college3 graduate to perform this task ?
+		- requires a skill
+		- TODO  also apply this to agency
+		-
+	- 2 types of resisntances
+		- distractions whilke working
+		- alternative tasks
+	- rules
+		- min 1 hr max 5hrs per day
+		- go for the smaller side
+		-

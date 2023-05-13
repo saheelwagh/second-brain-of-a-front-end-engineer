@@ -1,0 +1,94 @@
+- fundamentals
+	- digital tool stack
+	  collapsed:: true
+		- notion
+		- beehiv
+			- why backlog letters ?
+				- key to monetization and not being spammy
+		- tweethunter
+		-
+	- what do you write about
+	  collapsed:: true
+		- your money making interest
+		  collapsed:: true
+			- broad -> build market
+			- niche -> target a pain point and sell product or service
+		- your genuine interest
+		- your developmental intresest
+		  collapsed:: true
+			- Psychology, spirituality, metaphysics, self-improvement, philosophy, or any other interest that helps you understand yourself.
+			- und urself -> und others
+			-
+		- breaking down your interest
+		  collapsed:: true
+			- principles / fundamentals
+			- topics and subtopics to zone out
+			  collapsed:: true
+				- Self-employment
+					- Productivity
+					- Focused work
+					- Creating your niche
+				- Client acquisition
+					- How to DM
+					- Qualifying
+					- Service onboarding
+				- Social media growth
+					- Writing newsletters
+					- Writing threads
+					- The best types of content
+				- Digital product creation
+					- Marketing and offers
+					- Launch strategy
+					- Best platforms to build on
+			- mentors to emulate in it
+		- real world problems to create compelling content angles
+		- your first and greaterst tool : your why
+			- Not only will this help build your authority, but it will make you think deeper about “why” other people should care about what you have to say
+			- The “why” is your greatest tool in all of your content. This is what sets you apart and is how you display your unique perspective / philosophy on the topic at hand.
+			- We have a lot to go over, so write this down as the first topic you will write about once you go through the rest of the modules.
+		-
+	- writing for who ?
+	  collapsed:: true
+		- You are writing to your past, present, and future self.
+		- 3rd person public journal
+		  collapsed:: true
+			- You are writing to your past, present, and future self.
+			-
+		- the hey to building a leverageable brand
+			- **Your content over a 6-12 month timeframe is what determines your followers' perception of you.**
+			- During those 6-12 months, we need to be sure we touch on 3 pillars for what I call Social Leverage.​​​​​​​
+			- If you only go deep into productivity as an example and don't talk about yourself, your interests, or your accomplishments — **you won't have as much leverage as the account that cultivates all 3 pillars of social leverage.**
+			- growth
+				- If you aren't growing, you may need to play to the algorithm a bit more. Study what kind of content is doing well, incorporate that into some of your tweets, and be sure it is getting shared by your connections (I will show you how to leverage other accounts and grow fast in "Non Needy Networking").
+			- authprity
+				- **Depth** = a deep understanding of one area of interest where you can create unique perspectives and compelling arguments for specific problems.
+				- **Depth** = a deep understanding of one area of interest where you can create unique perspectives and compelling arguments for specific problems.
+			- authenticity
+				- Documenting projects that you are working on. Everything is a project if you want it to be. Your mental, physical, spiritual, and financial development can all be spun into lessons for those that are 2-3 steps behind you.
+				- Expressing opinions, likes, and dislikes to relate with those in your audience
+				- Being vulnerable — but not in a pitiful way. Be vulnerable by talking about your losses and what you plan to do differently.
+			-
+	- awareness and attention
+		- Remember this: *humans are emotional, not logical beings.*
+		- levels of aware
+			- unaware
+			- problem aware
+			- soln aware (these 3 to be targetyed bu top of funnel content)
+				- in fen but not of your soln
+			- product aware
+				- aware of ur spln but not exp with it
+			- most aware
+				- ready tp act pn yours
+		- Your bottom-of-funnel content (emails, lead magnets, and products) should also target all of the above, with levels 3-5 as the priority.
+		- tried and tested ways of capturing attention
+			- Calling out who you are talking to (like what someone does for work)
+			- Targeting a pain point that someone is experiencing
+			- Opening a curiosity loop (by asking a question or implying a puzzle with a missing piece)
+			- Using statistics, numbers, and other pattern interrupts that pull readers out of their mindless scrolling
+		- This is why content writers always stress nailing the hook or headline of a post.
+		- If somebody doesn't read the hook or headline and feel compelled to dive deeper based on their level of awareness — they aren't going to read the rest of your content (or go through the rest of your course)
+		- What part of the journey are your readers on and what journey are you going to take them on when you capture their attention?
+		-
+- 2 hour lifestyle
+- 2 hour content  ecosystem
+-

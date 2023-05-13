@@ -33,7 +33,9 @@
 		- encode type of var into its name
 		-
 - gaining a deeper knowledge of prgrams
+  collapsed:: true
 	- 2 diff levels at which programmer can understand code -> text structure knowledge and plan knowledge
+	  collapsed:: true
 		- surface level (what is ) vs deeper why this
 	- diff stages of prog und
 		- 1. focal point of ref or entry or loc of error
@@ -47,3 +49,84 @@
 			-
 		-
 	-
+- ch 7 bugs in thinking
+  collapsed:: true
+	- most common cause -> mistake in thinking
+	- why learning a second langauge is easier
+		- 2 ways LTM can support learning prog conepts
+		  collapsed:: true
+			- transfer of old concepts by lookup of relevance
+			- tansfer of learning
+				- non conc process
+					- like closing button of pant or using keyboard
+			-
+			-
+			-
+		- how to increase chance of benfiting form existing prog knowledge ?
+		  collapsed:: true
+			- factors influencing
+				- mastery
+				- simialrity
+				- context
+				- critical attr
+				- assoc
+				- emotions
+			- forms of transfer
+				- gih and low road transfer
+					- for automized skills
+					- like keyborad shortcutd
+				- near and far
+					- near -> c# java
+				- positive (old knowledge helps) and negative (ginders)
+		- difficulties of transfer
+		- LATER  use this template berween js and rusr
+		  collapsed:: true
+			- ![image.png](../assets/image_1655986233441_0.png)
+			-
+		- misconception
+			-
+		-
+- ch6 getiing better at solving programmming problems
+	- use the right mental models
+	  collapsed:: true
+		- LATER vars as tags rather than boxes  draw this
+	- learning new models
+	  collapsed:: true
+		- how to use models efficiently to think about code
+			- concrete models work better
+			- **creating mental models of src code**
+			  collapsed:: true
+				- begin by creating local models
+					- such as state tables and dependency graphs
+				- 2 list all relevant objects in the codebase and the relationships between objects
+				- ans these qs about the system
+				  collapsed:: true
+					- what are the most imp elements
+					- what are the  rels bw these els
+					- main goals of the program ?
+					- how does the goal relate to the code elements and their relationships ?
+					- what is a typical use case ? it it covered in the model ?
+				-
+			- mental models in the ltm
+				- use flashcards : code :: concept
+				- some genreaslly useful models
+					- data structures
+					- design patterns such as observer
+					- architectual such as mvc
+					- diagrams such as ER or sequence
+				- create flashacards for metnal model;s and explainations too
+			- LATER weblfow project of programming flash cards
+	- notional models
+		- consistent and correct (mental has room to be opp)
+			- notional machine
+				- examples
+					- factory worker as a langauge execution model
+				- levels
+				  collapsed:: true
+					- ![image.png](../assets/image_1655988805918_0.png)
+		- notional machines and lang
+		- schemata
+			- ways in which ltm stores info
+				- ex idea of a box and how it is operated
+				- causes no extra cognitive load
+				-

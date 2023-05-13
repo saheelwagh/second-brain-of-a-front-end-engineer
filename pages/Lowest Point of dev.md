@@ -1,0 +1,23 @@
+- Devfolio flagged for review
+- Unable to start any dev work
+- pulled in thousand ways
+- flooded and no time to pause
+- recovering from decade but time to move on
+- [[The gap and the gain]]
+-
+
+voting results mail ss
+
+I was browsing through the projects. I love seeing what people come up with
+
+Was susprised to see my project up top. Loooked closely -> it is not in the list. Damn you algorithms , turns our its not just people who give false hopes. 
+
+Turned worse when I saw a red flag and project marked for inappropiate submission. It was not the marking that hurt me. 
+It was not the potential embrassment I would face to future hack organizers. But with the fact that I was at peace with this event. It was expected (read on to find why). 99% of me had given up on the fight.
+
+The reamaining 1% gathered enough energy to pick up a pen, open my journal and write down the prompt :
+"When did mediocrity become a norm for you, Saheel ?"
+
+- attention creep
+- analysis paralysis
+- why hate the work ?

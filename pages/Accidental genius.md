@@ -1,0 +1,21 @@
+- Intro : Your mind is bigger than you think
+  collapsed:: true
+	- book teaches how to get at what's inside your head, convert the raw marterial of your thoughts into0 something usable
+	- [[freewriting]]
+		- using body to get mech adv over mond
+		- get over default patterns of miond and tackle unfam and uncomfortable territorty
+		- authors xp
+			- I’d be exploring my assigned topic through freewriting and, following the dictates of the technique, I’d digress. Often, my digressions concerned my day job and the problems I experienced as a sales director for a book wholesaler. While I was supposed to be writing a review of a TV show, I’d wander and write about a prospect my company was trying to win. While I was doing a profile on a punk rocker, I’d veer toward ways of coaching a troublesome employee.
+			- n the end, I’d finish my article, but I also frequently came away with answers to my problems in the rest of my life. Accidentally, I was acting as my own consultant.
+			-
+- Write fast and contniously
+	- u diont hav much chiuce
+	- mind follows pace of the body
+- write against a limit
+- write the way u think
+- escape ur own intelligence
+	- reach for a fact rather than trying to be lucky with a great idea
+- getting 100 ideas is easier than one
+- drop ur mind on paper
+- u r what u focus on
+	-

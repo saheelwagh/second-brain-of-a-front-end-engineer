@@ -1,0 +1,11 @@
+- what u bring to the table
+- types
+	- crdentials
+	- rep
+	- network
+	- assets
+	- skills
+- Sometimes the skill you need isn’t obvious. Many engineers think they must master increasingly esoteric programming languages to advance their careers. But in their research, they often discover that being really good at running team meetings is actually more important for promotions.
+- Write out one piece of valuable career capital you think you already possess.
+  Share one thing you think you might need to move forward.
+-

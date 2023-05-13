@@ -1,0 +1,42 @@
+- Topics
+  collapsed:: true
+	- Build and train deep learning models for computer vision, natural language processing, tabular analysis, and collaborative filtering problems
+	- Create random forests and regression models
+	- Deploy models
+	- Use PyTorch, the world’s fastest growing deep learning software, plus popular libraries like fastai and Hugging Face
+- will need 3 hours per lesson => 30 hours
+- There are 9 lessons, and each lesson is around 90 minutes long.
+- The course is based on our [5-star rated book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527), which is [freely available](https://course.fast.ai/Resources/book.html) online.
+- In this course, you’ll be using [PyTorch](https://pytorch.org/), [fastai](https://docs.fast.ai/), Hugging Face [Transformers](https://huggingface.co/docs/transformers/index), and [Gradio](https://gradio.app/).
+- why deep learning
+	- Deep learning has power, flexibility, and simplicity. That’s why we believe it should be applied across many disciplines. These include the social and physical sciences, the arts, medicine, finance, scientific research, and many more
+	- **Natural language processing (NLP)** Answering questions; speech recognition; summarizing documents; classifying documents; finding names, dates, etc. in documents; searching for articles mentioning a concept
+	- **Computer vision** Satellite and drone imagery interpretation (e.g., for disaster resilience); face recognition; image captioning; reading traffic signs; locating pedestrians and vehicles in autonomous vehicles
+	- **Medicine** Finding anomalies in radiology images, including CT, MRI, and X-ray images; counting features in pathology slides; measuring features in ultrasounds; diagnosing diabetic retinopathy
+	- **Biology** Folding proteins; classifying proteins; many genomics tasks, such as tumor-normal sequencing and classifying clinically actionable genetic mutations; cell classification; analyzing protein/protein interactions
+	- **Image generation** Colorizing images; increasing image resolution; removing noise from images; converting images to art in the style of famous artists
+	- **Recommendation systems** Web search; product recommendations; home page layout
+	- **Playing games** Chess, Go, most Atari video games, and many real-time strategy games
+	- **Robotics** Handling objects that are challenging to locate (e.g., transparent, shiny, lacking texture) or hard to pick up
+	- **Other applications** Financial and logistical forecasting, text to speech,
+- what will learn
+	- How to train models that achieve state-of-the-art results in:
+		- Computer vision, including image classification (e.g., classifying pet photos by breed)
+		- Natural language processing (NLP), including document classification (e.g., movie review sentiment analysis) and phrase similarity
+		- Tabular data with categorical data, continuous data, and mixed data
+		- Collaborative filtering (e.g., movie recommendation)
+	- How to turn your models into web applications, and deploy them
+	- Why and how deep learning models work, and how to use that knowledge to improve the accuracy, speed, and reliability of your models
+	- The latest deep learning techniques that really matter in practice
+	- How to implement stochastic gradient descent and a complete training loop from scratch
+- techniqyws covered
+	- Random forests and gradient boosting
+	- Affine functions and nonlinearities
+	- Parameters and activations
+	- Transfer learning
+	- Stochastic gradient descent (SGD)
+	- Data augmentation
+	- Weight decay
+	- Image classification
+	- Entity and word embeddings
+-

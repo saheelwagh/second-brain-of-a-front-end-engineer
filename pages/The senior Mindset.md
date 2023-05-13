@@ -7,8 +7,10 @@
 		- to fix
 			- utilise timeboxing
 			- optimize (re read)
-	-
-	-
+				- mental tools are like duster. could not find, so had to look for else. better to file in easy to retrieve way
+				- when q -> solved. document it and share
+				- reuse libs and templates
+				-
 - so how do you become a senior engineer ?
   collapsed:: true
 	- own the process
@@ -22,6 +24,25 @@
 	- The Art of Science and Engineering, Richard Hamming says the key to a great career is vision.
 		- even a small push or pull of 10% can make a huge diff
 	- working in your careeer vs on it
+		- If you want to improve your career a lot, you have to work on your career. You
+		  have to do work that force multiplies yourself, not just those around you.
+		- You can become a better engineer specialist through pet projects. Explore some
+		  new tech, develop some new skills. Watch talks, read blogs, go to conferences.
+		  Learn more skills.
+		- Next time somebody needs a thing, you can say, “I can do that!”.
+		- ![image.png](../assets/image_1666961984658_0.png)
+		- An easier way at the beginning, and harder when your projects take off, is to
+		  work on open source. It’s a lot like giving talks, but easier to ﬁt in your schedule.
+		  Until you’re famous. Then it’s harder.
+		- You can be a connector. Go out and meet people. Introduce people to each other.
+		  Make people comfortable in social situations. Connect person who needs X with
+		  a person who knows X
+			- An engineer who is good at social is a rare breed. Your career will skyrocket.
+			  This is how you become a VP of Engineering. You think they code? No, they
+			  deal with people
+			- **The connector approach works best if you ever want to start your own team. Oh,you need 5 engineers with skills in X, Y, and Z? Yeah, I know them. I’m buddies
+			  with 10 of them. I’ll have a team put together in 2 weeks**
+			-
 	- what a hockey legend can teach you about career dev
 		- engineering growth club -> weekly get together. Why not explore places together ?
 		- wayne gretzky
@@ -64,7 +85,6 @@
 		- u earn more than u need immediately -> u buy others time -> u have more free time
 		-
 	- focus
-	  collapsed:: true
 		- at what u are uniquely good at. Outsource everything else
 		- solo vs team dev
 			- furst 90% -> fast and solo
@@ -108,6 +128,7 @@
 		-
 	- get aggressively better at work
 		- athletes are paid for value
+		  collapsed:: true
 			- Sponsorship money.  Notoriety. Daniel Ricciardo is the 4th highest paid F1 driver despite bad race results.
 				- LATER atomic essay on daniel and how you can take adv as a dev
 					- he looks good on cam. and has a fanbase. Value
@@ -133,4 +154,18 @@
 	- automate common tasks
 	-
 - [[Engineering Daybook]]
--
+- http://nightowlsbook.com/
+- [[Ethindia Application Project]]
+- salary and equities
+	- The mindset shift I urge you to consider is this: It doesn’t matter how hard or
+	  how much you work, it only matters how much value they get.
+	- Tell your friends how much you make. Figure out together how you all can make
+	  more.
+	- Just a $2000 salary increase can compound into $178,000 of lifetime savings
+	  and that’s kinda crazy
+	- should you work at startup ?
+		- If you can get paid really well, have stable income, work on problems you enjoy
+		  solving, and work in nice offices with free lunch ... why would you resist? Go be
+		  a normie.
+		- br an employee with the mindset of a freelancer
+			- **

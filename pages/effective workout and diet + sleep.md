@@ -1,0 +1,3 @@
+- use atomic habits
+- optimise around creating longer deep work blocks
+-

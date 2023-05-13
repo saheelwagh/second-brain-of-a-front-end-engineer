@@ -1,0 +1,19 @@
+- Summary :
+	- Progressive summarization speeds up capture and review
+	- while capturing gather the main points as you skim
+	- second pass (shallow task), bold and headline the structure
+	- third (deep) hand typed summary
+- action items and links
+	- LATER write an article of progressive summarization walking through a code feature
+	-
+- layer 1 -> **excerpts**
+  collapsed:: true
+	- ayer 1 -> **excerpts**
+	- denoting the structure
+	- still not easily skimmable
+- layer 2 -> **bold the important points**
+	- introduce heirarchy
+	- could qualify as a shallow task
+- layer 3 -> **summary**
+	- while writing this think about reusability. Where can this info be plugged in ?
+- **place summary on top**

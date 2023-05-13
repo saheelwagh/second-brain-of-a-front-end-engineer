@@ -1,0 +1,17 @@
+- [[my current projects]]
+- Start Date : Jan 8
+- End Date : Jan 29
+- Daily Min Hours to commit : 3
+- People to collab with : Swetaang, Mukesh
+- What do We already know in this project ?
+	- Next js allows to ignore routing for a while 
+	  collapsed:: true
+		- but is it enough by itself ?
+			- LATER article on comparison of react router vs nextjs routing
+	- Supasbase provides a better auth experince
+	- Everything depends on the state management. solve this and the dev is only about fetching data and using services
+	- tailwind speeds up css a lot
+- main tasks
+	- solve context
+	- fetch data using useQuery
+-

@@ -1,0 +1,7 @@
+- wake up time : 6.30 AM
+- dump on whiteboard
+- workout
+- deep study session from 7-10
+	- satisfy student phase and switch to worker mode
+	- output : thread of TIL
+	-

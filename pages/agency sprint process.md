@@ -1,0 +1,13 @@
+- phase 1
+	- define your end goal
+	- map the journey of your clients
+	- hmw to hunbt for blockers
+	- we set off and gather solutions
+- phase 2
+	- storyboards and prototying
+	- visual sketches
+	- vote
+- phase 3
+	- prototype
+	- review
+	-

@@ -1,0 +1,7 @@
+- [[My Web3 Development Project]]
+- [[blockchain]]
+- [[Blockchain Dev]]
+- [[Blockchain developer Hub]]
+- Project ideas
+	- PKM on filecoin. zk for sharing
+	- degloss -> build

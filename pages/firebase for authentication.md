@@ -1,0 +1,31 @@
+- Auth flow
+  collapsed:: true
+	- CRUD
+		- only perform 4 actions
+			- create
+			- read
+			- update
+			- delelte
+		- majority
+	- majority of the data will and shd not live on front end
+		- fetch and return from firebase
+	- some data might be sensitive -> auth -> only that person shd access
+	- how google sign in works
+		- google has users saved
+		- it checks if ur who u say u r
+		- google then lends this fnlty to your app
+			- through auth token sent to app
+			- app sends auth token to firebase
+			- firebase sends to google and google verifies -> sends to firebase a validaion token
+			- firebase then creates acccess token and sends to app
+			- user can then make req along with access token
+		-
+- auth with firebase
+	- src -> utils -> utlilites (complex interaaction)
+		- inside this file for firebse (file per utility)
+		- go to web register app
+		- get the config
+		- u can expose apiKey in firebase
+			- but u need ur own config
+		- go to auth tab and enable google signin
+		-

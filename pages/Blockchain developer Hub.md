@@ -22,4 +22,18 @@
 - • Basic understanding of DeFi applications • Familiarity in writing unit-based tests for smart contracts
 - https://huntd.tech/?ref=producthunt
 	- sign up and check out
-	-
+- my bet is most blockchain devs arent 10x so I can gain leverage there
+- use hashtag 100daysofweb3
+  collapsed:: true
+	- LATER plan my 100 day atomic habits of  web3 dev journey
+- ((62ed7546-7815-465a-9732-31a6106941ee))
+- ((62ed7547-5b53-451f-878c-bc9d9da1bdda))
+- ((62ed7547-5b53-451f-878c-bc9d9da1bdda))
+- logseq://graph/second-brain-of-a-front-end-engineer?block-id=62f8cee6-9f74-479a-bd7c-cd7b9419902c
+- ((62f8cee6-9f74-479a-bd7c-cd7b9419902c))
+- article series : review of blockchain learning resources
+- 1k words -> $250
+- 2.2k words -> $350
+- ((62f8cee8-6df0-4e43-a442-f38d6a35114f))
+- [[exisitng blockchain projects or built]]
+- #blockchain

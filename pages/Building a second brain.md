@@ -1,0 +1,334 @@
+- ![Building a Second Brain (Tiago Forte) (z-lib.org).pdf](../assets/Building_a_Second_Brain_(Tiago_Forte)_(z-lib.org)_1655308493071_0.pdf)
+- Intro : the promise  of a second brain
+  collapsed:: true
+	- As the amount of information we have access to grows, such experiences are becoming more and more common. (info on tip of tongue)
+	- Most info given to you is actionable at future, not relevant now
+	- we spend countless hours consuming (show my time ss)]
+		- hoarding
+	- to be able to use this info we need a way to package it up and send it through time to our future selves
+	- it all begins with simple act of writing down
+- Part One Foundation
+	- ch 1Where it all started
+	  collapsed:: true
+		- health probs -> began recording digitally
+		- simple act of taking notes on comp was tip of iceberg
+		  collapsed:: true
+			- once made digital, notes were no longer limted to short hwtn scribbles (pic) - they could take any form inlcuding img, links and files of any shape and size
+		- started using digital note taking on other areas of life
+		- new job -< hectic. Armed with only one trick -> wriitng things down
+		- the origins of the second brain system
+			- it is opp of self improvmenent
+			- optimizing a system outside yourself
+	- ch2 what is second brain
+		- info is a fundamental building blck of everything you do
+		- acc to byt, avg info consumption is 34 gb daily
+		- 26 % of day is spent searching for right info
+		- its timne to amdit that we cannot rely just on palelolithic brain, thousands years old wiring and new flow of data
+			- [[dump thoughts in second brain before sleeping]]
+		- rethinking note taking
+			- notes as knowledge building blocks
+				- in schools -> notes for exam and then forgottten
+				- in prof
+				  collapsed:: true
+					- It’s not at all clear what you should be taking notes on.
+					- No one tells you when or how your notes will be used.T
+					- he “test” can come at any time and in any form.
+					- You’re allowed to reference your notes at any time, provided you took
+					- u r expected to take action on the notes
+				- can be combined into something of value
+				- created once and reused
+				- Our quality of atttention is getting worse
+				- ultimate goal -> u dont even remember anything, you just know where what exists
+				- Your brian shd not be the bottleneck of your knowledge
+	- ch3 how a second brain works
+	  collapsed:: true
+		- think of it as world's best personal assistant
+			- 4 essential capabilities
+			  collapsed:: true
+				- making our ideas concrete
+				  collapsed:: true
+					- Watson and Crick’s breakthrough is well recognized, but there is a part oftheir story that is much less well known. An important tool of the researcherswas  building  physical  models,  an  approach  they  borrowed  from  Americanbiochemist Linus Pauling. They made cardboard cutouts to approximate theshapes of the molecules they knew were part of DNA’s makeup and, like apuzzle,  experimented  with  different  ways  of  putting  them  together.  Theywould shift around their models on their desktops, trying to find a shape thatfit everything they knew about how the molecules were arranged. The double helix  structure  seemed  to  fit  all  known  constraints,  allowing  thecomplementary base pairs to fit together perfectly while respecting the ratiosbetween elements that had been measured previously
+					- turn vague concepts into tangible entities
+				- revealing new assosciations
+				  collapsed:: true
+					- this is what makes one creative
+					- If you’ve ever played the word-tile game Scrabble, you know the best wayto come up with new words is to mix up the letters in different combinationsuntil a word jumps out at you
+						- in second brain we mix ideas
+				- incubating new ideas
+				  collapsed:: true
+					- Too often when we take on a task—planning an event, designing a product,or leading an initiative—we draw only on the ideas we have access to right inthat moment. I call this approach a “heavy lift”—demanding instantaneousresults from our brains without the benefit of a support system.
+					- Even when we do a brainstorm, that still relies only on ideas that we can think  up  right  now.  What  are  the  chances  that  the  most  creative,  most innovative approaches will instantly be top of mind? What are the odds that the best way to move forward is one of the first ways we come up with?
+					- This  tendency  is  known  as recency bias.4  We  tend  to  favor  the  ideas,solutions,  and  influences  that  occurred  to  us  most  recently, regardless  of whether they are the best ones. Now imagine if you were able to unshackle yourself from the limits of the present moment, and draw on weeks, months,or even years of accumulated imagination.
+					- [[running list of side project ideas]]
+				- sharpening our unique perspectives
+				  collapsed:: true
+					- n other words, the jobs that are most likely to stick around are those that involve  promoting  or  defending  a  particular  perspective.  Think  of  a fundraising organizer sharing stories of the impact their nonprofit has made, a researcher using data to back up their interpretation of an experiment, or a project manager citing a couple of key precedents to support a decision. Our careers and businesses depend more than ever on our ability to advance a particular point of view and persuade others to adopt it as well.6
+					- American journalist, author, and filmmaker Sebastian Junger once wroteon the subject of “writer’s block”: “It’s not that I’m blocked. It’s that I don’thave enough research to write with power and knowledge about that topic. Italways means, not that I can’t find the right words, [but rather] that I don’thave the ammunition.
+					- When you feel stuck in your creative pursuits, it doesn’t mean that there’ssomething wrong with you. You haven’t lost your touch or run out of creativejuice. It just means you don’t yet have enough raw material to work with. If itfeels like the well of inspiration has run dry, it’s because you need a deeperwell  full  of  examples,  illustrations,  stories,  statistics,  diagrams,  analogies,metaphors, photos, mindmaps, conversation notes, quotes—anything that willhelp you argue for your perspective or fight for a cause you believe in.
+		- CODE method : four steps to remembering what matters
+			- capture -> keep what resonates
+			  collapsed:: true
+				- what is truly noteworthy
+				- [[lenses]]
+			- organise -> save for actionability
+			  collapsed:: true
+				- Surprisingly,  when  you  focus  on  taking  action,  the  vast  amount  ofinformation  out  there  gets  radically  streamlined  and  simplified.  There  arerelatively few things that are actionable and relevant at any given time, whichmeans you have a clear filter for ignoring everything else.
+			- distill -> find the essence
+			  collapsed:: true
+				- There is a powerful way to facilitate and speed up this process of rapidassociation: distill your notes down to their essence.
+				- Why is it so important to be able to easily find the main point of a note?Because in the midst of a busy workday, you won’t have time to review tenpages of notes on a book you read last year—you need to be able to quicklyfind just the main takeaways.
+				- Your notes will be useless if you can’t decipher them in the future, or ifthey’re so long that you don’t even try. Think of yourself not just as a takerof notes, but as a giver of notes—you are giving your future self the gift ofknowledge that is easy to find and understand.
+			- express -> show your work
+				- A common challenge for people who are curious and love to learn is thatwe can fall into the habit of continuously force-feeding ourselves more andmore  information,  but  never  actually  take  the  next  step  and  apply  it.  Wecompile tons of research, but never put forward our own proposal. We gatheruntold business case studies, but never pitch one potential client. We studyevery piece of relationship advice available, but never ask anyone out on adate.
+				- It’s so easy to endlessly delay and postpone the experiences that would soenrich our lives. We think we’re not ready. We fear we’re not prepared. Wecannot stand the thought that there is one little piece of information we’remissing that, if we had it, would make all the difference.
+				- shift max time to creating
+				- why no ned to wait to get started ?
+					- info is in flux
+					- most of knowledge work is [[two way door decisions]] . You can revise later
+- Part 2 : The method
+	- Capture -> keep what resonates
+		- tailor swift -> 5 released docs shwoing creative process
+		  collapsed:: true
+			- burried in phone cz thats where kept all notes
+			- how she wrote 'Blank space'
+				- Wow, so we only havetwo real options in relationships—it’s going to be forever or it’s going to godown in flames,’ so I’ll jot that down in my notes . . . I’ll come up with a linethat I think is clever like ‘Darling I’m a nightmare dressed like a daydream’and I just pick them and put them where they fit and construct the bridge outof more lines that come up within the last couple of years . . . ‘Blank Space’was the culmination of all my best ones one after the other.”
+			- for her songwriting is discreret activity that she can only do at cetian time and pklace
+		- creating a knowledge bank -> how to gen compounding interest from your knowledge
+			- some examples
+			  collapsed:: true
+				- coders -> code libs
+				- lawyers -> case files
+				- cipywriters and marketers -> swipe files
+				-
+			- Feynmann's 12 Fav problems method of capturing
+				- keep dozen of ur fav problems constantly present in your  mind
+				- every time learn new, test against one of them if it helps
+				- [[my daily dozen]]
+				-
+			- take on a curator's perspective
+		- capture idea 1 : does it inspire me ?
+		- 2 : is it useful ?
+		- 3 : is it personal ?
+		- 4 : is it surprising ?
+		- ultimately, capture what resonatese
+		- emotions organize - rather than disrupt rational thinking
+		- benefits of externalizing our thoughts
+			- generation effect
+				- you are much more likely to rem info you have written down in your own words
+				- When you express an idea inwriting, it’s not just a matter of transferring the exact contents of your mindinto paper or digital form. Writing creates new knowledge that wasn’t therebefore.  Each  word  you  write  triggers  mental  cascades  and  internalassociations,  leading  to  further  ideas,  all  of  which  can  come  tumbling  outonto the page or screen
+			-
+		-
+		-
+	- organize -> save for accountability
+		- Twyla tharp -> dance project boxes
+		- the cathedral effect -> designing a space for your ideas
+		  collapsed:: true
+			- hat  the  environment  we  find  ourselves  in  powerfully  shapes  ourthinking. When we are in a space with high ceilings, for example—think ofthe lofty architecture of classic churches invoking the grandeur of heaven—we  tend  to  think  in  more  abstract  ways.  When  we’re  in  a  room  with  lowceilings, such as a small workshop, we’re more likely to think concretely.
+			- LATER  article on Why you need to visit a cathedral weekly
+				- turn it into expt -> result framework
+				- display results after 3 iterations
+				- 2nd brain -> mind cathedral. => avt course on second brain for programmers
+				-
+		- where 99% of notetakers get stuck and how to solve by organising for action
+			- [[para]]
+			- dont organise using some external system but in projects
+			- separate capture and organize steps
+		- completed projects are the oxygen for your second brain
+			- ppl need clear workspaces (and attention spaces) to create
+			- t doesn’t matter how organized, aesthetically pleasing, or impressiveyour notetaking system is. It is only the steady completion of tangible winsthat  can  infuse  you  with  a  sense  of  determination,  momentum,  andaccomplishment. It doesn’t matter how small the victories. Even the tiniestbreakthrough can become a stepping-stone to more creative, more interestingfutures than you can imagine.
+			-
+		- Move quickly, touch lightly
+			- dont invite burnout
+			- whats the easiest next step in para ?
+			- brain dump
+			- look at cal
+			- todo list
+			- look ar res -> what are you keeping around because it is a part of a larger project ?
+			-
+		- organizing info like kitchen
+			- [[Mise-en-palace for knowledge workers 6 practices for working clean]]
+			- Everything in a kitchen is designed and organized to support an outcome—preparing a meal as efficiently as possible. The archives are like the freezer—items are in cold storage until they are needed, which could be far into the future.
+			- Each kind of food is organized according to how accessible it needs to be for you to make the meals you want to eat.
+			- magine how absurd it would be to organize a kitchen instead by kind offood: fresh fruit, dried fruit, fruit juice, and frozen fruit would all be stored inthe same place, just because they all happen to be made of fruit. Yet this isexactly the way most people organize their files and notes—keeping all theirbook notes together just because they happen to come from books, or all theirsaved quotes together just because they happen to be quotes.
+			- Instead  of  organizing  ideas  according  to where  they  come  from,  Irecommend  organizing  them  according  to where  they  are  going
+			-
+	- distill
+		- Fancis ford coppolla (aasistnt : george lucas) on how godfather came to him purely cz of money need
+		- Qunatum notes : notes for an unnown future
+			- u may be consuming know;edge now that can only be used later in future
+			- discoverability the missing link to usfulness
+		- [[Progressive Summarization]]
+		- 3 most common mistakes of novice note takers
+			- over highlighting
+				- each layer shd hold at max 20% of prev layer
+			- higklihgitng without purpose
+			- making it complex
+		-
+	- express
+		- olivia butler. painfully girl to renowd author hiow ?
+		- blank page wrting is a myth
+		- attention -> most scarce resource
+		- flaw in working with end in mind
+		  collapsed:: true
+			- intermed work and processes tend to be undervalued
+			- what asstes u creating today will be most reusable in the future ?
+			- what building blocks will move your projects forward tomorrow ?
+			- express is about refusing to wait until u have ev perfectly ready b4 you share what you know
+			-
+		- prepare relevant tags
+		- Intermediate packets
+		  collapsed:: true
+			- its not enough to divide into pieces. u also need a system to manage those pieces
+			- 5 types
+			  collapsed:: true
+				- distilled notes
+				- outtakes
+				- work in progress
+				- final deliverables
+				- documents created by others
+			- benefits of shifting to intermed packets based work
+			  collapsed:: true
+				- u bcm interruption proof as u only hve to focus on small tasks
+				- instead of waiting for long time blocks u can get started immeditaes (long blocks getting rarer)
+				- improved qual of work ue to increased feedback
+				- in time work gets reduced to just assembling IPs
+				-
+				-
+				-
+			- notice the components already created in current work and build IP from these
+			- creativity is inherently collaborative
+			- everything is a remix
+			-
+			-
+- part 3 making the shift to self epxression]
+  collapsed:: true
+	- art of creative exec
+		- father planned for creativity
+		- **Imp lesson learnt from father**
+			- by the time you sit down to make progress on something, all the work to gather and organize the source material needs to be already done
+		- invest in standadizing
+		- div and conv a creative balancng act
+			- block days or time blocks by divergent and convergent tags
+			-
+			- you begin by opening the space of possibilities and consider as many options as possible
+				- expose urself to new influences
+				- capture oand organise phases occur here
+			- but if we only diverge all the time, we will arrie no where
+		- when diverging -> scatter mode when converging -> hyperfocus mode
+		- 3 startegies to bind creative work
+			- Archipelago of ideas -> stepping stones
+				- chain of islands in ocean
+				- ideas (dots ) grouped together
+				- think of your life's mission as this
+			- [[Hemingway bridge]]
+				- reserve last few minutes of pomodoro sessions for this
+				  collapsed:: true
+					- write down ideas for next step
+					- write down the current status (use programmers's brain)
+					- write down any details you have in mind that you feel can be forgotten
+					- write out intention for the next session
+					- send this beta draft for feedback
+			- dial down the scope
+				- prob isnt lack of time. it is that we f
+	- essential habits of digital organizers -> in real world u wont have the time to stop all tasks to config ur system
+		- project checklist
+			- the key to starting your knowledge flywheel
+			- everyday u consume and produce without needing a second brain. but what u are missing is a feedback loop
+			  collapsed:: true
+				- a way to recycle knowledge
+			- attention as an asset
+			- 2 key moments in the loop (info->proj->feedback)
+				- proj kickoff
+				- project completion
+			- project kickoff checklist
+				- planes -> pre flight checklist but projects take off haphhazardly every where
+				- Tiago's checklist
+				  collapsed:: true
+					- capture current thinking on the project
+						- moment proj begins -> ideas and opinions start forming
+						- brainstorm and place this note in the folder
+						- prompts
+							- what do I already know about this project ?
+							- what dont I know that I need to find out ?
+							- What is my goal or intention ?
+							- who can I talk to or who might provide insights ?
+							- what can i read or listen to for relevant ideas ?
+							-
+					- review folders or tags that might contain relevant notes
+						- dont get bogged down. keep the momentum going
+					- search for related terms across all folders
+						- shd be opp to searching on internet that is distracting
+					- move or tag notes to the proj folder
+					- create outline of collected notes and plan the project
+						- archipelago towards features
+						- formulate a logical progression of steps to take
+						-
+				- this entire checklist should not take more than an hour
+				-
+				-
+			- project completion checklist
+				- review packets and move them to folders
+				- mark as complete in the project mgmt app
+				- cross out project goal and move it to life's success list
+				-
+		- review -> why u shd batch process ur notes
+		  collapsed:: true
+			- weekly clear your notes inbox
+				- choose tasks for next week and set up env
+			- monthly
+				- review and update goals
+				- update project list
+				- review areas of responsibility
+				- review someday or maybe tasks
+				- reprioritize tasks
+		- noticing -> using second brain to engineer luck
+		  collapsed:: true
+			- most common myth : org requires a heavy lift. That blocking off their cal for few days can help curb he clutter and clear head
+			- it needs to be done a little at a time in the flow of our normal lives. It needs to be done in the in-between moments of moving  your  projects  forward  as  you  notice  small  opportunities  for improvement.
+			-
+	- the path of self expression
+		- mindset over toolset
+		- your first brain's new job
+			- CEO of your life
+				- managing the process of info into results
+			- delegate remembering to external brain
+			- free up time and energt for self expression
+		- the shift from scarcity to abundance
+		  collapsed:: true
+			- assumption of past : info is scarce, therefore we need to acquire and consume and hoard as much of it as possible
+				- thus we crave more and more and consume
+			- we ve been taught to guard info
+			- abundace mindset -> we dont have to consume all or even much. All we need is few seeds of wisdon and seeds we  most need tend to continually fubd us.
+			- You just have to listen to what life is trying to tell you
+			- the shift from consuming to creating
+			  collapsed:: true
+				- polanyi's paradox
+					- we know more than we can say
+					- there are many tasks that we can easiy perform but cant fully explain
+					- such tactic knowledge tasks will be the last to be automated and conquered by AI
+					-
+			- two greatest changes tiago made
+				- meditation
+				- [[writing in public]]
+			- your turn : the courage to share
+			  collapsed:: true
+				- it takes courage to stand up and deliver ur messaqge
+					- refusng to be quite nad hide in face of fear
+					-
+			-
+		- **12 imp steps**
+			- decide what u want to capture
+			- choose your appp
+			- choose a capture tool
+			- get set up with para
+			- id ur 12 fav problems
+			- trasnfer highlights -> progressive simmarization
+			- expt with one intermediate packet
+			- make progress on one deliverable
+			- schedule a weekly review
+			- assess ur notetaking proficicnet
+			- join the pkm community
+		- chase what excites you
+		-
+- A tagging system that works
+	-

@@ -1,0 +1,14 @@
+- building custom sections -> before lunch
+	- then plan out sections for all 3 sites
+- responsive -> express view
+- hover and dropdown -> 30 mins
+- overflow and carousels -> 30 mins
+- tabs and lightbox + form -> 30 mins
+- symbols + challenge -> 30 mins
+- cms -> 3 hours
+- animations -> 1.5 hours night
+- site building process -> 1 hour night
+- advanced topics -> 1 hour
+- advanced build ->
+- [[Software Agency Hub]]
+-

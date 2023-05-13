@@ -1,0 +1,4 @@
+- ![Burn Your Portfolio (Michael Janda) (z-lib.org).pdf](../assets/Burn_Your_Portfolio_(Michael_Janda)_(z-lib.org)_1657207139528_0.pdf)
+- Burn really ?
+	- till u get ur foot in door portfolio is 90% of ur val. post its 10
+	-

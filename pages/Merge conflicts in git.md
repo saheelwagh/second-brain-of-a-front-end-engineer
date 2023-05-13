@@ -1,0 +1,5 @@
+- when 2 modify the same loc
+- '>>>' incoming change and <<< your code
+- git diff shows the changes
+- to accept both changes -> create another merge commit
+-

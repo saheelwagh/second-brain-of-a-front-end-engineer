@@ -1,0 +1,15 @@
+- Site 1 : Treat real estate and fitness as one
+- Site 2 : Leo
+- Site 3 : fitness factory
+- Precursor project : [[Get really fast at figma]]
+- Post cursor project : [[framer sites for fast moving businesses]]
+- Current status : April 2023
+	- All projects scheduled to finish at month end
+	- Phase 1 : Get content for all sites ready and solve other blockers
+	- Phase 2 : Deliver Leo -> Weekend
+	- Phase 3 : Deliver FF -> Weekend phase 1
+	- phase 4 : deliver tql -> sunday or 29th
+	- What i know
+		- Scheduling
+			- Early morning is yet untested -> due to lack of clarity
+			-

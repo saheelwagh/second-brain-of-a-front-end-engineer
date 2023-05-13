@@ -1,0 +1,3 @@
+- refer : [[deep work]]
+- [[steal like an artist]]
+-

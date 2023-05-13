@@ -1,0 +1,5 @@
+- what is deep work ?
+- how to maximize most focused period
+- 9-3 is least focused hence best used on collab, meetings, writing and other chores
+- night is good for learning but guess its best used for offline activities
+-

@@ -1,0 +1,5 @@
+- Cms -> 16,000
+- static -> 12,000
+- static one month -> 1000
+- agency -> 18k annual to run 10 sites with 3 editors
+-

@@ -1,0 +1,12 @@
+- Last month I had a great time visiting web3conf India
+- I went  there in search of inspiration around web3 ecosystem
+- I am personally not attracted to projects that have a high participation of people. Less voting more coding is my jam
+- There were stalls put up by many web3 companies. The one that caught my eye was stackos https://www.home.stackos.io/
+- what is stockos ?
+- ok what is the big deal in decentralised hosting ?
+- how aws started
+- current state of market
+- imagine scenario where aws goes down or rogue ?
+- giving hosting back to the masses
+-
+-

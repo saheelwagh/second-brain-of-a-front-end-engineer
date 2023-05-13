@@ -1,0 +1,8 @@
+- Andar se khokla ho chuka hu -> maar diya
+- Time for each one of us to adopt this mindset.
+- My personal approach
+	- Killed dev -> restarted
+	- Killed writer -> restarted blog
+	- Killed freelance tag -> formed a company
+- Replace dishonesty with vulnerability
+-

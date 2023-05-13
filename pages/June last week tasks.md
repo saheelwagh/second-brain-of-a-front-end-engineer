@@ -1,0 +1,27 @@
+- react concepts
+	- components
+	- state and props
+		- https://www.youtube.com/watch?v=35lXWvCuM8o context api
+		-
+	- firebase basics
+		- https://www.youtube.com/watch?v=fgdpvwEWJ9M&t=38s
+	- firbase auth
+		- https://www.youtube.com/watch?v=PKwu15ldZ7k&t=29s
+	- css basics
+		- grid
+		- flex
+		- responsive
+		-
+	-
+- net ninja stresses
+	- full modern react tutorial
+	  collapsed:: true
+		- components and templates
+		- click events
+		- useState hook
+		- dev tools
+		- props and reusing components
+		- usefffect hook
+		- react router
+		- controlled inputs and submit events
+		-

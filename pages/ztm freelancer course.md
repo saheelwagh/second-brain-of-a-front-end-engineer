@@ -1,0 +1,152 @@
+- millionaire mindset
+  collapsed:: true
+	- "There is no passio to tbe found playing small" Mandela
+	- how freelancing can change your life
+		- upwork study -> as big as constru and transportation industry
+			- more lancers are now looking at it as a longer term option
+			- gives the required flexibility
+			- every gen has had 1 in 4 workers who freelanced
+			- by 2027 half of us workforce will be freelancing
+		- business are now more inclined to hire freelancers
+		- vs agencies
+			- u dont get the level of service compared to freelancers (1v1)
+			- get paid for your value not your time
+		- u are directly tied to your success
+		- increased sense of purpose
+		- freedom = happiness
+		- understanding fin, personal and professional freedom
+		  collapsed:: true
+			- the state of not being imprisoned or enslaved
+			- step 1 of fin freedom -> do the calc
+				- $1mil = $1 sold to mil ppl , 400 ppl to buy $2.5k
+				- 34 ppl pay you $2.5k per month for 12 vmonths
+				- 17 people -> $5k per month
+			- personal freedom
+			  collapsed:: true
+				- what it means to you. choose how you want to live your life
+				- when u want to work
+				- prof fr
+				-
+				-
+				-
+			- prof fred -> choosing what u want to work on
+		- How to establish your why
+		  collapsed:: true
+			- look for patterns in your life
+			- what motivates you ?
+			- dissect what your perfect life looks like
+			-
+		- massive action vs the law of attraction
+		  collapsed:: true
+			- positive thinking does nothing without action
+			- it takes **massive** levels of action to achieve anythign worth hacing
+			- persistence and persevarance are the key to scucces
+			- every amrathon starts with the first step
+			- u need be obsessed
+			- first step is to define your ultimate goal
+		- circle of focus
+		  collapsed:: true
+			- all greats boil down to this advice
+			- dont spread your focus too thin
+			- dont make it look like a pizza pie
+		- the power of positivity
+		  collapsed:: true
+			- the abil to stay pos is ur most val asset
+			- att is conrolled by your  thoughts
+				- u control what goes in
+			- you are a product of ur env
+			- people act how you treat them
+			- placebo effect proves the true power of the mind
+			- kill em with kindness
+			- how to stay positive
+				- smile
+				- see problems as opportunites
+				- talk positively
+				- have a plan
+				- take massive levels of action
+				- never complain
+				- focus on the soln not the problem
+				- motivate other around you
+			- always seek new challenges
+		- how to stay motivated
+		  collapsed:: true
+			- => provokes you into action
+			- why
+			- combination of health wealth and re
+			- take inventory and detox
+			- you are either taking actions to build your life or to destroy it
+			- make health and wellness a priority
+			- dont be afraid to let know who you are
+			- surround yourself with success
+			- keep your schedule jam packed with something u r looking forward to
+			- top 10 methods
+			  collapsed:: true
+				- dress for success
+				- show up early
+				- stay late
+				- look how you can help others
+				- move your body
+				- eat helathy
+				- seek out new oppos
+				- be the most ethical person you know
+				- have a higher purpose or mission
+				- keep setting new goals
+			-
+		- key fl success factors
+		  collapsed:: true
+			- importance of speed
+				- first to approach, close etc bv4 client moves on
+				- applies to every area of fl
+			- the customer experience
+				- not just cust service
+				- your rep
+			- your reputation is everything
+			- understanding googd clients vs bad clients
+			- comm is key
+			-
+		- how to be massively prod
+			- und busy vs prod
+			- get organized
+			- control time
+			- eliminate distractions
+			- use time blocks
+			- mutitasking is a lie
+			  collapsed:: true
+				- switching costs
+				- att residue
+					- necessity of taking breaks after a task
+			- do the hard tasks first
+			- set time for checking email and comms
+			- block distraction sites
+			-
+- the power of phone
+  collapsed:: true
+	- never leaves your side
+	- people trust their phones
+	- opens door to sales
+	- allows you to qualify leads
+		- tones and clues
+	- build relationships
+	- ways to profit over the phone
+		- learn to communicate well
+		- ask the right questions
+		- have a call script pulled up
+		- text to increase conversions
+		- follow up in creative ways. commitment = persistence
+		- role-play everyday
+		- practice handling objections
+			- chatbot app ?
+		- have a big claim
+	- **end every interaction with a CTA and next steps**
+- The price myth
+	- myth that clients always go with the cheapest option
+	- check with hotel anal
+		- if u going vacay u want to stay at 5 star or lounge ?
+		- dont undervalue yourself
+		- there is no scarcity of money
+		- always agree first
+		- selling is an act of giving
+		- **there is always room for expert level work**
+		- price is usually the last concern
+		-
+		-

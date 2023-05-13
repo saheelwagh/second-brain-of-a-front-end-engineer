@@ -1,0 +1,391 @@
+- Taught by Ben Burns and  Matthew Encina
+- Goals of the course
+  collapsed:: true
+	- proj mgmt theories and best practices
+	- how to deal with diff client situations
+	- how to comm better
+		- delegate
+		- feedback
+		- set client expectations
+	- run projects better]
+- why proj mgmt
+  collapsed:: true
+	- relieve friction -> you, team, clients
+	- save time by optimizing workflow and removing redundnacies
+- Roles of a project Manager
+  collapsed:: true
+	- when busy Mathew hires a pm
+	- Ben prefers to spend t on business than on it
+	- qualities
+	  collapsed:: true
+		- amazing comm
+			- clr dir
+			- clarify confusion
+			- intent into action
+			- set and meet expectations
+		- team shepherd
+			- guiding the team to the goal
+			- course correction
+			- protecting them form potential harm like nlate nights and overtime
+		- u r the buffer between the clients and the creatives
+		- client advocate
+			- do right by the client
+			- offer best recommendations
+			- not at the expense of your team
+		- always in sync
+			- pulse of jobs
+			- milesones
+			- anitcipate needs and challenges
+- tools
+  collapsed:: true
+	- isnt as imp as the processes and habits
+		- of trtacking and measuring progress
+- Proj mgmt theory from 30k feet
+  collapsed:: true
+	- waterfall method
+	  collapsed:: true
+		- sequential and linear
+		- divides proj into steps or phases
+		- sync so cant start next until prev starts
+		- why
+			- if u hav clr defined processes and working on delverablesd
+			- easy
+			- predict teams bandwidth
+			- clearly shows progress
+		- cons
+			- very rigid
+			- requires prior kmoe
+			- hard to integrate feedbackl or testing
+			- requires defined processes
+			- schedule can be easily missed or delayed
+		- phases
+			- gather info
+			- plan steps
+			- estimate time and resources
+			- ]conduct project steps
+			- adjust  timeline and resources
+			- deliver when the project is complete
+		- refer] ]bur]n your portfolio -> venus section
+	- Agile
+	  collapsed:: true
+		- is not a method bu]t a philosophy
+		- best for unclear solns such] as revenue and brand loyalty
+		- dont know the deliverables yet
+		- problem has been diagnosed but soln ]not defined
+		- Four agile principles
+			- people over processes and tools
+			- solns ovcer documents
+			- collaboratives and deliverables
+			- responding to change over following a plan
+		- **iterative and incremental**
+		- why
+			- some savvy clients might req an agile engagement
+			- agile helps step into the unknown
+			- nothing we make will ever be perfect. There is always a room for improvement
+			- **How to apply agile**
+				- scrum is a structure that gives structure to agile philo
+				- scrum is great for tech processes
+				- pros
+					- effectively manage time and budget
+					- best way to approach complex problems without a solution
+					- at the end of each sprint, the product is a functioning usable version
+					- each team member is held accountable for their action or inactions
+				- cons
+					- requires client engagement (contract to be set accordingly)
+					- can be difficult to adapt
+					- **daily meetings can be a little intense**
+					- requires lots of planning and strategy
+					- requires dedicated roles to be filled
+					- feels like a proj within a proj
+				- good fit for products. Bad for projects
+				- read : scrum the art of doing twice the work in half the time
+				-
+	- lean
+		- philo
+			- avoiding waste and increasing efficiency
+		- more to do wrt running a company than clients
+	- kanaban
+		- series of tasks moved along workflow columns
+		- tasks are pulled when team member gets free
+		- pros
+			- very simple to adapt and understand
+			- helps avoid bottlenecks and burnout
+			- progress through the board can be easily measured
+			- very transparent
+		- cons
+			- may be overly simple for complex problems
+			- requires productive and self manager team memnbers . manager of oner
+			- lack of dealdine can decrease productitivyt
+		- good for small dedicated teams
+		- fits in well as a tactic within other philosphies
+			- but may not be enough to get the project done
+- approach at blind
+  collapsed:: true
+	- waterfall to build clear seq steps on each other
+	- within those phases, a weekly standup inspired by scrum
+	- break down assign bite sized with kanab
+- [[project management at the futur]]
+- client onboarding
+  collapsed:: true
+	- transition from lead to client
+	  collapsed:: true
+		- why
+			- giving clients clear expectations and
+			- step to follow
+			- sets the tone of the project
+	- define the foll metrics
+	  collapsed:: true
+		- scope -> what are we doing
+		- ]time -> how long
+		- cost -> how much
+		- quality -> what is expected
+	- assign a single point of contact to the client
+	- pro tip : dont disaapear. Keep a schedule for regular check in with the client
+	- logistics
+	  collapsed:: true
+		- small things matter
+		-
+	- client timelines
+	  collapsed:: true
+		- u shd hv repeatable process forevery delliverabl;e
+		- eat elephant one  bite at a time
+		- create bite sized milestones
+		- clients love to see visual tim]]elines
+		- check out the motion timeline and the onboarding checklist]
+	- creative brief
+		- summaraize entire project goal in one page
+			- goal
+				- keep it to one line describing the outcome
+			- target audience or user
+				- who
+				- their challenegs
+				- why they care
+			- creative parameters and considerations
+				- sandbox for the team to play in
+				- room for interpretation
+			- checklists
+			-
+			- references
+			- milestones
+			- delivery specs
+			- task assignment
+				- specific role
+				- by when
+			- pro tip share with client first
+			- respect the creative brief
+			-
+	- assigning tasks
+		- briefs visible to clients but not tasks
+		- expectation ]-> by when -> ]questions]
+		- allows each team member to confirm and hold themselves accountable
+		- helps you estimate time and resources for this and future projects
+		- when its too much work ?
+			- redistribute to rest of the team and balance tasks
+			- hire a freelancer and take tasks off your teams plate
+			- go back to the client for adjusting timelines
+		- pro tip -> be honest with clients or higher ups
+		- task lengths
+			- simple tasks -> mostly shallower. quickly iterable
+				- can be stacked
+				- complex tasks .
+					- require heavy problem solving
+					- be generous with time here (days to weeks)
+		- organsizing tasks
+			- mapping tasks to schedule
+			- avoid too much switching -> allow warm up
+			- capitalize on momentum -> group similar tasks together and maximize the productivity of your team
+			- get on the groove -> block by half day or day instead of hours
+			- be sure to organise waterfall tasks properly
+			-
+- check ins
+  collapsed:: true
+	- calls twice a week at least
+	- how to update the client
+		- scheduled WIP postings
+		- flag any challenges
+		- bing up questions on decisions
+	- choose transparency over looking good in moment
+		- b2b writing is frustrating and u will need to seek a lot of help
+	- benefits
+		- make client feel at ease
+			- u r on top of things always
+			- builds trust
+			- shows them progress, that things are moving forwards
+	- check ins with team
+	  collapsed:: true
+		- once a week with full team
+			- global update on project status
+			- set weekly goals and follow up on task assignments
+			- raise any concerns with hitting deadlines
+		- 2-5 with individuals
+			- post daily WIPS
+			- flag any issues wrt overblowing timeline
+		- scrum scaled down
+		-
+		-
+		-
+	- wrt remote workers
+		- treat them the same
+		- video conf for weekly checkins
+		- post dailies in one place -> loom links ?
+	- pre deadline
+		- internal deadline with padding
+			-
+- presenting
+  collapsed:: true
+	- pro tips
+	  collapsed:: true
+		- make sure all r present
+		- record meeting and send the recording with the work
+		- small refinements are fine over mail not first looks
+			- to take care of the context
+	- case study : presenting a brand id project (logo)
+	  collapsed:: true
+		- stop treating clients like designers or creative directors
+		- pre reqs
+		  collapsed:: true
+			- solid discovery
+				- take all words from client head and orh
+			- take collab steps
+				- best way is stylescapes
+			- incredible work
+			- right tools
+		- building the presentation
+		  collapsed:: true
+			- start at the beginning
+				- goal of this website is to ___ -> pain point, target etc
+			- recap steps taken together
+				- take no more than 5 mins
+			- display your work
+				- ideally 3 options
+					- explain thought behind each version
+					- first , white simple logo
+					- two, white n black
+					- third, standard mockup
+					- then slide format mockups
+						- showing logo on a building will make the client look good
+					- (15 slides covering all logos)
+			- ask targeted questions
+			- always steer clients away from personal preferences
+				- did we take step in right dir to ___ ?
+			- dont expect feedback
+				- give time to digest
+			- set timelines and expectations
+	- follow up
+	  collapsed:: true
+		- what we did
+		- recap of any feedback
+		- what we expect feedback on
+		- when feedback is due
+		- what our next steps are
+		- request for confirmation
+		- pro tip : put revision no in subject of email
+- Feedback management
+  collapsed:: true
+	- challenge the client to clarify at max
+		- default response used to be just shut up and show that u are working\
+	- goal : und the intent behind what they are asking
+	- focus on the tone -> its not just what you say but also how  you say
+	- pro tips -> stay detached from work and be objective
+	- focus on helping the client
+	- keep smiling
+	- framing feedback
+	  collapsed:: true
+		- key here is context
+		- frame in terms of
+			- goals
+			- logic
+			- decision tree (past decsions taken together)
+			-
+			-
+	- pro tip : be open minded and mindful of client's expertise in the domain
+	- redirecting client feedback
+		- when clients focus on details that dont matter rn
+		- ex : when looking at wireframes -> content vs styles
+		- remind that we need to arrive at X by time remaining
+	- problematic or conflicting feedback
+	  collapsed:: true
+		- when stakeholders give varying feedbacks
+		- try to ask together pref in same room or call
+		- plot on both ends of opposite spectrums and ask where to place
+			- profesional vs fancy for leo
+		- pro tip
+			- map the decsion tree
+				- shd be able to pull up as the pm
+			-
+	- consolidating feedback
+		- needed before moving forward
+			- dont proceed till all stakeholder feedback is available
+	- recapping and confirming the next steps
+		- checklist
+			- action items for your team
+			- anything that the client owes you as a follow up
+			- the next posting and what client should expect
+		-
+- Danger Zone
+  collapsed:: true
+	- scope creep -> client asking for extra
+		- unde the intent first
+			- motivation behind the req
+			- is there a simpler soln ?
+		- ack and present addtional effots reqd
+		- Bend when possible
+			- clarify that doing this as a favour
+			- convey that if it was anything big would have  had to charge
+			- always facor in such small adjustments while charging
+			- also convey any increase in bufget or schedule
+		- get the client themselves to prioritise what is needed
+	- the moving target
+		- first of all stop working
+		- get clarity
+		- "i need some help in defining the goals of the project"
+		- illuminate the decision tree
+	- playing telephone
+	  collapsed:: true
+		- game where
+			- many dirs of messages hence signal lost or corrupted
+			- ensure dec making together
+				- through note recaps
+			- "Im cur if every stakeholder has had a chance to review this material ? did they have any input ? do they need to be involved ?
+			-
+	- Hostile Clients
+		- ack and id friction
+			- focus on them
+			- most of the times it'll be "this is another item on my plate"
+			- if it is on you, accept the resp
+			- i want to ensure moiv fwd i do not want to create more stress for u. how can i help u. what can i do to simolify ur job
+			- shows that you care about  the relationship
+		- be empathatic
+	- ghosting
+		- follow up
+		- reach out to someone else on their team
+		- if all else fails bill whats fair and exit
+			- put this in contract ahead of time
+		-
+- redirecting the team
+	- how to communicate client notes
+	  collapsed:: true
+		- goal
+			- describe feedback as action items
+			- keep team prod and morale high
+		- be transparent. give context
+		- start off with the positivies. what did the clients like ?
+		  collapsed:: true
+			- acknowledge the hard work
+			- make feel respected
+			- make changes more digestible
+		- desecribe what the requests are and why
+		  collapsed:: true
+			- their problem solving brain kicks in
+			- can lead to better results
+		-
+- align on expectations
+- gettiung approvals
+	- define 'done'
+	- get approvals at increments
+	- be transparent about the status
+- delivering the work
+	- pre req
+		- work is approced
+		- recieved the final payment
+	-

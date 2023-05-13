@@ -1,0 +1,2 @@
+- A field where no is an expert. The great leveler
+- Just a curious mind trying to grasp ai

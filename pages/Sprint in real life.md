@@ -1,0 +1,16 @@
+- Intro and  link
+- Underlying philosophy and how it ties to Highlight
+- Some of funamental book ideas. With my added customizations
+	- Some points come up across books
+- flux academy [managing multiple clients](https://youtu.be/gcKfnYOdJSs)
+  collapsed:: true
+	- context switching through varying types of client requests
+	- und ur capacity
+		- past project -> how long it took ->
+	- schedule next project halfway through
+		- ie via gantt chart
+	- create a timeline
+	-
+- https://twitter.com/web3conf_india/status/1642771953491775491 use as src in web3 job app. also include pics from web3conf and ethIndia
+	- might need crAfting a newsletter themed article
+-

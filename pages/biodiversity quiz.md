@@ -1,0 +1,24 @@
+- What are the only two mammals that lay eggs?
+- **Answer:** Spiny anteater and duck-billed platypus
+- group of cows -> murder
+- only big cat that does not roar
+- caravan -> camles
+- dealist creature killing around 1 million humans yearly -> mosquito
+- social media round
+  collapsed:: true
+	- pramod swant [black panther](https://twitter.com/drpramodpsawant/status/1523367658082635782?lang=en)
+	- akhilesh [cheetah](https://twitter.com/yadavakhilesh/status/1571102293617176582) masters in env engg
+	-
+	-
+- fall of a sparrow last book of salim ali
+	- other books
+		- https://www.thriftbooks.com/a/salim-ali/719199/
+	- bird sanctuary (tie to location)
+- bhsihnoi 29 rules
+	- ravi bishnoi
+- 65 percent of all plant life is found in the oceans
+- Earth’s longest chain of mountains, the Mid-Ocean Ridge, is almost entirely beneath the ocean, stretching across a distance of 65,000 kilometres. It’s said that this mountain chain is less explored than the surface of Venus or Mars.
+### **There are more historic artefacts under the sea than in all of the world’s museums.**
+- Greta Tintin Eleonora Ernman Thunberg
+-
+-

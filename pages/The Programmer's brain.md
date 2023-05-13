@@ -1,11 +1,15 @@
 - ![The Programmers Brain What every programmer needs to know about cognition by Felienne Hermans (z-lib.org).pdf](../assets/The_Programmers_Brain_What_every_programmer_needs_to_know_about_cognition_by_Felienne_Hermans_(z-lib.org)_1649481271237_0.pdf)
 - what every programmer needs to know about cognition
 - why read
-  collapsed:: true
 	- I’ve  spent  a  lot  of  my  life  thinking  about  programming,  and  if  you’re  reading  this book  you  probably  have  too.  I  haven’t  spent  nearly  as  much  time  thinking  about thinking,  though.
+	- This book is the result of the last few years of me reading books, talking to people, and attending talks and conferences about learning and thinking
+	- There are so many ways in which you can shoot yourself in the foot while programming. As you will see in this book, many of the errors you make are rooted in cognitive issues.
+	- aim of the book -> help you und how your brain processes code. WHat it does whjebn persented new info as pro progreammers are faced with new info often.
 	-
-- 13 chapters 4 parts. 
-  collapsed:: true
+- key concepts : LTM, STM and working memory
+	- ![image.png](../assets/image_1673925864677_0.png)
+	-
+- 13 chapters 4 parts.
 	- read in order
 	- 1 -> 3 cog processes that play a role when prog. Confusion related to each
 	- 2 -> how to quickly read code and get a sense of its working
@@ -25,11 +29,13 @@
 - [[Part 3 How to learn syntax quickly]]
 - [[Getting Better at solving complex problems]]
 	- elements of problem solving
+	  collapsed:: true
 		- 1. The goal state
 		  2. start state
 		  3. rules of approach
 	- all states to be considered form the state space
 	- role of LTM in problem solving
+	  collapsed:: true
 		- problem solving by itself is not a generic skill or a cog process
 		- it is easier to solve fami8liar probs
 		- Steps
@@ -46,6 +52,7 @@
 					  collapsed:: true
 						-
 - part 4 collab
+  collapsed:: true
 	- how to onboard new devs
 	  collapsed:: true
 		- issues in onboarding process

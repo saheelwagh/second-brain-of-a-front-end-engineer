@@ -1,0 +1,19 @@
+- 1st among Why I write posts
+- Writing is an act of publishing your thoughts
+- Journal or brain dump is the first stage of shipping
+- Second stage is publishing -> testing against your own sense of judgement
+	- You can be too soft -> kill your babies
+	- Or you can be too harsh -> stemming from lack of confidence
+		- I believe most of us fall into the second bracket (or we'd see a lot more writers in the wild)
+- Third stage is publishing
+	- here is the biggest roadblock as it is the most brutal phase
+	- But if you get good then also the most rewarding
+	- Only way to get good is to keep getting hit and see where you can improve
+- Ways to get better -> forced reps
+	- only program I would join if I could afford ->s30for30
+	- their promise
+	- so what is the workaround ?
+	- ai ? -> publishgpt
+	- set of ai tools to help write online
+- wordboard -> foss project
+-

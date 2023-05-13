@@ -1,0 +1,14 @@
+- There is something I do daily but also dont do daily
+- When i dont do it, I get restless and spread it elsewhere
+- Firm believer with things like openai that high level thinking is the most important task
+- feel like something is missing from my days
+- there is also the thing that i find it rare to be understood. When i write, at least I understand myself
+- writing gets me into the elusive flow state
+- which then sets me up for creative work
+- asymmetrical creativity -> flow state and non flow state
+- if i hv to progress, i hv to be more in flow -> i hv to write
+- and that is why i write
+- case in point, plans
+- career plans
+- time
+- because if I dont build my life around writing, my life  will gets reduced to nothing but writing

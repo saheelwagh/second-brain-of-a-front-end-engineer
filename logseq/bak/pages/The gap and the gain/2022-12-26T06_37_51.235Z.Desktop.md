@@ -1,0 +1,86 @@
+- gap -> measure of ideral
+- gain -> related to starting point
+- ![image.png](../assets/image_1654960326544_0.png)
+- get off the gap treadmill
+- be in the gain for others
+- part 1 get out of the gap
+  collapsed:: true
+	- embrace the freedom of wants, and get rid of attachments of needs
+	- dan jansen story
+		- winning olympic gold in last race
+	- my 6 months in the gain
+		- example of my unhealthy needs
+	- exercise 1
+	  collapsed:: true
+		- what do I feel I need to be happy
+		- who or what do I measure my progress against ?
+		- when is a time in life whewre I made something or someone into a need and thus created an unhealthy gap in life ?
+	- Obsessive vs harmonious passion
+		- ex 2 passion
+			- in what areas obsessive passion ?
+			- what is my long game ? -> abt doing what I love
+			- do i have a long enough time table to slow down and enjoy being here ? or trying quickly to  get there ?
+			- what are the current gains >
+			- how would my priorities change if I was playing the long game ?
+	- freedom from vs freedom to
+		-
+- ch2 be self determined
+  collapsed:: true
+	- define ur own success criteria
+		- appreciate progress first
+		- flip => I will be successful when -> I know i'm bveing successful when
+			- list of 10 activities in [[my circle of influence]]
+	- edu sys hinders creativity and autonomy with its measurement of success
+	  collapsed:: true
+		- against a ref point
+		- ex 3 defining success
+			- what are ref points I measure myself against ?
+			- whyu did I choose this particular ref point ?
+			- how do I define and measure success for myself ?
+		- become self determined
+		-
+	- eliminate justification
+	- create a list of success criteria -> will it make the boat go faster ?
+		- ocean , boat digital agency
+			- compass ?
+- ch 3 compound effect of gap or gain
+  collapsed:: true
+	- mental subtraction
+		- one thing to el;iminate -> its effect on you  and others
+	- give urself 5 mins in the gap, the n move forward
+		- set up[[implementation intention]] for dealing with setbacks and distractions
+		- habit stack -> after I {gap}, I will ${gain}
+	- LATER  article on list of app ideas that can be solved by carrying a journal -> ask which want to be implemented -> advance payment
+	-
+- part 2 get into the gain
+	- ch4 always measure backwards
+		- ur brain hasd evolved to forget gains
+		- concoius competence  learning model -> out ino agencey vallues
+			- unconc icnopetence
+			- concious incomptetenbce -> udk how to do something but can see ur ignorance and lack of skills
+			- concious comeptence -> need concerntration
+			- unonc compet
+		- move towards what is growing
+		- ex 4
+			- wins from past 90 days
+			- desired wins for next 90 days
+			- where will I be in 12 months ?
+			- in 3 yrs ?
+		- compare hwer u r vs where u were
+		- specific gains -> detail out improvements. More effective
+	- ch5 measure 3 daily wins
+		- last hour of the day -> gain hour
+			- use for 6 fig freelancer
+		- Josh Watzking , chess prodigiy and author of art of learning (download)
+			- proactive day architecture
+				- designed by u rather thna bounicng around distractions
+				- hour b4 bed -> time to think abt most imp problem or question tro solve
+				- morning -> meditate nad journal abt same problem or oppo
+				- creativity is primed just post rem sleep
+				- atomic essays b4 bed
+				- read and integrate  5 am club here
+	- ch6 transform every xp into a gain
+		- flexiibility -> have redundancies
+		- create ur own meanings for bad xp
+			- value creates meaning
+		-

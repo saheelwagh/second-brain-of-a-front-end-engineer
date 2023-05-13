@@ -1,0 +1,5 @@
+- only came through after shelving of a react project
+- aim : build an agency site that can be showed to anyone (start with real estate site) for pitching projects
+- also a hub for practicing design skills weekly
+	- 50 sites in 50 weeks mission
+-

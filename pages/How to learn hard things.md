@@ -1,0 +1,13 @@
+- [video](https://www.youtube.com/watch?v=Kz_brQBl8xk&list=PLXYyE43vBNhmwUs76g4QFo7hT8v1gCVo8&index=1)
+- context broadening
+	- place in real world sense to generate curiosity
+	- anchor it to this topic
+- dopamine priming
+	- use tempt bundling
+	- generate anticipation
+- singular deep dive
+	- leave when mental blockage but keep in loop
+- challenge sandwich
+- geting broody
+- false deadlines
+	-

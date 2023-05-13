@@ -1,0 +1,27 @@
+- The Big picture
+  collapsed:: true
+	- key happiness factors
+		- list 5-8 items that affect your happiness
+	- the perfect day
+		- what type of perfect day would you want to live over and over ?
+	- 5 years
+		- In five years I will
+			- expertise in __
+			- content (metric) in __
+			- invested (weekly dollar cost avg) ___
+			- created ___ output pieces
+	- Theme of the year
+		- Most effective way of learnning to code and no code
+		- best solana dev in Goa
+	-
+- goals of the year
+	- solana goal
+		- projects
+		- concepts to learn
+- Your legacy
+	- 50% rule -> am i working for long term benefit ?
+		- 50% efforts at job and 50 towards agency ?
+- Your hourly rate
+	- how much value am I worth per hour ?
+	- https://tim.blog/lifestyle-costing/
+	-

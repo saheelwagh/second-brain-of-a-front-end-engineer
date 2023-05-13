@@ -1,0 +1,39 @@
+- LATER read through old issues of tww3, decode parts, define weekly jobs by backcasting. spearate knowns and unknoiwns
+  collapsed:: true
+	- reading sprint 1
+		- sections
+			- crypto news -> scour twitter
+			-
+- define expectations and why breaking into web3 with space
+- ui ux study of lw3 and give link to the built project
+- "publish" 3 issues til friday and mail on friday eve.
+- Details on Spacekayak
+  collapsed:: true
+	- We are a Web3 native creative studio for early-stage companies
+	- focused on solving system-wide problems like
+		- doing foundational research (on-chain),
+		- brand, and product design,
+		- and setting up scalable design practices.
+	- values
+		- potential, passion, perseverance
+		- high-agency
+	- scope in podcasting
+		- offer to restart
+	- https://www.theproduct.house/web3-job-role/coinsprout
+	- format
+		- intro + outro
+		- 3 main stories 1k words total
+		- ad
+		- roundup section with summary
+- include devfolio profile link
+- Send an email to [**contact@coinsprout.com**](mailto:contact@coinsprout.com?subject=Newsletter%20Writer%20at%20Coinsprout%20on%20Cryptocurrency%20Jobs) with the subject line “Newsletter Writer” and follow these instructions:
+- Tell us a little bit about yourself
+- Attach your resume
+- Provide some writing samples
+- https://www.theproduct.house/web3-job-role/pandora-finance-product-designer
+- https://pandora-people.freshteam.com/jobs
+- Approach Outcome : 3 letters. Also document everything maintaining annonymity
+	- dissect the issues into sections and map it
+	- prepare a list of sources and additons needed
+	- create system for daily and weekly publishing
+-

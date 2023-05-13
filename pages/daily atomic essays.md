@@ -1,0 +1,5 @@
+- stop comparing wrt job
+	- friend geting is happy not src of lack based compariosn
+	- state need and how much is needed.
+	- will figure out how to bring it
+	-

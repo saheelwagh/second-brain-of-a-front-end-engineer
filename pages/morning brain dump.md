@@ -1,0 +1,13 @@
+- [[morning brain dump 4 oct]]
+- oct 5
+  collapsed:: true
+	- journaling for 20 mins looks tiny but is a big endeavour when you look at it
+	- a major problem with it and anything else you want oto do is that ibn he moment somehting else feels berrter and this resistance builds up to move to something other task
+	- simba
+	- misssing matchday ended up being good
+	- if
+- browsing summary
+	- https://newsletter.theindianotes.com/ use such built for india resources to become a bette rux designer and product manager
+	- becoming an insurance agent to become a better marketer ?
+	- https://typefully.com/profile to use in twitter
+	-

@@ -1,0 +1,26 @@
+- udemy
+  collapsed:: true
+	- write (explainer to mukesh)
+		- concepts
+		- component arch
+			- ex of common site
+		- one way data flow
+		- Uil ibrary . routing , next js
+	- revise
+		- setState and shallow merge
+		- renders and re renders in react
+		- fnl comp re rendering
+	- build
+		- capstone project
+		- routing
+		- auth + firebase
+		- react context  for state management
+		- observer pattern
+		- firebase storage
+		- reducers
+		- redux
+- blockers
+	- no demo -> build minimal steps. prepare steps
+	- demo app -> offer to walk through the process of building this one instead
+		- theme > embracing limitations
+	-

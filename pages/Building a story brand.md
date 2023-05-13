@@ -1,2 +1,3 @@
-- LATER download this book
+- DONE download this book
+- ![Building a Second Brain (Tiago Forte) (z-lib.org).pdf](../assets/Building_a_Second_Brain_(Tiago_Forte)_(z-lib.org)_1665332143207_0.pdf)
 -

@@ -1,0 +1,12 @@
+- [[front end engineering with react js ecosystem]]
+- [[web3 ecosystem using solana and rust]]
+- [[mastering css using tailwind css and animations using webflow]]
+- [[daily study of design using moodboards and inspiration lists]]
+- [[learning business through running an agency and productizing its services]]
+- [[learn cooking and related relaxing activities]]
+- [[learn negotiation through daily conversations]]
+- [[daily writing Bi weekly podcast weekly video]]
+- [[delegate illustration and editing]]
+- [[produce courses around programming and coding]]
+- [[effective workout and diet + sleep]]
+-

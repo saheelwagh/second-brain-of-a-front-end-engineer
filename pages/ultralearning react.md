@@ -1,0 +1,22 @@
+- why
+- what
+- how
+- roadmaps show the how but dont show why you need to learn it or what to apply it (in terms of real world)
+- [[How to learn react]]
+- topic covered in udemy course
+	- routing
+	- auth
+	- context
+	- observer pattern
+	- firebase database
+	- css in js styled comp
+	- reducers
+	- redux
+	- redux persist
+	- devtools
+	- async redux
+		- thunk
+		- saga
+	- serverless
+	- typescript
+	-

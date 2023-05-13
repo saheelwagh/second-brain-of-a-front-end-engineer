@@ -1,0 +1,12 @@
+- flash cards dont show thought process
+- step 1 -> create a list of imp topics
+- 2 outline the terms
+	- main topics and sub topics
+- plot the main concepts on the page
+- thought process -> how do they fit together ?
+	- for ex -> kidney diseasses work on time spectrum
+- find the relationships
+	- ex in this , location of disease
+- be expressive
+- efficient for review
+-

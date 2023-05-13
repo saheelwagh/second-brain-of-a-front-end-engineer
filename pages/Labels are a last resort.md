@@ -1,0 +1,11 @@
+- When presenting data to the user (especially data from the database), it's easy to fall into the trap of displaying it using a naive *label: value* format.
+  id:: 63940e83-ca52-40b0-90a2-352bb01890a4
+- In a lot of situations, you can tell what a piece of data is just by looking at the format.
+	- For example, *janedoe@example.com* is an email address, *(555) 765-4321* is a phone number and *$19.99* is a price.
+- When you're able to present data without labels, it's much easier to emphasize important or identifying information, making the interface easier to use while at the same time making it feel more "designed".
+- when must In these situations, add the label, but treat it as supporting content. The data itself is what matters, the label is just there for clarity.
+	- ![](https://www.refactoringui.com/img/previews/labels-are-a-last-resort-05.png)
+	- utilise this for cards
+- when to emphasize
+	- If a user is trying to find out what modem is in a laptop, they're probably scanning the page for the words "Modem", "WiFi" or "Wireless", not "Qualcomm" or "Intel".
+	-

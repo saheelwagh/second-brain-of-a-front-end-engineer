@@ -9,28 +9,44 @@ title:: The developer's code. What real programmers do
 - who is the 21st century programmer ?
 	- noncredited everything and rtedfefimed everyday
 - Metaphor
-  collapsed:: true
 	- how we make sense of what we do by equating with more matured industries
 	- follow meta with care
 	- plan enough, then build
 	  collapsed:: true
 		- the plan (artchitect) metaphor overvalues the time we spend trying to perfect everything
+		- In traditionalarchitecture,planningis essential.Certainthings unequivocally have to happen before others. Studsgoinbeforeplumbing.Plumbingisinstalledbeforethewalls.Thewallshavetobetherebeforethepaint.Undo,Cut,orRevertaren’tviableoptionswhenbuildingaskyscraper
+		- ThesoftwareUndoisCTRL+Z.ThesoftwareCutisCTRL+X.ThesoftwareRevertisacoderollbackinsourcecontrol.
+		- Withouttheluxuryoftheseverysimpleyetpowerfulges-tures, buildingsrequire very detailed specifications.Onefootshortisthedifferencebetweenaprofitablepieceofrealestateandacatastrophicfront-pageheadline.
+		- insert twin tower gif here
+		- these are the luxuries we are afforded
+		- insert indian mom analogy of fear of breaking things
 		-
 		-
 	- keep coding, it is where you are the most valuable
 	- diversification over specialization
-	  collapsed:: true
-		-
+		- many concepts transcend langauges
+			- mvc
+			- design patterns
+		- All too often I hear a programmerinstantlydenounceeventhepossibilitythatshecouldalsobeagreatvisual designer. Conceptually, designinguser interfacesisnot that far off the map from designinga sound softwarearchitecture.Great, functionalUIs are about clear affor-dances, organization,scalability, and intention.They havemanyofthesamequalitieswecherishinsoftwaredesign.
+		- The reverse is also true. Too few talenteduser interfacedesignersconsiderthemselves capable of becominggreatprogrammers.Perhapsprogrammerslookatuserinterfacedesign as making things “pretty”and designerslook atprogrammingas writing a lot of “technicalstuff.” Mean-while,theyhavesomuchmoreincommonthanthat.
+		- my thoughts as a freelance developer
+	- better metaphors
+		- SIMIlarities with writing a novel
+			- an author outlines a chapter to get gen guise to write avt
+			- then write then edit
+			-
 - programmer motivation
   collapsed:: true
 	- unmotivated devs kill software projects
 		- the perks are in the work
 		- choose a company where
+		  collapsed:: true
 			- more impassioned employees
 			- more interesting problems
 		- begin where where you love to begin
-		  collapsed:: true
+			- Sometimesthehardestplacetofindmotivationisattheverystart.Thinkingaboutcodeiseasy.Softwarealwayscompilesperfectlyinourheads.Wedon’tobsessoverthehundredsof minor obstacleswe’ll face along the way. But once wecommit to actually writing code, the entire game changes.Motivationcanfadequickly.
 			- the experience of  writing software is not too different from writing a book
+			  collapsed:: true
 				- spent more time abt what want to write than actually writing
 				- soul sucking game of unispired lines, mental blocks and fatigue
 				- Natalie Goldberg’s [[Writing Down the Bones]] [ Gol05]  is an entire book on motivation for writers.
@@ -49,17 +65,21 @@ title:: The developer's code. What real programmers do
 							- 3 days of solid work helps generate a realistic timeline
 							-
 						-
+			- put together a timeline realistic only after having a bit of inspired work under your belt
+			-
 		- Be Imperfect
 		- stop programming
 			- 2 hours of quality prog is better than 8 hours of struggle
+			-
 		- test your work the first thing in the morning
 			- day -> steam lost for testing
 			- fatigue makes miss details
+			- on waking up, mental cobwebs are gone. thus best time to review the big picture
+			-
 			- wjen testing retrace the flow again
 		- work outside the bedroom
 			-
 - programmer productivity
-  collapsed:: true
 	- just say no to pet projects
 	  collapsed:: true
 		- pet projects  fails when therew are no time constaints and nothing is on the line if we do not succeed
@@ -100,6 +120,7 @@ title:: The developer's code. What real programmers do
 		-
 		-
 - pride
+  collapsed:: true
 	- construt work -> law trouble at some stage
 	- when really into coding
 	  collapsed:: true
@@ -133,6 +154,7 @@ title:: The developer's code. What real programmers do
 		- devoid of abstractions
 		-
 - clients
+  collapsed:: true
 	- software minus clients => hobby
 	- demystify the black magic of software
 		- prog -> organize=s of logic and data
@@ -145,6 +167,10 @@ title:: The developer's code. What real programmers do
 			- installation of hvac
 		-
 		-
+-
+-
+-
+-
 -
 -
 -

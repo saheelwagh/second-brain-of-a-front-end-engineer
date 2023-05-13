@@ -7,6 +7,8 @@
 		- scarce
 		- considered most valuable
 		- we work to get them
+		- [[time and money similarity]]
+		-
 	- we seem to have to choose bw them, constangtly
 	- phd interst -> spend years becoming years becoming an expert on new ideas with very little financial reward -> trading money for time
 	- such dec are trivial buyt affect everyone
@@ -42,11 +44,16 @@
 - [[Time traps and time proverty epidemic]]
 - [[the long view]]
 - chapter 4 toolkit
+  collapsed:: true
 	- major life milestone worksheet
 		- In the leftmost column of the table below, list the major events in your life, especially ones involving money, such as choosing a job, choosing where to live, getting married, moving in with someone, having a child, buying a puppy, or taking care of a family member
 		- After you have thought about the time costs, consider how you might offset  some  of  these  costs—either  by  making  a  diff  erent  decision  or  by  increasing your focus on time-smart strategies such as funding time, find-ing time, and reframing time. Write those strategies in the last column.
 		- dec | est. t cost | offset strategies
 		-
 		-
-- Coclusion : Time in the future
+- ch3 time affluence habit
 	-
+- Conclusion : Time in the future
+  collapsed:: true
+	-
+-

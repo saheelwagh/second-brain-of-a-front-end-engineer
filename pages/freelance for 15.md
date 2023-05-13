@@ -1,0 +1,20 @@
+- Day one : Get shit done
+  collapsed:: true
+	- By shit I mean the shittiest version of work that you can produce
+	- Because getting shit done is anyday better than getting nothing done and feeling stuck
+	- freelance  has something common with soemething different yet something relatable
+		- LATER article on diwar and freelancing
+		- free -> lancing -> freedom to choose your direction
+		- common with exploring
+		- best explorers -> thos who had a sense of where they were going and those who could navigate
+		- also interpersonal skills
+	- what hppens when you mine ? u have to dig through a lot of soil
+		- compare pecentage of ore at surface vs at depth. call suraj if neeeded
+	- good work has similar theme. You have to dig through a lot of bad work to mine the good shit
+	- today I woke up as usual, dreading failure and did not get out of bed till deadline
+	- this deadline was set bny me as I told coworker to turn up even if I do not reply
+	- we struggled through tailwindcss only to realise file was placed in the wrong folder
+	- the process itself causes c change in your mental model. You stip blaming the external and examine your thinking process to fix things
+	- it gives you a confidence for more good work ahead
+	- you need to present yourself more.
+-

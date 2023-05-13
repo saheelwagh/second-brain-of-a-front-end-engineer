@@ -1,0 +1,25 @@
+- https://www.learnweb3.info/
+	- clone this [curation](https://www.learnweb3.info/learn-web3)
+- https://remote3.co/workers
+- https://remote3.co/web3-jobs
+- content writing gigs
+  collapsed:: true
+	- https://remote3.co/remote-jobs/technical-writer-evm-chains-quicknode
+		- how to keep up with latest developments ?
+	- https://remote3.co/remote-jobs/technical-writer-solana-quicknode
+	-
+	-
+	-
+- https://web-3.pallet.com/jobs/1c55cabe-cae9-49b4-b0aa-d5d06b724c90 -> redesign and pitch as design agency subscription (7l -12l )
+- fixing my remote work in 15 days
+- good idea to clone for [job app](https://airtable.com/shrTwne1nNM2bJDsT)
+- https://web-3.pallet.com/jobs
+- https://web3.career/blockchain-technical-writer-intern-fully-remote-breederdao/29894 (16-35l)
+	- dao and its code related brakdown
+	- Strong working knowledge of Microsoft Office or G Suite
+- https://web3.career/
+  id:: 62a603d3-a2de-4fd6-88b9-45558547975f
+- • Basic understanding of DeFi applications • Familiarity in writing unit-based tests for smart contracts
+- https://huntd.tech/?ref=producthunt
+	- sign up and check out
+	-

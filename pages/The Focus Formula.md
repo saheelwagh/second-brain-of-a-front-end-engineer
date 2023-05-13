@@ -1,0 +1,38 @@
+- Holon : unit of everything
+	- it is a part as well as a whole like an atom->molecule
+	- unit of thought -> building block of creativity
+	- can be abstract -> ideas, emotions
+- when you struggle in a life domain, it is becasue your persp does not include the holons that would make it a whole
+- holons have a hierarhy of 2 types
+  collapsed:: true
+	- dominator
+		- like a pyramid scheme
+	- natural
+		- particles to atoms to cells to organisms, or letters to words to sentences to paragraphs
+		- also societal structures like a corp company
+		- You “climb” the ladder through hard work, but rarely will you reach the top. If there are 1000 people at the bottom and 10 at the top, there is only room for so many people to get to the top, obviously.
+		- The people at the bottom of societal pyramid schemes are not investing money, **they’re investing attention.**
+		-
+- the focus formula
+	- purpose -> north star
+		- u dont have one throughout
+		- they come in stages from shallow to deep
+			- my story : purposes throuhgout decade
+		- what is your minimum viable purpose ?
+	- process
+		- What is the process that will allow you to achieve that goal?
+		- Every stage of purpose will have its own set of lever-moving actions to polish off your process.
+		- case study : business
+			- beg -> learn fundamentals and makle content, form connections
+			- intermed -> build a product and montizes
+			- expert -> repupose your best work, diversify
+	- priority
+	- chaleenege
+		- Your personal actualization hierarchy – purpose, process, and priority – should be challenging.
+		- Challenge narrows attention further. This helps eliminate distractions from taking you off the path.
+	- alignment
+		- The top pyramid – purpose, process, priority – creates a potential reality for you to create through your daily choices.
+		- The bottom pyramid – consciousness, challenge, and clarity – create an ever increasing order in your mind.
+		- When these align, you create a neurochemical cocktail that continues circulating in your brain. It becomes much easier to live in some degree of a flow state, with your focus on the future and little to sway you from the path
+		- this cocktail is created through attention
+		-

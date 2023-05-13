@@ -1,0 +1,22 @@
+- rust gives both
+	- low level with safety
+- https://github.com/jayson-lennon/ztm-rust
+- How can generalists niche down ?
+  collapsed:: true
+	- If you’re a generalist, one of the things you enjoy in life is learning, thinking, and discovering new things. You’re constantly on a quest to understand how the world works. You love jotting things down, taking notes, and playing with ideas. This is the joy of curiosity at its peak.
+	- But on the flip side, boredom is never far. Once you find what you’ve been looking for, you don’t feel excited about “digging” deeper
+	- Become a selfish altruist
+		- If you want it or not, people will put you in a specific box. So the best thing you could do for your marketing is to give them the box you want them to put you in.
+		- Picking your niche is a cross point between your interests and what the market is willing to pay for. (Sounds barbarian, but yes… if you want to make a living out of your work, you need to embrace the business side of things, too.)
+		- Variable number 1: Embracing your curiosity. People like us have a strong need for meaning and self-accomplishment. Strip that away, and you’re on a highway to living a nightmare. In order to get this part of the equation right, you need to be selfish. Listen to yourself. Listen to what you enjoy.
+		- Variable Number 2: Understanding the market. You can only have a business and make a living as a writer if there’s a market for what you have to say. In other terms, you have to be altruist enough to learn what problems your general knowledge can solve.
+		-
+- business fonts
+  collapsed:: true
+	- https://www.shopify.com/ph/blog/the-best-fonts-for-business-websites
+	- https://xd.adobe.com/ideas/principles/web-design/best-modern-fonts-for-websites/#:~:text=Open%20Sans%20is%20a%20highly,value%20quality%20control%20and%20reliability.
+	- https://www.canva.com/learn/best-professional-fonts-use-website/
+	-
+- [icons](https://thenounproject.com/search/icons/?iconspage=1&q=hydrant)
+- ux case study [otter transcriber](https://otter.ai/pricing)
+-

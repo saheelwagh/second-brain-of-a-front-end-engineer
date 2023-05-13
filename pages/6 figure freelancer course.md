@@ -287,7 +287,6 @@
 		- how is the business doing ? social ? traffic ?
 		-
 - finances
-  collapsed:: true
 	- separate your bank account
 		- change your mindset -> you are running a business
 		- easier tracking of revenue or expenses
@@ -296,30 +295,33 @@
 		- helps you avoid dipping into home savings
 		- sets you up for growth -> delegation for handling
 	- becoming profitable
-	  collapsed:: true
 		- => more money beyond your fixed salary
 		- busines => risky : profit -> mitigation
 		- 2 goals
+		  collapsed:: true
 			- buffer for rainy days
 			- bonus for you
 		- how your cashflow should look
+		  collapsed:: true
 			- 50% owner's pay
 			- 30% operating expense
 			- 15% ? tax
 			- 5% profit
 		- asseess where you are right now
+		  collapsed:: true
 			- what fixed salary u pulling >
 				- avg of 3 weakest months
 			- what ur costs ?
 		- start allocating cash for profits even if 1% at first
 		- pull profits money out of account as soon as you have money
 		- split profit into 2
+		  collapsed:: true
 			- rainy fund or investment and fun money
-		-
 	- assesing risk
 		- list down everything bad that can happen within your business and the world
 		- rank based on impact + chance
 			- how to reduce the impact of the top ?
+	- setting up ur accounting docs
 		-
 - operations and management
   collapsed:: true
@@ -361,6 +363,7 @@
 	- you need to know thta your plan is being implemented properly
 	-
 - Branding
+  collapsed:: true
 	- project as freelancer or agency ?
 	  collapsed:: true
 		- depends on who your client is
@@ -386,3 +389,16 @@
 			- niche imagery
 		- make your messaging (frm last week consistent across all platforms)
 		-
+- freelance or agency ?
+  collapsed:: true
+	- depends on who ur clients are
+	- trust vs agility
+	- cat -> black or whit  till it catches mice
+	- how to research competition
+		- google -> target company website design
+		- who's got this website or brand on their portfolio ?
+		- make a weekend project -> single landing project
+			- use USP
+			- dont try to do too much
+			- clear + credible
+			-

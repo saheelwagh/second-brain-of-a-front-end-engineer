@@ -1,0 +1,9 @@
+- https://eattheblocks.com/web3-mentoring-program?utm_video=lSERHqIzy9I&%3Futm_src=youtube
+	- https://eattheblocks.com/courses/polygon-development
+	- https://eattheblocks.com/posts/the-ultimate-solidity-0-8-cheatsheet
+	- https://eattheblocks.com/courses/6-figure-blockchain-developer
+	- https://eattheblocks.com/courses/defi-development-mastery
+- web3dao
+- alchemy resources
+- road to web3
+	-

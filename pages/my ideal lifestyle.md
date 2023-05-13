@@ -1,0 +1,27 @@
+- Web3 developer
+	- salary : 50k
+	- workday :
+		- learn : theory of web3
+		- work :write web3 connections, solidity or rust code, write solidity smart contract audits
+		- write : web3 content
+	- positive : possibly highest payoff, challenging work, great community
+	- negatives
+		- i dont know anything of rust or solidity and rn not in the position to dive fully into it
+		- ecosystem is still changing fast. there could still be ways of becoming a superstar
+		- work so far seen is repeatative and those who move ahead have strong foundations
+- web3 dev (react + next + js)
+	- salary : 40-50k
+	- workday : js and web2 code. May be react native
+		- morning : learn advanced js concepts. and may be rust
+		- evening : learnweb3dao and also design  using figma
+		- the goal here should be to master tools such as framer motion while picking up web3 basics for 3 months. then jump into a web3 job and armed with knowledge of framer and webflow. While also training a team of designers and webflow devs.
+- webflow dev
+	- salary : nearly a lakh
+	- workday :
+		- morning : learn to code but not seniors to learn from
+		- work : hack at css and design
+		- evening : write about design and businesses
+- freelancer : current
+	- better to summarise learning and publish
+	- center around the theme that people dont accept their failure
+	-

@@ -1,0 +1,15 @@
+- build in a week ?
+- stacks
+	- remix run
+	- ts -> mandatory
+- ideas
+	- devtime
+- first order components
+  collapsed:: true
+	- facts concepts procedures
+	- maps
+	- tie to web3 learning
+	- TIL
+	- freemium
+	- flashcards
+-

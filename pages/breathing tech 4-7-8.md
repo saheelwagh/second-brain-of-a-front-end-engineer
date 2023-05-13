@@ -1,0 +1,6 @@
+- 1. Breathe in through your nose for a 4-second count.
+- 2. Hold your breath for a 7-second count.
+- 3. Exhale for an 8-second count, making a "whoosh" sound through pursed lips.
+- 4. Repeat up to four times, twice per day.
+- #health
+-

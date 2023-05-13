@@ -1,0 +1,181 @@
+- [[Digital Economics Feb Sprint]]
+-
+- Digital Economics is the result of 5+ years of iteration in freelancing, consulting, digital product sales, multiple failed brands, community building, and audience growth condensed into simple systems that have proven to get results time and time again.
+- for who
+	- Develop their personal and professional skill set
+	- Learn how to ethically persuade, influence, and sell
+	- Make a positive contribution to someone's life or business
+	- Raise their level of consciousness and knowledge surrounding topics they are passionate about
+	- Gain clarity on their purpose and life's work while harnessing the power of the internet to pull in enough money to sustain that work
+	- Build a public resume through value creation and have modern opportunities find you
+	- Learn how to create impactful content by understanding human nature and psychology
+	- Build a one-person business as a freelancer, consultant, online educator, or knowledge worker
+- who not for
+	- On the business side of things — those that are set on pursuing a hyper-focused niche for freelancing, agency work, and other things
+- what learn ?
+	- The foundational information for succeeding as a value creator
+	- The unconventional mindset that you will need to adopt to succeed in this uncertain and unpredictable line of work
+	- The relationship between your skills, interests, and expertise (and how they create an irreplaceable brand)
+	- A breakdown of the skills, terms, and methods for communicating your value and putting a price tag on it
+	- The true (and only) way to make a sustainable income source with your time and creations
+	- The key to becoming someone who is taken seriously for their "original" and impactful thoughts, ideas, and work
+	- Actionable steps that you can take right now to start growing on social media, networking with high-level individuals, and making your first sale
+	- Digital Economics is a free mini-course that is available to everyone. It acts as a primer for those that plan to take the Bachelors and/or Masters degree curriculum.
+- bachelors curriculum
+	- How to create an irreplaceable personal brand based on the combination of your interests, skills, and expertise
+	- How to attract an audience — or community — of like-minded people that have similar goals, interests, and a vision for their future
+	- How to generate unlimited content ideas, articulate your thoughts, and package them up into digital assets that grow in value over time
+	- My process for creating a content ecosystem that automates trust building, promotions, and sales without gimmicks, tricks, or hacks
+	- The best way to create long, medium, and short-form content that can be distributed on all social platforms (without spending all day writing, filming, editing, or designing)
+	- How to pivot your brand, content, and products as you grow as an individual — your brand will evolve with you (as will your income)
+	- **By the end of the Bachelors curriculum, you will have clarity on the next 3 years of your brand, a growing (and monetizable) audience, and a content creation system that will separate you from the sea of other creators.**
+- masters
+	- How to package up your knowledge into a consulting, freelance, or digital product that outperforms other products on the market
+	- How to build out a sales page, email funnel, and promotion system that fits your content strategy to perfection
+	- A streamlined way of leveraging ALL of your distribution network for a potential 6 figure launch (and how to extend the "shelf life" of your products and services to keep pulling in revenue)
+	- How to turn readers into product buyers into high ticket service clients — rounding out your sales system and increasing the lifetime value of each customer
+	- The best way to promote your products and services without adding more to your daily work (and without sounding salesy, needy, or spammy)
+	- **The Masters curriculum is best suited for those that have an offer that they can't charge $5K+ for, aren't making the sales they want, or are confident in their skill set to the point where they are ready to monetize (and skip the beginner mistakes).**
+- what about xp ?
+	- Well, yes, but there are ways around that. In fact, its more beneficial to start as a beginner.
+	- A BIG part of building an audience is educating your audience to get to the point that you are at. That's what they want. They want to become a higher value individual using the methods that got you to that point.
+- becoming a creator
+	- The best thing you can do during these times is:
+		- Brain dump journal about what you are struggling with.
+		- Turn what you wrote into content (telling yourself what to do).
+		- Allow that process to help you discover the problem.
+	- prioritize clarity
+		- Make it a habit to pause, write out all of your thoughts, and organize them. **Make your mental processes *physical*.**
+	- ***Meaning if you have a deeper understanding of content and offer creation, you will stand out and make 10x more than the other creators.***
+- The effectiveness of your brand, content, and offers are a combination of 3 things:
+	- Your skills qual
+	- Your expertise unique
+	- Your curiosities moetization
+- Rather than endlessly learning and not knowing how to apply your skills — you can start applying what you learn immediately through your content, free products, and brand.
+- skil exs
+	- Copywriting (persuasive writing)
+	- Email marketing (for trust-building and sales)
+	- Sales (for closing deals and networking properly)
+	- Web design (for landing pages and a personal website)
+	- Social media growth (for sending traffic and audience building)
+	- Graphic design (for visuals and brand assets)
+	- Marketing & advertising (for getting people to act)
+- ***You learn these skills best by learning the principles, starting a real world project (a personal brand), and refining your skills with time and experience.***
+- ***You learn these skills best by learning the principles, starting a real world project (a personal brand), and refining your skills with time and experience.***
+	- Write out 2-3 of your interests (the things you LOVE talking about)
+	- Write out 2-3 options for eventual monetization (skills or interests like health or performance coaching)
+	- Think big and small — write out broader interests and skills, then write out niche interests and skill relating to the 2-3 points you wrote out already. This starts to create a web of content ideas and curiosities to pursue
+	- Keep an eye out for books, content, podcasts, and life experiences that check one of those boxes
+	- Make a note of it and create some form of content around it
+	- NOW do this exercise
+	  :LOGBOOK:
+	  CLOCK: [2022-12-09 Fri 20:08:24]
+	  CLOCK: [2022-12-09 Fri 20:08:36]
+	  :END:
+- eternal markets
+	- health
+	- wealth
+	- rels
+	- Your **method** for solving a problem within one or multiple of those verticals is how you win.
+		- I could go on and on. When someone wants to increase their income, they will use your method IF you can provide a compelling argument for it.
+- the beginners mindset
+	- One of the biggest mistakes I see creators, solopreneurs, and other online business owners make (again, pertaining to ego): -> refuse to think like beginners
+	- Here is a general, foolproof process for making a solid income:
+		- Post beginner and intermediate level content from your unique perspective (based on research and experience)
+		- Educate people and **go more in-depth** with longer-form emails, articles, and a lead magnet to raise them up Maslow's Hierarchy of Needs (THIS is where you can show how smart you are and build a deeper connection without having to worry about the algorithm).
+		- Sell a beginner level product to filter out buyers from free-loaders
+		- Again, you are educating them to the point of being a fit for your other products or services (creating your own customers in a sense).
+		- Upsell another product, membership, or freelance / consulting service to those that purchased your product.
+- **types of prod and services**
+	- Done for you
+	- Done with you
+	- Do it yourself
+- steps
+	- create a lead magnet (how many ?)
+		- This allows you to:
+			- Show your expertise
+			- Build a deeper connection
+			- Give immense value that wouldn't do well on social media (because of algorithms)
+			- Gives you content ideas to start establishing authority in your emails, articles, and short-form posts
+			- Make people aware of their problems and educate them to the point of solving them
+			- Allow you to talk about your interests more — because the lead magnet is there for those that want help on what you have expertise in
+			- Form the foundation and outline of your first Minimum Viable Offer for step 2 (building a service business)
+	- start a service business
+		- As you discover:
+		- What gets results
+		- What skills you have to learn to improve your offer
+		- What problem people are really trying to solve (that you only find by talking to these people and immersing yourself in an online environment that they hang out in)
+		- Then you can start to create your own unique system, promise better results, and increase your prices accordingly.
+		- All you need is perceived authority (brand and content) and the ability to send a DM like a normal person — which we go over in Non-Needy Networking.
+	- turn your system into a product
+		- Zoom out and focus on consistency.
+		- The one thing that will screw you up from the beginning is the NEED to make money fast.
+		- If this is the case for you, get a job.
+	- expand ur offering with complimentary products
+- distro and traffic
+	- The same thing goes for dating — if you suck at dating, there's one of two problems:
+	- *1) Your offer sucks (you don't have enough perceived value to them).*
+	- *2) Your traffic sucks (you aren't putting yourself in an environment where potential dates are).*
+	- I get 5-10 million impressions per month on Twitter *alone*.
+	- Close to triple that when you account for other platforms.
+	  (This would normally cost anywhere from $35,000 - $70,000 with paid ads.)
+	- **If you can get 10 people to buy a $27 product per day, you make 6 figures a year.**
+	- That means you need to get **400 of those 5-10 million people** a day to click on your page.
+	- If you have a ***low* 2.5% conversion rate**... you make 6 figures.
+	- Start by dominating one platform — then use your validated content, social proof, and network to grow rapidly on other platforms (and funnel your audience there).
+	- **Get in the habit of messaging 5 people a day. It can be anyone. The goal is to get used to meeting new people.**
+	- Do not overthink this, but be mindful of what kind of person you are targeting with your content.
+	- What are they going through? What did you go through at that timeframe? How did you overcome it? How can you deliver that message in a way that delivers full impact?
+- Greatest skill : persuation
+	- building blocks of persuasive argument
+		- **Sparking positive behavior change** — by working people through their levels of awareness and persuading them to fix their problems (advice only works if it is taken). This applies to content, products, and services. Behavior change is what makes people remember you for changing their life.
+		- **Getting the conversion** — Making the sale, scheduling a date, getting engagement, having your content shared, etc. There has to be an exchange of value here, a transaction.
+		- **Getting the conversion** — Making the sale, scheduling a date, getting engagement, having your content shared, etc. There has to be an exchange of value here, a transaction.
+			- 1. recoprocity
+			  2. commitment consistency ->**Getting the conversion** — Making the sale, scheduling a date, getting engagement, having your content shared, etc. There has to be an exchange of value here, a transaction.Then as they scroll through the carousel, I bring in deeper and deeper topics, eventually leading to a call to action to download something of mine and bring them deeper into my funnel.
+			  3. social proof
+			  4. liking
+			  5. authority
+			  6. scarcity
+		- LATER  finish the course
+- traffic and distribution
+  collapsed:: true
+	- u need 2 things : offer and interested topic
+	- You have to be intentional about where you are placing the offer, how it is perceived to that person, and place a heavy focus on how it impacts their life.
+	- The same thing goes for dating — if you suck at dating, there's one of two problems:
+	- *1) Your offer sucks (you don't have enough perceived value to them).*
+	- *2) Your traffic sucks (you aren't putting yourself in an environment where potential dates are).*
+- awareness and attention
+  collapsed:: true
+	- levels of awareness
+		- **Unaware:** unaware of the problem
+		- **Problem Aware:** aware that they have a problem but not sure what is causing it or how to solve it
+		- **Solution Aware:** aware that a solution exists, but are unaware of your solution (free or paid resources)
+		- **Product Aware:** aware of your free or paid solution, but either haven't implemented it or are hesitant on purchasing
+		- **Most Aware:** aware of your solution and are ready to act on it — all they need is a little push (with persuasion and influence)
+	- Your top-of-funnel content (social media platforms) should target all of the above, with levels 1-3 as the priority.
+	- Your bottom-of-funnel content (emails, lead magnets, and products) should also target all of the above, with levels 3-5 as the priority.
+	- attention is the new currency
+- accelerated learning through a project
+  collapsed:: true
+	- Life becomes more meaningful when you can connect everyday thoughts, experiences, information, and stimuli to a project.
+	- documenting ur life
+		- You are documenting your mind and consciousness when you make sense of ideas
+		- You are documenting your failures, successes, and solutions to problems in your content
+		- You are documenting systems for getting results in certain areas of life with your products
+		- You are helping guide and order consciousness others throughout all of this — especially consulting
+		- You are documenting and creating systems for yourself "behind the scenes" to produce better work and make more money
+- the 80-20
+  collapsed:: true
+	- ur brand is
+		- **YOUR vision for your future** — this is your brand mission, what are you leading your followers towards?
+		- **2-3 broad topics that you love reading and talking about** — you will consume information relating to these for idea generation and mention them in your bio to show what you talk about. *These broad topics become niche topics when you break them down into sub-categories and target a specific problem within that category.*
+		- **Your expertise** — what skills do you have (or skills that you are learning) and how are they helping you actualize your vision for the future? How do they resolve the pains of others and help them reach that vision?
+		- Again, remember levels of awareness, persuasion, the eternal markets, and the evergreen markets. How can you craft a brand message and content relating to all of those?
+	- levers of building audience
+		- **Engaging with big accounts **— respond to accounts with a large following 10-20 times per day with *your personal experience relating to the topic they posted about. ***Do not** reply by rewording what they said. Remember — pains, benefits, and transformations for a specific awareness level — that is what will make people follow you.
+		- **Networking with people you want to work with** — send 3-5 DMs per day complimenting someone you want to work with on a recent post of theirs. Follow up with them in a few days with content that you wrote using theirs as inspiration. DM it to them and tell them that they inspired what you wrote (many times they will engage with it, boosting the amount of impressions it gets).
+		- **Writing beginner-level educational content** — we need a balance of growth and authority. Target a very beginner level (and low level of awareness) problem and educated people on how to overcome it. List style posts (bullet point steps) work the best in this scenario. Then turn each of the bullet points into their own post.
+		- **Leveraging traffic through curation** — write a thread or a post and mention large accounts in it (they may engage with it). If you write a thread about fitness and go over a talking point that a large account talks about, recommend people to follow that account.
+		- **Immerse yourself in a conducive growth environment** — for the next 30 days, follow the people you aspire to be like and comment on their posts. Watch YouTube videos and only expose yourself to an echo chamber of content that you would want to create. Listen to audiobooks and podcasts on the topics you want to talk about. Read 1 book this month on something that you *may *want to be known for. This alone will fill your mind with ideas on how to grow and write.
+	-

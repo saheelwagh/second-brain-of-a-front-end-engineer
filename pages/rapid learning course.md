@@ -1,0 +1,9 @@
+- simplify  and connect
+	- break down to first principles and conncect. ex coins falling from bad as walk
+	- apply to auth and context
+- anthropomorphization
+	- applying emotions to entities
+- diagramming
+	- visualizing on paper
+- visualizing the abstract
+	-

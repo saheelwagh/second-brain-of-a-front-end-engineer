@@ -1,0 +1,7 @@
+- accounts
+	- store sol
+- sol token , lamport is fractional sol
+- public keys point to accounts on sol networks
+- json rpc api for all interactions
+- solana has its version of web3js
+-

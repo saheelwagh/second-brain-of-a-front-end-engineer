@@ -2,6 +2,7 @@ title:: Complete Web Design : from figma to webflow to freelancing
 
 - title:: Complete Web Design : from figma to webflow to freelancing
 - Steve Jobs @not including floppy disk on imac->wayne gretzky -> skate to where the puck is going
+  collapsed:: true
 	- bet on tech that is going forward
 	- [[what is webflow]]
 - limitations of webflow
@@ -43,11 +44,13 @@ title:: Complete Web Design : from figma to webflow to freelancing
 		- the center layout -> no grid but there is alignment
 		-
 - optical illusions
+  collapsed:: true
 	- sometimes same dimension objects might appear smaller bcz of less weight
 	- centred text -> floating ship, not sink -> for lighter obj. for heavier go with opp
 	- proximity -> related => close -> navs, btn desc etc
 	-
 - Part 4 working with client
+  collapsed:: true
 	- the good design process
 	  collapsed:: true
 		- usually starts with a para of email
@@ -139,6 +142,7 @@ title:: Complete Web Design : from figma to webflow to freelancing
 	- fine tuning colors
 		- hsl
 - design tricks every designer should know
+  collapsed:: true
 	- contrast
 		- color
 		- small
@@ -146,6 +150,7 @@ title:: Complete Web Design : from figma to webflow to freelancing
 		- f
 	-
 - part 2  -> practice design by beginning expertrs
+  collapsed:: true
 	- mimic method
 		- guitar -> learn by mimicking son -> ask players
 		- so that you have good habits by the time you create your own
@@ -203,7 +208,7 @@ title:: Complete Web Design : from figma to webflow to freelancing
 	- where to find fonts
 		- google fonts
 		- check out fontface.ninja
-		-
+	- [[Max 2 fonts per site rule]]
 -
 -
 - part 4 : client project from start to finish
@@ -218,3 +223,48 @@ title:: Complete Web Design : from figma to webflow to freelancing
 			  3.  Wireframe -> what is the content ?
 		- Project Brief
 			-
+- wireframing
+	- do in wireframing proj in order to use components
+	- what the wireframe file contains
+		- styles
+		  collapsed:: true
+			- typo
+			  collapsed:: true
+				- h1
+				- h2
+				- h3
+				- h4
+				- p
+				- caption
+				- link
+			- colors
+			- btn
+				- prim
+				- sec
+			- inputs
+				- normal
+				- focused
+				- error
+				- text area
+				- dropdown
+				- checkbox
+				- radio
+			-
+			-
+		- placeholders
+		  collapsed:: true
+			- vido
+			- image
+			- avtr
+			- stars
+			- phone
+			- window
+		- icons
+		-
+	- aim : use components to reduce time
+	- show the clients your thought process
+	- first sale was convincing them to hire you
+	- second
+-
+-
+-

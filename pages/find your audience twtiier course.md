@@ -1,0 +1,35 @@
+- Part 1 : The why
+  collapsed:: true
+	- main -> connect
+	- starts with u being honest
+	- audience
+		- anyone int in u ur work ur bus
+		- what it is not
+			- metric
+			- wallets
+			- willing subjs for ur expts
+	- following -< subste if aud that is actively foll u on twitter
+	- why build an audience
+		- ppl seek hosent conns and rels
+		- time of faceless brands as enedd. personal brands take over => transparency
+		- even if u have a prod, aud shd also be centered on you -> auth
+	- Your values -> what do you choose stand for ? what matters to you ?
+		- north star
+		- ex 1
+			- sel 3 core values -> 3 ways each of how u can show that val
+		- value peception
+			- what does ur  aud expect to find on twt ?
+		- ex 2 wrtie down what ur future aud care about
+	- 3 majo concepts and paradigms that are purpose enablers
+		- long term perspective
+		- playing an infiite game
+			- point -> leep playing
+			- perp -> long term
+			- mindset -> positive  sum, tode raising all the boats
+		- priotizing inputs over outputs
+	- becoming an expert
+		- exprts is earned on twitter
+		- opens doors to amazing oppos
+		- connecti with other experts
+		-
+- resume from 33

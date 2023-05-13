@@ -1,0 +1,36 @@
+- #4articles4weeks
+- #week1
+- This is a portrait of my late Uncle. When I was just a little kid he caused a big problem in our family, and I grew up having no idea what it feels to have a 'kaka' (term for paternal uncle in Indian langauges). Yet, everywhere I went, I was bombarded with the same question on hearing my surname : "Are you related to Vishnu Wagh's ?" . What made people across my state remember him so fondly, when I as a family member had no clue what he was like ? What impact did he have on people  ?
+	-  (PS : being a part of government for a few years was the least significant of them).
+- insert books pic
+	- You see he was a gifted artist. One of the rare cases where you have to use gifted and not just talented as an adjective. His work spanned across categories such as poetry, theatre, novela and he was even adept at sketching.
+	- It was his art that mesmerized them, impressed them, and for some entitled sections of the society, tore into their fabric. But the most prominent impact around him I had was from people inspired by him. Mostly peers the same age of mine, they came up to me and wished to impact the society the same way he did.
+	- He was an artist because perhaps it was something that he wanted to devote to fully. A person can only devote himself fully to something when he finds it bigger than himself. When the effects of that devotion become so enormous that he sees it as magic. I grew up with the jope that one day I shalll too find my magic. 
+- My father's side of family is stacked with creativity while my mother's side is the opposite. But it was her who pushed me to take up some creative classes. I always refused. And hence there is not a talent in me that stands out. I never found my magic. Something to be devoted to. Except for one.
+- And it came from my non pushy father's side. You see he never pushed me to anything because he believed I was capable of finding my own way. So one fine day I found a way around his laptop.
+	- I stumbled across the book Hello World!. It teaches computer programming basics in the form of a conversation between son and dad
+	- for one month I was totally focused on going through it.
+- my magic moment was acutally very simple
+- I called my brother. Made him enter his name. Printed You are a fool + x.
+	- He started crying. I felt elated , thinking it was the evil elder sibling privilege.
+	- But it was something deeper.
+	- That was my first introduction to the way code can impact people's emotions. To impact.
+- So there it was, a first step towards becoming a prodigy. A decade before Whitehat Jr sold Indian parents a dream of making their kids future millionaires with code, i was already well set on the way. In 3 years I entered college with the knowledge of advanced sofware concepts like OOP and modules, database. And I have friends with computer science degrees that still do not understand them. So only way for me should have been up. right ?
+- Turns out by then I had started accumulating some negativeness.  A lot of external as well as internal factors sent me down tumbling on a decade long downward spiral that began with me failing the most important exam in Indian education system.
+- I joined computer engineering in a confused state. Never felt connected to the academics. One big reason that kept me going was learning programming. But even that  was almost taken away. I did not get going. The sole reason was my head was not in a right place.
+- I continued my efforts as a mediocre programmer.
+	- hackathons
+	- freelance work.
+- My motive was to learn about myself.  One day I almost gave up.  It was the first big project I had undertaken. I just could not make progress, blew it.
+- I headed out at noon, sat under the hot sun, asking whether I was cut out for this. Some part of me no longer wanted me to remain a programmer.
+- My phone pinged. I could not see what it was under the bright sun. So I moved to a shade. The cool shade brought some comfort to my body but it did not compare to the comfort the phone notification gave to my mind. It was a junior asking me for career help. I rememeberd it was something I liked. Because it something that gives me immense joy. That made me realise second point, I want to code so that I can guide others.
+- Covid was hard. Everyone was confined in their houses for extended periods. except that was my normal life
+	- insert meme
+	- there was one consistent outlet for me. Conversations held over text. A secret about me. I write letters. These not only helped me express to others but also helped me understand myself better.
+	- One fine day i consolidated my efforts and produced a blog post.
+	- One consistent theme about my writing is it does not escape if there is no coding
+	- it is a creative pursuit for me but right now it is fully dependent on me growing through coding.
+- So there it is. My first reason was chasing magic. My second reason is chasing logic and finding my own answers. I've rediscovered my magic, my drive and I am excited to see where it goes.
+-
+-
+- blend of creativity and skills.
